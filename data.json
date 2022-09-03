@@ -1,0 +1,2954 @@
+[
+    {
+        "id": "Questão 1",
+        "question": "Antes de liderar a maior rebelião de escravos da Roma Antiga, o que foi Espártaco?",
+        "answer1": "R: Um gladiador",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 2",
+        "question": "Ashoka, o Grande, foi o Rei de que reino indiano antigo?",
+        "answer1": "R: Maurya",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 3",
+        "question": "Durante a Guerra de Troia, que guerreiro grego matou Heitor?",
+        "answer1": "R: Aquiles",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 4",
+        "question": "Que guerra foi lutada entre as casas britânicas de Lancaster e York pelo trono da Inglaterra?",
+        "answer1": "R: As Guerras das Rosas",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 5",
+        "question": "Qual é o comprimento de uma maratona em quilômetros?",
+        "answer1": "R: 40 km",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 6",
+        "question": "Poe que traços vantajosos são mais prováveis de serem passados aos descendentes?",
+        "answer1": "R: Pois são mais prováveis de sobreviver e se reproduzir",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 7",
+        "question": "Que planeta no sistema solar gira mais rápido?",
+        "answer1": "R: Júpiter",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 8",
+        "question": "Para que são usados os Livros de Alianças?",
+        "answer1": "R: Para atualizar o castelo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 9",
+        "question": "Qual dos seguintes comandantes é excelente em atacar cidades inimigas?",
+        "answer1": "R: Júlio César",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 10",
+        "question": "Quem elaborou a ideia do Cavalo de Troia? Quem venceu a Guerra de Troia?",
+        "answer1": "R: Odisseu; Os gregos",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 11",
+        "question": "Que parte do cérebro o álcool afetará?",
+        "answer1": "R: O cerebelo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 12",
+        "question": "Qual dos seguintes descreve um monoteísta?",
+        "answer1": "R: Alguém que adora 1 deus",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 13",
+        "question": "Qual dos seguintes não é um objetivo da mitologia grega?",
+        "answer1": "R: Oferecer um caminho para a salvação",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 14",
+        "question": "Óculos são compostos de quartzo, areia e o quê?",
+        "answer1": "R: Petróleo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 15",
+        "question": "Qual dos seguintes foi elogiado pelos seus conterrâneos como melhor e mais honesto da Grécia Antiga dos representantes democráticos?",
+        "answer1": "R: Péricles",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 16",
+        "question": "Os ventos em forma de cone dos tornados são notáveis por fazer o quê?",
+        "answer1": "R: Girar",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 17",
+        "question": "Quem fundou o Reino de Astúrias?",
+        "answer1": "R: Pelágio",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 18",
+        "question": "Na história russa, que apelido recebeu o primeiro Tzar pela sua tirania?",
+        "answer1": "R: Ivan, o Terrível",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 19",
+        "question": "Qual dos seguintes é um termo para um material valioso de origem geológica que pode ser extraído da terra?",
+        "answer1": "R: Recursos naturais",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 20",
+        "question": "Que comandante foi conhecido como Rosa Céltica?",
+        "answer1": "R: Boudica",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 21",
+        "question": "Com quem Minamoto no Yoshitsune levantou um exército para lutar contra Taira no Kiyomori?",
+        "answer1": "R: Minamoto no Yoritomo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 22",
+        "question": "Qual é reconhecido pelo Livro Guinness de Recordes como tendo a maior circulação cumulativa de quadrinho de autor único?",
+        "answer1": "R: One Piece",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 23",
+        "question": "Qual é o apelido de Júlio Cesar?",
+        "answer1": "R: O Rei sem coroa",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 24",
+        "question": "Que civilização foi a primeira a ter banheiros públicos?",
+        "answer1": "R: Roma Antiga",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 25",
+        "question": "Qual dos seguintes NÃO dá Créditos Individuais?",
+        "answer1": "R: Dar recursos aos aliados",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 26",
+        "question": "Qual das seguintes NÃO é uma das habilidades de El Cid?",
+        "answer1": "R: Cavalaria",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 27",
+        "question": "Qual dos seguintes NÃO dá EXP dos Comandantes?",
+        "answer1": "R: Atacar outros jogadores",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 28",
+        "question": "Quanto mais variação genética uma população tiver, mais provável é que alguns indivíduos farão o quê?",
+        "answer1": "R: Sobreviver",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 29",
+        "question": "Qual dos seguintes comandantes foi parte da Batalha dos Desfiladeiros Vermelhos?",
+        "answer1": "R: Cao Cao",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 30",
+        "question": "Na mitologia nórdica, quem brandiu a arma Gungnir?",
+        "answer1": "R: Odin",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 31",
+        "question": "Qual dos seguintes recursos não pode ser encontrado nos seus jeans?",
+        "answer1": "R: Chumbo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 32",
+        "question": "Quem matou Heitor e como Aquiles morre?",
+        "answer1": "R: Aquiles; Flecha no calcanhar",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 33",
+        "question": "Que comandante tem o apelido de Hidromel da Morte?",
+        "answer1": "R: Sárka",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 34",
+        "question": "Que físico grego antigo descobriu famosamente o conceito de empuxo enquanto tomava um banho?",
+        "answer1": "R: Arquimedes",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 35",
+        "question": "Quando Aquiles se recursou a lutar, Pátroclo coloca a armadura de Aquiles, luta contra os troianos, e morre. Quem matou Pátroclo?",
+        "answer1": "R: Heitor",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 36",
+        "question": "Quais desses dois foram criados por Leonardo da Vinci?",
+        "answer1": "R: A Última Ceia, Mona Lisa",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 37",
+        "question": "Qual desses é usado para reunir tropas da Aliança?",
+        "answer1": "R: Castelo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 38",
+        "question": "Que comandante é conhecido como Barba Roxa?",
+        "answer1": "R: Frederico I",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 39",
+        "question": "A economia egípcia foi principalmente baseada em quê?",
+        "answer1": "R: Agricultura",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 40",
+        "question": "Qual das seguintes NÃO é uma das habilidades passivas de Pelágio?",
+        "answer1": "R: Carregar",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 41",
+        "question": "Qual é o nome do fenômeno pelo qual os organismos que são melhor adaptados ao ambiente sobrevivem para passar os seus traços aos seus descendentes?",
+        "answer1": "R: Seleção natural",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 42",
+        "question": "Que tipo de unidade é mais forte contra a infantaria?",
+        "answer1": "R: Arquearia",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 43",
+        "question": "Q.As duas capitais da Áustria-Hungria eram Budapeste e que outra cidade?",
+        "answer1": "R: Viena",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 44",
+        "question": "Q.Que cidade recebeu as Olimpíadas de 2000?",
+        "answer1": "R: Sydney",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 45",
+        "question": "Q.Que tipo de unidade é mais forte que a cavalaria?",
+        "answer1": "R: Infantaria",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 46",
+        "question": "O experimento da Torre de Pisa Inclinada de Galileu derrubou uma teoria de que cientista grego antigo?",
+        "answer1": "R: Aristóteles",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 47",
+        "question": "Qual dos seguintes não é uma característica da arte renascentista?",
+        "answer1": "R: Plano\/Bidimensional",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 48",
+        "question": "Dos 12 animais do Zodíaco Chinês, qual vem primeiro?",
+        "answer1": "R: Rato",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 49",
+        "question": "Durante a Renascença, por que Florença foi significante?",
+        "answer1": "R: Local de nascimento e símbolo da Renascença",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 50",
+        "question": "Que cidade-estado da Grécia Antiga era conhecida pelo seu treinamento militar brutal e bravura?",
+        "answer1": "R: Esparta",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 51",
+        "question": "Qual dos seguintes não é um motivo pelos quais a Renascença começou na Itália?",
+        "answer1": "R: A Peste Negra não atingiu a Itália por causa dos Alpes",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 52",
+        "question": "A Renascença foi um \"renascimento\" de quê?",
+        "answer1": "R: Cultura clássica",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 53",
+        "question": "Que comandante tem o apelido de Pai da Conquista?",
+        "answer1": "R: Baybars",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 54",
+        "question": "Que comandante é conhecido como Senhor da Guerra da Kamakura?",
+        "answer1": "R: Minamoto no Yoshitune",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 55",
+        "question": "Que bebida foi inventada pelo farmacêutico americano John Pemberton?",
+        "answer1": "R: Coca-cola",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 56",
+        "question": "Para que são usadas Flechas de Resistência?",
+        "answer1": "R: Para atualizar a Torre de Vigia",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 57",
+        "question": "Qual das sete maravilhas do mundo foi criada para curar a saudade da Rainha da Babilônia?",
+        "answer1": "R: Os Jardins Suspensos",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 58",
+        "question": "Que ditado de 4 palavras era seguindo por Oda Nobunaga?",
+        "answer1": "R: Governe com força absoluta",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 59",
+        "question": "Mutações são uma mudança de quê?",
+        "answer1": "R: DNA",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 60",
+        "question": "O Império Mughal levou o islã para onde?",
+        "answer1": "R: Maioria da Índia",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 61",
+        "question": "Que tipo de desastre natural é medido usando a escala Richter?",
+        "answer1": "R: Terremoto",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 62",
+        "question": "O Papai Noel viaja num trenó puxado por que animais?",
+        "answer1": "R: Renas",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 63",
+        "question": "Qual dos seguintes comandantes foi parte da Guerra dos Cem Anos?",
+        "answer1": "R: Joana D'Arc",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 64",
+        "question": "Qual dos seguintes NÃO pode ser encontrado num baú prateado na taberna?",
+        "answer1": "R: Tomo da Sabedoria Nv. 3",
+        "answer2": "R: Tomo do Conhecimento Nv. 3"
+    },
+    {
+        "id": "Questão 65",
+        "question": "Que parte do corpo humano contém mais água?",
+        "answer1": "R: Globos oculares",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 66",
+        "question": "Quem escreveu a arte da guerra?",
+        "answer1": "R: Sun tzu",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 67",
+        "question": "Quem fundou o reino de Astúrias?",
+        "answer1": "R: Pelágio",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 68",
+        "question": "Quem é o Rei do Reino?",
+        "answer1": "R: O líder da Aliança que conquistar o Templo Perdido",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 69",
+        "question": "Que comandante é conhecido como o Conquistador do Caos?",
+        "answer1": "R: Cao Cao",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 70",
+        "question": "O famoso arqueólogo dinamarquês Christian Jurgensen Thomsen propôs o sistema de \"Três idades\" para categorizar a história antiga. Qual é a primeira etapa?",
+        "answer1": "R: Idade da Pedra",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 71",
+        "question": "A França e a Alemanha eram ambas partes de que reino feudal?",
+        "answer1": "R: Francia",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 72",
+        "question": "Que Imperador Romano foi nomeado de Augusto depois de terminar uma guerra civil?",
+        "answer1": "R: Gaius Octavius",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 73",
+        "question": "Qual dos seguintes representa o Anel Olímpico verde?",
+        "answer1": "R: Oceania",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 74",
+        "question": "Quem é considerado o \"Pai dos Jogos Olímpicos Modernos\"?",
+        "answer1": "R: Pierre de Coubertin",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 75",
+        "question": "O que ofereceu maior suporte econômico para a Renascença?",
+        "answer1": "R: Patronos ricos",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 76",
+        "question": "Mutações são importantes, pois trazem o quê?",
+        "answer1": "R: Variação genética necessária para uma população evoluir",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 77",
+        "question": "Os Três Reis da Coreia foram Baeke, Silla e ... ?",
+        "answer1": "R: Goguryeo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 78",
+        "question": "Qual desses foi o único comandante a derrotar Cyrus, O Grande, em batalha?",
+        "answer1": "R: Tomyris",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 79",
+        "question": "Sob circunstâncias normais, que camada do sol podemos ver a olho nu?",
+        "answer1": "R: Fotosfera",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 80",
+        "question": "Quem pintou a Mona Lisa?",
+        "answer1": "R: Leonardo da Vinci",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 81",
+        "question": "Qual dessas é uma fase no evento \"O Governador Mais Poderoso\"?",
+        "answer1": "R: Eliminação do Inimigo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 82",
+        "question": "Que comandante demonstrou sua genialidade militar na Batalha de Poitiers no século VIII?",
+        "answer1": "R: Carlos Martel",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 83",
+        "question": "Os egípcios fizeram papel a partir de que material?",
+        "answer1": "R: Papiro",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 84",
+        "question": "Qual é o nível mais alto da Prefeitura em RoK?",
+        "answer1": "R: 25",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 85",
+        "question": "Quem foi o imperador do Primeiro Império Francês?",
+        "answer1": "R: Napoleão Bonaparte",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 86",
+        "question": "Que grupo artístico é conhecido como um \"tesouro nacional\" do Canadá?",
+        "answer1": "R: Cirque du Soleil",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 87",
+        "question": "Que europeu escreveu o primeiro diário de viagem detalhando a história, cultura e arte da China?",
+        "answer1": "R: Marco Polo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 88",
+        "question": "Qual é o apelido do campeão Keira?",
+        "answer1": "R: O Camaleão Vermelho",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 89",
+        "question": "Onde a Renascença começou",
+        "answer1": "R: Itália",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 90",
+        "question": "Do século XIII ao XI da Era Comum, como os europeus chamavam frequentemente os invasores escandinavos que frequentemente atacavam suas terras?",
+        "answer1": "R: Vikings",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 91",
+        "question": "Qual do seguinte é um combustível fóssil líquido formado de organismos marinhos que é queimado para se obter energia e usado para fabricar plásticos?",
+        "answer1": "R: Óleo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 92",
+        "question": "Primeiramente criada na Grécia Antiga, a que profissão se aplica o Juramento de Hipócrates?",
+        "answer1": "R: Médicos",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 93",
+        "question": "Qual dos seguintes é um recursos energéticos inexaurível que baseia-se no magma quente ou em rochas quentes e secas abaixo da superfície?",
+        "answer1": "R: Energia geotérmica",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 94",
+        "question": "Que explorador português navegou do Cabo da Boa Esperança às Índias?",
+        "answer1": "R: Vasco da Gama",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 95",
+        "question": "Como é chamado o centro de um furacão?",
+        "answer1": "R: Olho",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 96",
+        "question": "Que comandante foi considerado de um inimigo de Roma desde pequeno (primeiro)?",
+        "answer1": "R: Hannibal Barca",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 97",
+        "question": "Na mitologia grega, qual era o nome do cachorro de Hades com 3 cabeças que protegia os portões do Submundo?",
+        "answer1": "R: Cérbero",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 98",
+        "question": "Que imperador emitiu a Proclamação de Milão?",
+        "answer1": "R: Constantino I",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 99",
+        "question": "Em que continente geralmente se pensa que a raça humana se originou?",
+        "answer1": "R: África",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 100",
+        "question": "Qual dos Códigos de Lei da Babilônia foi o primeiro conjunto completo de leis escritas na história registrada?",
+        "answer1": "R: O Código de Hammurabi",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 101",
+        "question": "Na Arca de Osíris, para onde você deve levar a Arca?",
+        "answer1": "R: Uma construção NÃO inimiga",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 102",
+        "question": "Quando a Declaração da Independência foi escrita?",
+        "answer1": "R: 1776",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 103",
+        "question": "Qual dos seguintes não é um recurso renovável?",
+        "answer1": "R: Água",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 104",
+        "question": "Qual dos seguintes é considerado uma fonte de energia?",
+        "answer1": "R: Petróleo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 105",
+        "question": "Que estadista proeminente serviu como o primeiro general do shogunato Edo no final do período dos Estados Beligerantes do Japão?",
+        "answer1": "R: Tokugawa leyasu",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 106",
+        "question": "Sem usar buffs, quantos Pontos de Ação um Governador pode ter?",
+        "answer1": "R: 1000",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 107",
+        "question": "O processo de dividir átomos é conhecido como o quê?",
+        "answer1": "R: Fissão",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 108",
+        "question": "Que país não está na Europa?",
+        "answer1": "R: Egito",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 109",
+        "question": "De onde vêm as adaptações?",
+        "answer1": "R: Tanto de mutações quanto de recombinação genética",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 110",
+        "question": "As Guerras Púnicas foram lutadas pela Antiga Roma e que outro império antigo?",
+        "answer1": "R: Cártago Antigo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 111",
+        "question": "Como Saladin mudou o Oriente Médio?",
+        "answer1": "R: Ele conquistou maior parte da Palestina",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 112",
+        "question": "Gales tornou-se oficialmente parte do Reino da Grã Bretanha durante o reinado de que rei?",
+        "answer1": "R: Henrique VIII",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 113",
+        "question": "Que tipo de unidade é mais forte contra a cavalaria?",
+        "answer1": "R: Infantaria",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 114",
+        "question": "Que ponto turístico em Sydney, Austráulia, tem a forma de velas?",
+        "answer1": "R: Sydney Opera House",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 115",
+        "question": "Depois da sua fundação no século VI a.C., que instituição da República Romana serviu como um parlamento consultivo?",
+        "answer1": "R: O Senado",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 116",
+        "question": "Onde foi o ponto de encontro da primeira Cruzada?",
+        "answer1": "R: Constantinopla",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 117",
+        "question": "Que artista projetou a Basílica de São Pedro no Vaticano?",
+        "answer1": "R: Michelangelo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 118",
+        "question": "Onde os soldados da Roma Antiga pegaram suas armas e armaduras?",
+        "answer1": "R: De si mesmos",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 119",
+        "question": "Qual é o rio mais longo do mundo?",
+        "answer1": "R: O Nilo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 120",
+        "question": "Qual dos seguintes comandantes é excelente em liderar a cavalaria?",
+        "answer1": "R: Minamoto no Yoshitsune",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 121",
+        "question": "Na mitologia grega, para quem Paris, o Príncipe de Troia, deu uma maça dourada inscrita com \"Para a deusa mais linda\"?",
+        "answer1": "R: Afrodite",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 122",
+        "question": "A história do Egito Antigo abrange quantos reinos?",
+        "answer1": "R: 3",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 123",
+        "question": "Que comandante tem o apelido de Guardião de Cártago?",
+        "answer1": "R: Hannibal Barca",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 124",
+        "question": "Quantos dedos o personagem de desenho animado Mickey Mouse tem em cada mão?",
+        "answer1": "R: 4",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 125",
+        "question": "Por que sapos e outros oranismos produzem tantos ovos\/descendentes?",
+        "answer1": "R: Quanto mais descendentes produzidos, mais provável que sobrevivam",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 126",
+        "question": "Na mitologia grega, que herói foi numa missão para o Velocino de Ouro?",
+        "answer1": "R: Jason",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 127",
+        "question": "Os \"Três Grandes Filósofos\" da Grécia Antiga foram Platão, Aristóteles e quem?",
+        "answer1": "R: Sócrates",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 128",
+        "question": "Quem instituiu o Calendário Juliano?",
+        "answer1": "R: Júlio Cesar",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 129",
+        "question": "Que monarca francês foi conhecido como \"São Luis\"?",
+        "answer1": "R: Luis IX",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 130",
+        "question": "Que país na Ásia se sobrepõe com o antigo Império Parta?",
+        "answer1": "R: Irã",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 131",
+        "question": "Qual é o mineral mais mole atualmente conhecido pela humanidade?",
+        "answer1": "R: Talco",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 132",
+        "question": "Quem fundou a Dinastia de Joseon?",
+        "answer1": "R: Yi Seong-Gye",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 133",
+        "question": "Pintores de Renascença em Flanders, assim como na Itália, tendiam a produzir que tipo de trabalho artístico?",
+        "answer1": "R: Realístico",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 134",
+        "question": "Para onde o Rei Luís XIV da França moveu a corte real em 1682?",
+        "answer1": "R: O Palácio de Versalhes",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 135",
+        "question": "Quem possuía tudo nos reinos do Egito Antigo?",
+        "answer1": "R: Os faraós",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 136",
+        "question": "Que classificação honorária o fundador do Kentucky Fried Chicken (KFC) recebeu?",
+        "answer1": "R: Coronel",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 137",
+        "question": "Que comandante é conhecida como a Senhora dos Mercianos?",
+        "answer1": "R: AEthelflaed",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 138",
+        "question": "Que tipo de unidade é mais forte contra a arquearia?",
+        "answer1": "R: Cavalaria",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 139",
+        "question": "Que país começou a tradição do dia de trabalho de 8 horas?",
+        "answer1": "R: Reino Unido",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 140",
+        "question": "Qual dos seguintes é uma fonte de energia não renovável (como carvão, óleo ou gás natural)?",
+        "answer1": "R: Combustível fóssil",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 141",
+        "question": "Na mitologia grega, qual era o ponto fraco de Aquiles?",
+        "answer1": "R: Seus calcanhares",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 142",
+        "question": "Quem comandou o Novo Exército Modelo fundado pelo Parlamento durante a Guerra Civil Inglesa?",
+        "answer1": "R: Cromwell",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 143",
+        "question": "Para quem a Índia deu o título de \"Mahatma\"?",
+        "answer1": "R: Mohandas Karamchand Gandhi",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 144",
+        "question": "Onde Genghis Khan começou a construir o seu império mongol?",
+        "answer1": "R: Ásia",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 145",
+        "question": "Quem pintou \"A Última Ceia\"?",
+        "answer1": "R: Leonardo da Vinci",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 146",
+        "question": "Na mitologia grega, qual é a relação entre Zeus e Hermes?",
+        "answer1": "R: Pai e filho",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 147",
+        "question": "Qual dos seguintes é considerado um recurso metálico?",
+        "answer1": "R: Ferro",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 148",
+        "question": "De que cor é a pele do urso polar?",
+        "answer1": "R: Preta",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 149",
+        "question": "Qual dos seguintes foi um Cavaleiro da Távola Redonda?",
+        "answer1": "R: Lancelote",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 150",
+        "question": "O fim justifica os meios foi uma crença central do autor de \"O Príncipe\". Qual era o seu nome?",
+        "answer1": "R: Maquiavel",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 151",
+        "question": "Os quatro maiores musicais do mundo são Cats, Os Miseráveis, Miss Saigon e ... ?",
+        "answer1": "R: O Fantasma da Ópera",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 152",
+        "question": "Quem foi o único Rei da Inglaterra a ser executado?",
+        "answer1": "R: Carlos I",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 153",
+        "question": "Qual dos seguintes comandantes é excelente em liderar a arquearia?",
+        "answer1": "R: Yi Seong-Gye",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 154",
+        "question": "Qual dos seguintes reis franceses era conhecido como Rei Sol?",
+        "answer1": "R: Luís XIV",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 155",
+        "question": "Qual é o nome da eletricidade produzida pela força da água usando grandes represas num rio?",
+        "answer1": "R: Energia hidroelétrica",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 156",
+        "question": "Qual das seguintes espécies marinhas existiu por mais tempo?",
+        "answer1": "R: Nautilus",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 157",
+        "question": "Qual dos seguintes foi construído sob ordem de Shah Jahan em memória da sua esposa Mumtaz Mahal?",
+        "answer1": "R: O Taj Mahal",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 158",
+        "question": "Quem foi a última faraó na Dinastia de Ptolomeu?",
+        "answer1": "R: Cleópatra VII",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 159",
+        "question": "Qual é o nome da revolução de 1688 que estabeleceu a monarquia constitucional britânica?",
+        "answer1": "R: A Revolução Gloriosa",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 160",
+        "question": "Onde a maioria dos furacões começa?",
+        "answer1": "R: Em mar aberto",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 161",
+        "question": "As quatro principais variedades de Guzheng na China Antiga foram Haozhong, Luqi, Jiaowei e ... ?",
+        "answer1": "R: Raoliang",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 162",
+        "question": "Quem foi chamado de \"Napoleão do crime\" em algumas das histórias de Sherlock Holmes?",
+        "answer1": "R: Professor Moriarty",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 163",
+        "question": "O formato da comédia chinesa \"crosstalk\" origina-se em três lugares: Tianqiao em Pequim, o Quanye Bazaar em Tianjin e onde em Nanjing?",
+        "answer1": "R: Fuzimiao",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 164",
+        "question": "Qual dos seguintes instrumentos musicais tem seis cordas?",
+        "answer1": "R: Violão",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 165",
+        "question": "Como se faz para ganhar créditos de tecnologia da aliança?",
+        "answer1": "R: Doando para a tecnologia da aliança de pesquisa",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 166",
+        "question": "O processo de combinar átomos é conhecido como o quê?",
+        "answer1": "R: Fusão ",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 167",
+        "question": "Vantagens da imprensa de Johannes Gutenberg incluem todos os seguintes, exceto qual?",
+        "answer1": "R: Aumento do poder da igreja",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 168",
+        "question": "Em que país o ar-condicionado foi inventado?",
+        "answer1": "R: EUA",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 169",
+        "question": "Quantas vezes o caractere \"1\" é usado quando você escreve do número 1 ao 99?",
+        "answer1": "R: 20",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 170",
+        "question": "Quem implementou o Calendário Juliano em Roma?",
+        "answer1": "R: Júlio César",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 171",
+        "question": "Que psicólogo alemão descobriu a curva de esquecimento do cérebro humano?",
+        "answer1": "R: Hermann Ebbinghaus",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 172",
+        "question": "Raphael é melhor conhecido pela sua criação de qual dos seguintes?",
+        "answer1": "R: Escola de Atenas",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 173",
+        "question": "Qual dos seguintes é a maior ilha do mundo?",
+        "answer1": "R: Groenlândia",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 174",
+        "question": "Qual dos seguintes foi um movimento intelectual da Renascença no qual os pensadores estudaram os textos clássicos e focaram-se no potencial e nas conquistas humanas?",
+        "answer1": "R: Humanismo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 175",
+        "question": "Qual é a proporção de conversão de ampares (A) para miliamperes (mA)?",
+        "answer1": "R: 1:1000",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 176",
+        "question": "Em que país aconteceram as Guerras Carlistas no século XIX?",
+        "answer1": "R: Espanha",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 177",
+        "question": "Qual dos seguintes foi inimigo de Ricardo, Coração de Leão?",
+        "answer1": "R: Saladin",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 178",
+        "question": "Quem primeiro implementou o Calendário Juliano em Roma?",
+        "answer1": "R: Júlio César",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 179",
+        "question": "Qual dos seguintes NÃO é parte da bandeira do México?",
+        "answer1": "R: Camelo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 180",
+        "question": "Em que ano Ricardo Coração de Leão e Saladino assinaram trégua?",
+        "answer1": "R: 1192",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 181",
+        "question": "Que prédio foi originalmente construído em Londres na casa da Grande Exposição dos Trabalhos da Indústria de Todas as Nações que aconteceu em 1851?",
+        "answer1": "R: O Palácio de Cristal",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 182",
+        "question": "Que comandante tem o apelido de Rugido Bárbaro?",
+        "answer1": "R: Lohar",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 183",
+        "question": "Qual dos seguintes comandantes é excelente em reunir recursos?",
+        "answer1": "R: Cleópatra VII",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 184",
+        "question": "Que descoberta possibilitou decifrar os hieróglifos?",
+        "answer1": "R: A Pedra Rosetta",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 185",
+        "question": "A que ordem dos mamíferos Suidae pertence?",
+        "answer1": "R: Artiodactyla",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 186",
+        "question": "Humanistas do norte, como Erasmus, eram mais conhecidos pelo quê?",
+        "answer1": "R: Interesse na religião e reforma social",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 187",
+        "question": "Qual dos seguintes físicos nasceu no aniversário de morte de Galileu Galilei, e morreu no aniversário de nascimento de Albert Einstein?",
+        "answer1": "R: Stephen Hawking",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 188",
+        "question": "Qual dos seguintes é um combustível fóssil formado de organismos marinhos que frequentemente são encontrados em camadas empilhadas ou inclinadas e usados para aquecimento e cozinhar?",
+        "answer1": "R: Gás natural",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 189",
+        "question": "Qual dos seguintes comandantes é excelente em liderar a infantaria?",
+        "answer1": "R: Richard I",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 190",
+        "question": "Na Grécia antiga, que filósofo gostava de discutir ideias numa rua que depois foi apelidada de \"Escola Peripatética\"?",
+        "answer1": "R: Aristóteles",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 191",
+        "question": "Que psicólogo alemão descobriu a curva de esquecimento do cérebro humano?",
+        "answer1": "R: Hermann Ebbinghaus",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 192",
+        "question": "Qual das seguintes civilizações oferece um bônus de 5% para unidades de cavalaria?",
+        "answer1": "R: Alemanha",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 193",
+        "question": "Que inventor construiu a primeira locomotiva elétrica do mundo em 1837?",
+        "answer1": "R: Robert Davidson",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 194",
+        "question": "Na Arca de Osíris, que Aceleração você pode usar?",
+        "answer1": "R: Aceleração de Cura",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 195",
+        "question": "Quem foi o primeiro Imperador de Roma?",
+        "answer1": "R: Gaius Octavius Augustus",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 196",
+        "question": "Que tipo de lugar sagrado concede bônus de ataque de tropa?",
+        "answer1": "R: Altar da Chama",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 197",
+        "question": "Qual dos seguintes também era conhecido como o Império Romano Oriental?",
+        "answer1": "R: O Império Bizantino",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 198",
+        "question": "Que explorador português foi o primeiro europeu a navegar para aponta sul da África?",
+        "answer1": "R: Bartolomeu Dias",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 199",
+        "question": "Qual dos seguintes é o irmão mais velho de Zeus na mitologia grega?",
+        "answer1": "R: Poseidon",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 200",
+        "question": "Ingestão insuficiente de que elemento pode causar tiromegalia?",
+        "answer1": "R: Iodo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 201",
+        "question": "O Taj Mahal foi construído durante que dinastia indiana?",
+        "answer1": "R: A Dinastia Mughal",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 202",
+        "question": "Que antigo acadêmico grego estabeleceu a base para futuros matemáticos europeus e foi autor de \"Elementos\" da geometria?",
+        "answer1": "R: Euclides",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 203",
+        "question": "Quantas fases existem no evento O Governo Mais Poderoso?",
+        "answer1": "R: 5",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 204",
+        "question": "Quem escreveu \"A Arte da Guerra\"?",
+        "answer1": "R: Sun Tzu",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 205",
+        "question": "Que dois principais trabalhos são atribuídos a Homero?",
+        "answer1": "R: A Odisseia e A Ilíada",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 206",
+        "question": "Quem acreditava-se ser o protótipo do Rei de Copas no pôquer?",
+        "answer1": "R: Carlos Magno",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 207",
+        "question": "Quem propôs a ideia filosófica de \"Penso, logo existo\"?",
+        "answer1": "R: Descartes",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 208",
+        "question": "Em que a Comandante Hermann é boa?",
+        "answer1": "R: Liderar unidades de arquearia",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 209",
+        "question": "Qual das seguintes conquistas deve ser concluída antes da conquista \"Floco de Neve Especial\"?",
+        "answer1": "R: Golpe de longo alcance",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 210",
+        "question": "Em que o Comandante Sun Tzu é bom?",
+        "answer1": "R: Liderar guarnições de cidade",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 211",
+        "question": "Qual dos seguintes NÃO pode ser encontrado nas Lojas da Aliança?",
+        "answer1": "R: Chave de ouro",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 212",
+        "question": "Em que o Comandante Baybars é bom?",
+        "answer1": "R: Liderar unidades de cavalaria",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 213",
+        "question": "Ao pescar e soltar peixes em mar aberto, por que é importante perfurar as bexigas natatórias deles?",
+        "answer1": "R: Para evitar que morram com distensão das bexigas natatórias",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 214",
+        "question": "Qual era outro uso do gim, além de ser uma bebida popular no século XVIII?",
+        "answer1": "R: Remédio",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 215",
+        "question": "Qual dos seguintes não foi um pilar da Renascença?",
+        "answer1": "R: Maneirismo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 216",
+        "question": "Qual dos seguintes Desiderius Erasmus e Thomas More têm em comum?",
+        "answer1": "R: Ambos era considerados humanistas",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 217",
+        "question": "Durante a Segunda Guerra Púnica, em que batalha Hannibal, com um exército bem menor, derrotou um exército romano?",
+        "answer1": "R: A Batalha de Cannae",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 218",
+        "question": "Qual das seguintes comandantes se juntou a uma rebelião contra seu próprio marido?",
+        "answer1": "R: Constânça",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 219",
+        "question": "Em que o Comandante Eulji Mundeok é bom?",
+        "answer1": "R: Liderar unidades de infantaria",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 220",
+        "question": "O épico de Homero, \"A Ilíada\" foca nos eventos que acontecem durante que guerra ou batalha?",
+        "answer1": "R: A Guerra de Troia",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 221",
+        "question": "Qual destas é uma das \"habilidades ativas\" de Minamoto no Yoshitsune?",
+        "answer1": "R: Kyohachiryu",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 222",
+        "question": "A Rainha Vitória da Inglaterra fez parte de que casa real?",
+        "answer1": "R: A Casa dos Hanover",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 223",
+        "question": "Qual foi um farol construído depois que a Macedônia conquistou o Egito e foi uma das sete maravilhas do mundo antigo?",
+        "answer1": "R: O Farol de Alexandria",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 224",
+        "question": "O que causa eclipses lunares?",
+        "answer1": "R: A Terra se move diretamente entre o sol e a lua",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 225",
+        "question": "Qual dos seguintes é outro nome para a \"Peste Negra\" que atingiu a Europa durante o final da Idade Média?",
+        "answer1": "R: Yersinia pestis",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 226",
+        "question": "O ar frequentemente se sente mais fresco depois da tempestade, pois ele foi enriquecido com que gás?",
+        "answer1": "R: Ozônio",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 227",
+        "question": "Em que a Comandante Keira é boa?",
+        "answer1": "R: Liderar unidades de arquearia",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 228",
+        "question": "Que país nas Ásia se sobrepõe com o antigo Império Parta?",
+        "answer1": "R: Irã",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 229",
+        "question": "Que comandante foi encarregado de capturar Constantinopla aos 21 anos de idade?",
+        "answer1": "R: Mehmed II",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 230",
+        "question": "Qual dos seguintes é uma fonte de energia alternativa baseada em dividir átomos pesados em mais leves para liberar energia?",
+        "answer1": "R: Energia nuclear",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 231",
+        "question": "A autobiografia \"Viver para Contar\" de quem ganhou o Prêmio Nobel de Literatura?",
+        "answer1": "R: Gabriel García Márquez",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 232",
+        "question": "Que civilização antiga construiu a \"Cidade Perdida\" de Machu Picchu?",
+        "answer1": "R: Os Incas",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 233",
+        "question": "O que Espártaco fez como escravo antes de liderar a maior rebelião de escravos da Roma Antiga?",
+        "answer1": "R: Um gladiador",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 234",
+        "question": "Qual dos seguintes não é um recurso natural?",
+        "answer1": "R: Roupas",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 235",
+        "question": "O título \"Rainha\" do reino aumenta qual dos seguintes?",
+        "answer1": "R: Velocidade de coleta",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 236",
+        "question": "Keira uma vez desafiou as expectativas do mundo sobre ela numa gloriosa batalha. Onde aconteceu essa batalha?",
+        "answer1": "R: Desfiladeiro do Pôr do Sol",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 237",
+        "question": "Quem foi o primeiro filho de Henrique VIII a governar a Inglaterra?",
+        "answer1": "R: Eduardo VI",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 238",
+        "question": "Qual dos seguintes físicos nasceu no aniversário de morte de Galileu Galilei, e morreu no aniversário de nascimento de Albert Einstein?",
+        "answer1": "R: Stephen Hawking",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 239",
+        "question": "Quantos ossos um humano adulto normalmente tem?",
+        "answer1": "R: 206",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 240",
+        "question": "Que comandante assinou um tratado de paz com Saladin em 1192?",
+        "answer1": "R: Richard I",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 241",
+        "question": "Quem foi o fundador do Império Mongol?",
+        "answer1": "R: Genghis Khan",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 242",
+        "question": "Que rei de país europeu fundou a famosa expediência de Cristovão Colombo?",
+        "answer1": "R: Espanha",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 243",
+        "question": "Qual das seguintes descrições de título de reino está incorreta?",
+        "answer1": "R: As tropas dos duques aumentaram o ataque ",
+        "answer2": "R: As tropas dos primeiro ministros aumentaram o ataque"
+    },
+    {
+        "id": "Questão 244",
+        "question": "Qual das seguintes NÃO é uma das habilidades de Osman I?",
+        "answer1": "R: Táticas oblíquas",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 245",
+        "question": "Qual é o nome da energia renovável derivada de matéria orgânica queimando como madeira e álcool?",
+        "answer1": "R: Biomassa",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 246",
+        "question": "Quando a prefeitura de um governador alcançar o nível 25, quantas fazendas ele pode construir?",
+        "answer1": "R: 4",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 247",
+        "question": "Qual dos seguintes frutas, conhecida como \"pera do lobo\", imaginou-se erroneamente ser venenosa?",
+        "answer1": "R: Tomate",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 248",
+        "question": "Na página VISUALIZAÇÃO DO COMANDANTE, que bônus os comandantes agindo como \"Mestre da perfuração\" ganham?",
+        "answer1": "R: Ataque de Tropas +1%",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 249",
+        "question": "Que buff pode ser adquirido ao ocupar um Santuário da Coragem?",
+        "answer1": "R: EXP aumentado ganho pelos comandantes",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 250",
+        "question": "Qual das seguintes NÃO é uma das habilidades de Lohar?",
+        "answer1": "R: Aniquilação Total",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 251",
+        "question": "Que país deu a Estátua da Liberdade ao povo americano como um presente?",
+        "answer1": "R: França",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 252",
+        "question": "Onde nasceu o Comandante Lohar?",
+        "answer1": "R: Numa remota tribo bárbara",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 253",
+        "question": "Qual das seguintes NÃO é uma das habilidades de Belisarius?",
+        "answer1": "R: Força Estrondosa",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 254",
+        "question": "Dos comandantes abaixo, qual se adegua melhor a liderar tropas CONTRA inimigos de infantaria?",
+        "answer1": "R: Hermann",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 255",
+        "question": "Na página VISUALIZAÇÃO DO COMANDATE, que bônus os comandantes agindo como \"Guarda\" ganham?",
+        "answer1": "R: Nenhuma dessas respostas está correta",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 256",
+        "question": "Qual dos seguintes NÃO é uma habilidade de rei?",
+        "answer1": "R: Alívio",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 256",
+        "question": "Qual das seguintes NÃO é uma das habilidades de Keira?",
+        "answer1": "R: Sangue Indisciplinado",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 257",
+        "question": "Dos comandantes abaixo, qual se adegua melhor a liderar tropas CONTRA inimigos de arquearia?",
+        "answer1": "R: Cao Cao",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 258",
+        "question": "Qual das seguintes NÃO é uma das habilidades de Hermann?",
+        "answer1": "R: Irrestível",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 259",
+        "question": "Dos comandantes abaixo, qual se adegua melhor a liderar tropas CONTRA inimigos de cavalaria?",
+        "answer1": "R: Sun Tzu",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 260",
+        "question": "Por que o escorbuto já foi um problema comum dos marinheiros?",
+        "answer1": "R: Pro falta de frutas e vegetais frescos em longas viagens",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 261",
+        "question": "Em que o Comandante Hermann é bom?",
+        "answer1": "R: Liderar unidades de arquearia",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 262",
+        "question": "Qual dessas cidades no Brasil recebeu os Jogos Olímpicos?",
+        "answer1": "R: Rio de Janeiro",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 263",
+        "question": "Qual das seguintes vitaminas é mais útil para manter uma boa visão?",
+        "answer1": "R: Vitamina A",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 264",
+        "question": "Na página VISUALIZAÇÃO DO COMANDANTE, que bônus os comandantes agindo como \"Fiscal\" ganham?",
+        "answer1": "R: Velocidade de Coleta 5%",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 265",
+        "question": "Em que o Comandante Hannibal Barca é bom?",
+        "answer1": "R: Atacar cidades",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 266",
+        "question": "Em qual desses países passa o primeiro meridiano?",
+        "answer1": "R: Mali -> (Espanha, França, Reino Unido, Gana, Burkina Faso, Mali  Argélia)",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 267",
+        "question": "Qual das seguintes doenças pode ser causada pela falta de Vitamina D?",
+        "answer1": "R: Raquitismo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 268",
+        "question": "Qual das seguintes NÃO é uma das habilidades de Matilda de Flanders?",
+        "answer1": "R: Sangue Celta",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 269",
+        "question": "Qual das seguintes NÃO é uma das habilidades de Mulan?",
+        "answer1": "R: Exército Indomável",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 270",
+        "question": "Além de \"Número de Batedores\" e \"Poder\", qual que seguintes parâmetros do Acampamento de Batedores também pode ser atualizado?",
+        "answer1": "R: Velocidade de Marcha do Batedor e Alcance de Exploração",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 271",
+        "question": "Qual das seguintes construções não pode ser atualizada?",
+        "answer1": "R: Correio",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 272",
+        "question": "Qual é a relação entre os famosos generais Tolui e Gengis Khan?",
+        "answer1": "R: Pai e filho",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 273",
+        "question": "Qual unidade se beneficia da habilidade \"Mestre Estrategista\" de Sun Tzu?",
+        "answer1": "R: Infantaria",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 274",
+        "question": "Qual dos seguintes animais NÃO coloca ovos?",
+        "answer1": "R: Morcego",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 275",
+        "question": "Qual tecnologia vem logo antes do Pavise?",
+        "answer1": "R: Flechas Bodkin",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 276",
+        "question": "Qual é o propósito principal das células brancas do sangue no corpo humano?",
+        "answer1": "R: Combate infecções e doenças",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 277",
+        "question": "Qual tecnologia vem logo antes do Espadachim?",
+        "answer1": "R: Trabalho de Ferro",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 278",
+        "question": "Em que o Comandante Lancelotee é bom?",
+        "answer1": "R: Liderar unidades de cavalaria",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 279",
+        "question": "Qual dos seguintes descreve precisamente o Círculo Ártico?",
+        "answer1": "R: Dia Polar e Noite Polar são fenômenos que ocorrem lá",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 280",
+        "question": "Qual dos seguintes países está localizado inteiramente no Hemisfério Norte?",
+        "answer1": "R: Nenhuma dessas respostas está correta",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 281",
+        "question": "Qual dos seguintes é uma construção econômica?",
+        "answer1": "R: Centro de Alianças",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 282",
+        "question": "Além de \"Vezes que você pode ser ajudado\" e \"Poder\", qual dos seguintes parâmetros do Centro de Alianças também pode ser atualizado?",
+        "answer1": "R: Capacidade de reforços da cidade",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 283",
+        "question": "Que astrônomo propôs a teoria heliocêntrica no século XVI?",
+        "answer1": "R: Nicolau Copérnico",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 284",
+        "question": "Qual dos seguintes é uma construção militar?",
+        "answer1": "R: Acampamento de batedores",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 285",
+        "question": "Qual é a principal causa da formação dos Himalaias?",
+        "answer1": "R: Colisão entre placas",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 286",
+        "question": "Em que a Comandante Baybars é boa?",
+        "answer1": "R: Liderar unidades de cavalaria",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 287",
+        "question": "No Antigo Egito, qual dos seguintes NÃO era um privilégio de ser um 'Escriba'?",
+        "answer1": "R: Isento de pagar despesas médicas, se estivesse doente",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 288",
+        "question": "Quantos pontos VIP você pode comprar com 200 gemas?",
+        "answer1": "R: 200",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 289",
+        "question": "Qual dos seguintes descreve um peixe-palhaço?",
+        "answer1": "R: Peixe marinho tropical",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 290",
+        "question": "Que cientista holandês é conhecido como \"o pai da microbiologia\"?",
+        "answer1": "R: Antonie Van Leeuwenhoek",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 291",
+        "question": "O romance dos Três Reinos começa perto do fim de qual dinastia chinesa?",
+        "answer1": "R: Han",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 292",
+        "question": "Que deus é Taranis na mitologia celta?",
+        "answer1": "R: Deus do Trovão",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 293",
+        "question": "Onde o Exército Terracotta de Patrimônio Mundial foi encontrado?",
+        "answer1": "R: Num mausoléu real",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 294",
+        "question": "Qual é a principal causa de paisagens cársicas?",
+        "answer1": "R: A dissolução de rochas solúveis",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 295",
+        "question": "Qual dos seguintes NÂO ocorreu durante as Guerras Greco-Persas?",
+        "answer1": "R: A Batalha de Azincourt",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 296",
+        "question": "Qual tecnologia vem logo antes da Cavalaria Pesada?",
+        "answer1": "R: Armadura de Escama",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 297",
+        "question": "Qual dos seguintes países é mais próximo do Polo Norte?",
+        "answer1": "R: Finlândia",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 298",
+        "question": "Em que escrita o Código de Hammurabi foi entalhada em pedra?",
+        "answer1": "R: Cuneiforme",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 299",
+        "question": "Um item de Recolhimento Aprimorado pode aumentar em quanto a sua velocidade de coleta?",
+        "answer1": "R: 50%",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 300",
+        "question": "Em qual nível VIP você desbloqueia permanentemente uma segunda fila de construção?",
+        "answer1": "R: Nvl. 6",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 301",
+        "question": "Um item de Ataque Aprimorado (Avançado) pode aumentar em quanto o seu ataque?",
+        "answer1": "R: 10%",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 302",
+        "question": "Qual dos seguintes discursos foi feito pelo Primeiro Ministro prussiano Otto von Bismarck em Setembro de 1862?",
+        "answer1": "R: Sangue e ferro",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 303",
+        "question": "De que os homens e mulheres estavam se escondendo na periferia de Florença na coleção de romances \"O Decamerão\"?",
+        "answer1": "R: A Peste Negra",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 304",
+        "question": "Qual das seguintes opções concede pontos de atividade diários?",
+        "answer1": "R: Derrotar tropas Bárbaras no mapa",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 306",
+        "question": "Quais oceanos são conectados pelo Canal do Panamá?",
+        "answer1": "R: Pacífico e Atlântico",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 307",
+        "question": "De acordo com o conto da Loba da mitologia romana, o que houve com os gêmeos que ela alimentou: Rômulo e Remo?",
+        "answer1": "R: Rômulo se tornou o fundador e primeiro Rei de Roma",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 308",
+        "question": "Qual dos buffs seguintes pode ter efeito durante as batalhas do Desfiladeiro do Pôr do Sol?",
+        "answer1": "R: Buffs de equipamento",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 309",
+        "question": "Quais cidades são conenctadas pela Ponte Dom Luís I?",
+        "answer1": "R: Porto e Vila Nova de Gaia",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 310",
+        "question": "Considerando sua fundação em 1863, quantas vezes o Comitê International da Cruz Vermelha venceu o Prêmio Nobel da Paz?",
+        "answer1": "R: 3",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 311",
+        "question": "Em que cidade moderna foi construído o Globo de Shakespeare?",
+        "answer1": "R: Londres",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 312",
+        "question": "Qual foi o nome real usado pelo último imperador da Dinastia Qing chinesa?",
+        "answer1": "R: Xuantong",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 313",
+        "question": "Qual dinastia chinesa Jiang Ziya ajudou a fundar?",
+        "answer1": "R: A Dinastia Zhou",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 314",
+        "question": "Que país foi o primeiro a inventar o perfume?",
+        "answer1": "R: Chipre",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 315",
+        "question": "Em RoK, o Lança Machado é a unidade especial de qual civilização?",
+        "answer1": "R: França",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 316",
+        "question": "Na Arca de Osíris, quantos teletransportes a primeira aliança ganha para ocupar um obelisco?",
+        "answer1": "R: 8",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 317",
+        "question": "Qual foi o propósito original da Grande Pirâmide de Gizé?",
+        "answer1": "R: Tumba do faraó Quéops",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 318",
+        "question": "De quem é a beleza que dizem ser a causa da Guerra de Troia?",
+        "answer1": "R: Helena",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 319",
+        "question": "Qual das seguintes serve como flor nacional das Filipinas?",
+        "answer1": "R: Sampaguita",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 320",
+        "question": "Que período da história europeia, que durou de 1300 a 1600, viu renascer o interesse na cultura clássica e levou a amplas mudanças na arte, aprendizado e visões de mundo?",
+        "answer1": "R: A Renascença",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 321",
+        "question": "Que guerra terminou a governo da Casa de Plantagenet e começou o governo dos Tudors na Inglaterra?",
+        "answer1": "R: As Guerras das Rosas",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 322",
+        "question": "Quem fez o famoso discurso \"Eu tenho um sonho\"?",
+        "answer1": "R: Martin Luther King Jr.",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 323",
+        "question": "Quem foi o último imperador do Sacro Império Romano?",
+        "answer1": "R: Francis II",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 324",
+        "question": "Dos século XVII ao XIX, o Reino da Prússia foi na maior parte em que país moderno?",
+        "answer1": "R: Alemanha",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 325",
+        "question": "A Festa Nacional Francesa ocorre em 14 de julho para coincidir com qual evento histórico?",
+        "answer1": "R: Tomada da Bastilha",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 326",
+        "question": "Que faraó ordenou a construção dos templos de Abu Simbel?",
+        "answer1": "R: Ramsés II",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 327",
+        "question": "Em qual teatro a Sinfonia Nº 5 em Dó Menor de Beethoven estreou em 1808?",
+        "answer1": "R: Theater an der Wien",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 328",
+        "question": "QUal dos seguintes trabalhos é baseado na Batalha de Roncesvales, lutada por Carlos Magno e seus cavaleiros?",
+        "answer1": "R: \"A Canção de Rolando\"",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 329",
+        "question": "Quem foi o fundador do Edo Bakufu do Japão?",
+        "answer1": "R: Tokugawa leyasu",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 330",
+        "question": "Para qual doença Edward Jenner, conhecido como o pai da imunologia, desenvolveu uma vacina?",
+        "answer1": "R: Varíola",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 331",
+        "question": "Em que ano Einstein publicou seus quatro Annus Mirabilis (\"Artigos Miraculosos\")?",
+        "answer1": "R: 1905",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 332",
+        "question": "Qual o benefício de pesquisar \"Matemática\" na Academia?",
+        "answer1": "R: Velocidade de pesquisa aumentada",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 333",
+        "question": "QUal dos seguintes foi escrito por Mary Shelley?",
+        "answer1": "R: Frankenstein",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 334",
+        "question": "Em que ano o Código Napoleônico foi estabelecido?",
+        "answer1": "R: 1804",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 335",
+        "question": "O atleta afro-americano Jesse Owens ganhou quantas medalhas de ouro olímpicas em 1936?",
+        "answer1": "R: 4",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 336",
+        "question": "Qual dos seguintes comandantes foi de fato governante do seu reino, mas nunca foi oficialmente chefe de estado?",
+        "answer1": "R: Carlos Martel",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 337",
+        "question": "Quem foi a primeira mulher a ganhar o Prêmio Nobel?",
+        "answer1": "R: Marie Curie",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 338",
+        "question": "O Dia do Elba foi a reunião de quais exércitos durante a Segunda Guerra Mundial?",
+        "answer1": "R: EUA e URSS",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 339",
+        "question": "Por que a enfermeira britânica Florence Nightingale era conhecida como \"A Dama da Lâmpada\"?",
+        "answer1": "R: Porque precisava examinar os pacientes à noite",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 340",
+        "question": "Na mitologia nórdica, qual era a Àrvore do Mundo?",
+        "answer1": "R: Freixo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 341",
+        "question": "O último livro de Darwin discutia primariamente a influência de qual espécie no solo?",
+        "answer1": "R: Minhocas",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 342",
+        "question": "Quantos baús de recompensa são concedidos ao atingir 60 pontos de atividades diária?",
+        "answer1": "R: 3",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 343",
+        "question": "Qual era o título Pierre de Coubertin, fundador do Comitê Olímpico International?",
+        "answer1": "R: Barão",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 344",
+        "question": "Em quantos canatos ou impérios foi dividido o império Mongol na época da morte de Kublai em 1294?",
+        "answer1": "R: 4",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 345",
+        "question": "Na Dinastia Han da China, quem abriu a Estrada da Seda sob ordens do Imperador Wu?",
+        "answer1": "R: Zhang Qian",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 346",
+        "question": "O que causou a morte do destacado estadista e estrategista militar, Péricles?",
+        "answer1": "R: Uma praga",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 347",
+        "question": "Que instrumento musical é um emblema nacional da Irlanda?",
+        "answer1": "R: Arpa",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 348",
+        "question": "Qual das seguintes invenções NÃO surgiu durante a primeira Revolução Industrial?",
+        "answer1": "R: Telefone",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 349",
+        "question": "Na mitologia grega, como a Deusa Eos é conhecida?",
+        "answer1": "R: A deusa da aurora",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 350",
+        "question": "Que escola de pensamento foi fundada pelo filósofo chinês Lao Tzu?",
+        "answer1": "R: Taoismo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 351",
+        "question": "Em qual ano ocorreu o primeiro Campeonato de Tênis de Wimbledon?",
+        "answer1": "R: 1877",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 352",
+        "question": "O que significa a palavra \"Fórmula\" em \"Corrida de Fórmula 1\"?",
+        "answer1": "R: As regras que os carros participantes devem seguir",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 353",
+        "question": "Qual dos seguintes doutores foi o primeiro a descrever completamente, e em detalhes, a circulação sistêmica e a função do coração?",
+        "answer1": "R: William Harvey",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 354",
+        "question": "O \"Nó de Gravata Windsor\" foi popularizado por que rei da Inglaterra?",
+        "answer1": "R: Eduardo VIII",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 355",
+        "question": "Qual desses itens NÃO pode ser comprado dentro da Boutique do Mercador Misterioso?",
+        "answer1": "R: Página de Passaporte",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 356",
+        "question": "Que contribuição extraordinária à ciência deu ao biólogo Carl Landsteiner o Prêmio Nobel?",
+        "answer1": "R: Descobrir os grupos sanguíneos humanos",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 357",
+        "question": "Em RoK, Hwarang é a unidade especial de qual civilização?",
+        "answer1": "R: Coréia",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 358",
+        "question": "Qual dessas civilizações pode aumentar a Capacidade Hospitalar?",
+        "answer1": "R: Bizâncio",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 359",
+        "question": "Qual comandante é comumente considerado o exemplo ideal do \"Espírito Bushido\"?",
+        "answer1": "R: Kusunoki Masashige",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 360",
+        "question": "Quantos itens da mesma qualidade devo equipar para completar o \"Pronto para a batalha\"?",
+        "answer1": "R: 6",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 361",
+        "question": "Qual desses campos NÃO está incluindo na lista dos Prêmios Nobel?",
+        "answer1": "R: Matématica",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 362",
+        "question": "A \"Batalha de Navas de Tolosa\" foi uma grande reviravolta em qual conflito?",
+        "answer1": "R: A Reconquista",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 363",
+        "question": "Qual tumba de um faraó do antigo Egito o arqueólogo britânico Howard Carter descobriu em 1922?",
+        "answer1": "R: Tutankhamun (Tutancâmon)",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 364",
+        "question": "Os espinhos de cacto são na verdade uma forma modificada de qual outra parte da planta?",
+        "answer1": "R: Folhas",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 367",
+        "question": "Dos comandantes abaixo, qual se adequa melhor a liderar tropas ao coletar recursos?",
+        "answer1": "R: Seondeok",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 368",
+        "question": "Charles Macintosh fabricou uma versão primitiva da capa de chuva a partir de qual material?",
+        "answer1": "R: Borracha",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 367",
+        "question": "Contra qual país a Inglaterra estava lutando na Batalha de Agincourt?",
+        "answer1": "R: França",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 368",
+        "question": "Qual imperador foi nomeado o \"Khan do Céu\" por vários nômades turcos durante as dinastias Sui e Tang?",
+        "answer1": "R: Imperador Taizong de Tang",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 369",
+        "question": "Quais das seguintes cidades foi a primeira a ter um sistema de metrô expresso?",
+        "answer1": "R: Londres",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 370",
+        "question": "Em que ano foi publicada a primeira edição de \"O diário de Anne Frank\"?",
+        "answer1": "R: 1947",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 371",
+        "question": "Qual é a parte mais dura do corpo humano?",
+        "answer1": "R: Esmalte dos dentes",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 372",
+        "question": "Qual é o único cometa de curto período que pode ser visto regularmente a olho nu da Terra?",
+        "answer1": "R: Cometa Halley",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 373",
+        "question": "Na página VISUALIZAÇÃO DO COMANDANTE, que bônus os comandantes que atuam como \"Guarda Punho de Sangue\" recebem?",
+        "answer1": "R: Saúde de Tropa +1%",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 374",
+        "question": "Uma diminuição em qual das seguintes métricas pode indicar uma proximidade crescente de um estado de vácuo?",
+        "answer1": "R: Pressão do ar",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 375",
+        "question": "Em qual era da história chinesa ocorreu a \"Batalha do Rio Fei\", quando um pequeno grupo de soldados dominou uma tropa vastamente superior?",
+        "answer1": "R: Na Dinastia Jin",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 376",
+        "question": "Quantos Pontos de Atividade diários são necessários para resgatar a recompensa da pista do Presente Diário em \"Pergaminhos de Lucerna\"?",
+        "answer1": "R: 50",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 377",
+        "question": "Quem conquistou o \"Reino dos Vândalos e Alanos\" na Guerra Vândala?",
+        "answer1": "R: Belisário",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 378",
+        "question": "Qual desses países NÃO participou da Guerra Nórdica dos Sete Anos (1563-1570)?",
+        "answer1": "R: Reino Unido",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 379",
+        "question": "Qual comandante supostamente disse: \"Vim, vi, venci\"?",
+        "answer1": "R: Júlio César",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 380",
+        "question": "Em que ano a União Soviética foi formalmente fundada?",
+        "answer1": "R: 1922",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 381",
+        "question": "Onde surgiu o reggae?",
+        "answer1": "R: Jamaica",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 382",
+        "question": "Quem foi o primeiro italiano a receber o \"Prêmio de Arquitetura Pritzker\"?",
+        "answer1": "R: Aldo Rossi",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 383",
+        "question": "Por que o Mar Morto recebeu este nome?",
+        "answer1": "R: A água altamente salina evita que plantas e animais prosperem perto dele",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 384",
+        "question": "Quem foi o primeiro alpinista ou dupla de alpinistas a alcançar o topo do Monte Everest de acordo com os registros?",
+        "answer1": "R: Tenzing Norgay e Edmund Hilary",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 385",
+        "question": "Quem foi o último Imperador de toda a Rússia?",
+        "answer1": "R: Nicholas II",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 386",
+        "question": "Qual compositor escreveu a ópera \"O Anel dos Nibelungos\"?",
+        "answer1": "R: Wagner",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 387",
+        "question": "Qual desses oficiais da aliança concede um aumento na Velocidade de Pesquisa?",
+        "answer1": "R: Conselheiro",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 388",
+        "question": "Com que frequência ocorre a Copa do Mundo FIFA?",
+        "answer1": "R: A cada 4 anos",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 389",
+        "question": "Qual desses campos NÃO está incluso na lista dos Prêmios Nobel?",
+        "answer1": "R: Matématica",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 390",
+        "question": "Os hieróglifos eram parte do sistema de escrita formal de qual país?",
+        "answer1": "R: Egito Antigo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 391",
+        "question": "Qual desses itens NÃO pode ser obtido derrotando bárbaros?",
+        "answer1": "R: Pontos VIP",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 392",
+        "question": "Qual raça de criaturas, míticas ou de outra natureza, viveu em Asgard de acordo com o mito nórdico?",
+        "answer1": "R: Aesir",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 393",
+        "question": "Qual dos seguintes NÃO é um \"país baixo\" da Europa?",
+        "answer1": "R: Reino Unido",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 394",
+        "question": "Quando as bicicletas foram introduzidas na Europa?",
+        "answer1": "R: Século 19",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 395",
+        "question": "Quantas letras são usadas na versão atual do inglês?",
+        "answer1": "R: 26",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 396",
+        "question": "Quantas tropas os governadores podem enviar com Prefeitura de nível 17 ou superior?",
+        "answer1": "R: 4",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 397",
+        "question": "Qual das seguintes civilizações não pode fortalecer sua cavalaria?",
+        "answer1": "R: Os Otomanos",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 398",
+        "question": "Qual desses países NÃO foi membro fundador da OTAN (em 1949)?",
+        "answer1": "R: Peru",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 399",
+        "question": "O brócolis é rico em que vitamina?",
+        "answer1": "R: Vitamina C",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 400",
+        "question": "Na maioria dos casos, que tipo de leão tem uma juba?",
+        "answer1": "R: Macho adulto",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 401",
+        "question": "Equipamentos com bônus de talento especial ampliarão seus atributos por qual porcentagem quando equipados por um comandante com o talento correspondente?",
+        "answer1": "R: 30%",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 402",
+        "question": "A habilidade \"Lorde Viking\" do comandante Björn Ironside beneficia qual dos seguintes tipos de unidade?",
+        "answer1": "R: Infantaria",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 403",
+        "question": "Eu sua trágica viagem, qual era o destino planejado do Titanic?",
+        "answer1": "R: Nova York",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 404",
+        "question": "Em que estado fica a Walt Disney Company?",
+        "answer1": "R: Califórnia",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 405",
+        "question": "Quem fundou o Primeiro Império Persa?",
+        "answer1": "R: Ciro, o Grande",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 406",
+        "question": "Quem projetou o \"Canhão Otomano\"?",
+        "answer1": "R: Urbano",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 407",
+        "question": "Quem fundou o \"Sultanato de Malaca\"?",
+        "answer1": "R: Parameswara",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 408",
+        "question": "Na mitologia antiga, quem era o pai de Hermes?",
+        "answer1": "R: Zeus",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 409",
+        "question": "Qual das alternativas a seguir é medida em \"ano-luz\"?",
+        "answer1": "R: Distância",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 410",
+        "question": "Qual é o nome do estreito turco que divide a Europa da Ásia?",
+        "answer1": "R: (Estreito de) Bósforo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 411",
+        "question": "Quem foi a primeira mulher criada por Hefesto na mitologia grega?",
+        "answer1": "R: Pandora",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 412",
+        "question": "Quem inventou a imprensa?",
+        "answer1": "R: Johann Gutenberg",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 413",
+        "question": "Em RoK, o Catafractário é a unidade especial de qual civilização?",
+        "answer1": "R: Bizâncio",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 414",
+        "question": "Qual dos seguintes é uma construção decorativa?",
+        "answer1": "R: Tambor de pedra",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 415",
+        "question": "O que faz a habilidade de aliança \"Presente da Natureza\" quando é usada?",
+        "answer1": "R: Invoque pontos de recurso numa área selecionada",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 416",
+        "question": "Qual comandante militar era conhecido como o \"Libertador de Teutoburgo\"?",
+        "answer1": "R: Hermann",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 417",
+        "question": "Onde nasceu Pablo Picasso?",
+        "answer1": "R: Ibéria",
+        "answer2": "Obs: Biografia disse Pablo Picasso nasceu em Málaga, Espanha"
+    },
+    {
+        "id": "Questão 418",
+        "question": "Quem escreveu \"O Simpósio\"?",
+        "answer1": "R: Platão",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 419",
+        "question": "Qual dessas obras de literatura Monogatari japonesa descreve a lenda \"Kaguya-hime\"?",
+        "answer1": "R: A Lenda do Cortador de Bambus",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 420",
+        "question": "Qual dos seguintes foi um general durante a Guerra Genpei do Japão?",
+        "answer1": "R: Tomoe Gozen",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 421",
+        "question": "Em qual país o microscópio foi inventado?",
+        "answer1": "R: Países Baixos",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 422",
+        "question": "Qual dos seguintes é o primeiro parque nacional do mundo?",
+        "answer1": "R: Yellowstone National Park",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 423",
+        "question": "O líder militar Carlos Martel NÃO era conhecido por qual dos seguintes feitos?",
+        "answer1": "R: Liderança de unidades de cavalaria",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 424",
+        "question": "Qual comandante é conhecido como \"O Martelo Imortal\"?",
+        "answer1": "R: Carlos Martel",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 425",
+        "question": "Qual das seguintes tecnologias precede a \"Equitação\"?",
+        "answer1": "R: Disciplina Militar",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 426",
+        "question": "Que ferramenta útil foi inventada pelo famoso carpinteiro Lu Ban?",
+        "answer1": "R: A serra",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 427",
+        "question": "Qual é o elemento mais abundante na crosta terrestre?",
+        "answer1": "R: Oxigênio",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 428",
+        "question": "Qual é a menor espécie de cobra conhecida?",
+        "answer1": "R: Leptotyphlops carlae",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 429",
+        "question": "Quem escreveu o conhecido livro \"Sapiens: Uma Breve História da Humanidade\"?",
+        "answer1": "R: Yuval Noah Harari",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 430",
+        "question": "Ingestão insuficiente de que elemento pode causar tiromegalia?",
+        "answer1": "R: Iodo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 431",
+        "question": "Yi Seong-Gye é especialista em qual dos seguintes?",
+        "answer1": "R: Guarnição",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 432",
+        "question": "Quantos Batedores o Acampamento dos Batedores pode comportar ao mesmo tempo?",
+        "answer1": "R: 3",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 433",
+        "question": "Qual das alternativas a seguir é a descrição correta da estratosfera?",
+        "answer1": "R: Quente em cima e fria embaixo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 434",
+        "question": "Qual animal inspirou o nome do \"Rio Tigre\" no grego antigo?",
+        "answer1": "R: Tigre",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 435",
+        "question": "Qual é o principal ingrediente do sal?",
+        "answer1": "R: Cloreto de sódio",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 436",
+        "question": "O que a tecnologia da \"Maçonaria\" pode ajudar a melhorar?",
+        "answer1": "R: A velocidade de construção de construções em sua cidade",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 437",
+        "question": "Quem fundou a \"Armada Espanhola\"?",
+        "answer1": "R: Filipe II",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 438",
+        "question": "A civilização fenícia se originou em que parte do mundo?",
+        "answer1": "R: No Mediterrâneo Oriental",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 439",
+        "question": "Qual é a nacionalidade de Pierre de Fermat, que propôs o Último Teorema de Fermat?",
+        "answer1": "R: França",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 440",
+        "question": "O baú de conquistas de 1.000 pontos inclui:",
+        "answer1": "R: Escultura de Comandante Épico",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 441",
+        "question": "Quem iniciou a primeira Marcha do Sal?",
+        "answer1": "R: Mahatma Gandhi",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 442",
+        "question": "A \"Cortadora de Libélula\" foi arma escolhida por qual herói lendário?",
+        "answer1": "R: Honda Tadakatsu",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 443",
+        "question": "Qual destes eventos NÃO faz parte de um triatlo?",
+        "answer1": "R: Asa delta",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 444",
+        "question": "Em código Morse, qual é a duração em pontos entre duas palavras?",
+        "answer1": "R: 7 pontos",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 445",
+        "question": "O alfabeto grego se originou de qual outro sistema de escrita?",
+        "answer1": "R: Fenício",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 446",
+        "question": "Qual é o maior animal do planeta?",
+        "answer1": "R: Baleia azul",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 447",
+        "question": "Qual destas é uma descrição incorreta do \"Mare Imbrium\" na lua?",
+        "answer1": "R: Ele contém uma certa quantidade de água sedimentar",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 448",
+        "question": "Quem fundou o \"Sultanato de Malaca\"?",
+        "answer1": "R: Parameswara",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 449",
+        "question": "Qual dos seguintes NÃO é um naipe no pôquer?",
+        "answer1": "R: Ventos",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 450",
+        "question": "Quando ocorreu a Guerra da Sucessão Austríaca?",
+        "answer1": "R: 1740-1748",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 451",
+        "question": "Qual desses artistas da era renascentista não era da Itália?",
+        "answer1": "R: Shakespeare",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 452",
+        "question": "Quem foi o primeiro cônsul da República Romana?",
+        "answer1": "R: Lucius Junius Brutus",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 453",
+        "question": "Os governadores não podem ganhar Pontos de Atividade por meio de qual das opções a seguir?",
+        "answer1": "R: Expedições",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 454",
+        "question": "Que gás compõe mais de 90% da atmosfera de Marte?",
+        "answer1": "R: Dióxido de carbono",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 455",
+        "question": "A habilidade ativa de qual Comandante pode infligir Silêncio?",
+        "answer1": "R: Hermann",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 456",
+        "question": "Na mitologia grega antiga, quem era a esposa de Hades, o rei do submundo?",
+        "answer1": "R: Perséfone",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 457",
+        "question": "Quem derrotou a Esfinge de acordo com a lenda grega?",
+        "answer1": "R: Édipo (Oidípous)",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 458",
+        "question": "Qual das seguintes opções NÃO aumenta o limite de membros de uma Aliança?",
+        "answer1": "R: Indicar oficiais",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 459 (idem 25)",
+        "question": "Qual das opções seguir NÃO concede Créditos Individuais?",
+        "answer1": "R: Atacar bárbaros",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 460",
+        "question": "Os pandas têm 5 dedos em garras e um sexto dígito. Para que os pandas usam seu sexto dígito?",
+        "answer1": "R: Para segurar o bambu enquanto comem",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 461",
+        "question": "A Tecnologia de Aliança \"Guardião de Território\" aumenta qual atributo das tropas ao lutar no território da Aliança?",
+        "answer1": "R: Ataque",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 462",
+        "question": "A Torre Jin Mao de Xangai tem quantos andares?",
+        "answer1": "R: 88",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 463",
+        "question": "A sua Prefeitura precisa estar em que nível para entrar na Idade do Ferro?",
+        "answer1": "R: Nível 10",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 464",
+        "question": "Se um homem com sangue tipo AB e uma mulher com sangue tipo B tiverem um bebê, qual das seguintes afirmações estaria incorreta?",
+        "answer1": "R: Poderia ter sangue tipo O",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 467",
+        "question": "Qual é o apelido de Cleópatra VII no jogo?",
+        "answer1": "R: Rainha do Egito",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 468",
+        "question": "Quem foi o professor de Platão?",
+        "answer1": "R: Socrates",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 469",
+        "question": "Qual dessas civilizações pode aumentar sua velocidade de cura?",
+        "answer1": "R: França",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 470",
+        "question": "Qual desses efeitos NÃO é causado pelas habilidades de AEthelflaed?",
+        "answer1": "R: Curar unidades ligeiramente feridas",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 471",
+        "question": "Qual destes NÃO é considerado um dos \"Cinco Bons Imperadores\" da dinastia Nerva-Antonina da Roma Antiga?",
+        "answer1": "R: Cômodo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 472",
+        "question": "Que informação o item Tropas Enganosas falsifica para Batedores inimigos?",
+        "answer1": "R: Contagem de unidades da sua cidade",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 473",
+        "question": "Qual é a maior cidade do Reino Unido?",
+        "answer1": "R: Londres",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 474",
+        "question": "A obra orquestral \"Abertura 1812\" foi composta para comemorar a vitória de quem?",
+        "answer1": "R: Império Russo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 475",
+        "question": "Qual desses comandantes tem a capacidade de converter algumas unidades mortas em unidades gravemente feridas ao atacar uma cidade?",
+        "answer1": "R: Carlos Magno",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 476",
+        "question": "A Tecnologia de Aliança \"Guardião do Território\" aumenta qual atributo das tropas ao lutar no território da Aliança?",
+        "answer1": "R: Ataque",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 477",
+        "question": "Onde ocorreu a batalha final entre o Rei Arthur e Mordred, de acordo com a Lenda Arturiana?",
+        "answer1": "R: Camlann",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 478",
+        "question": "Quantas vezes você pode receber uma ajuda da aliança se o seu centro de aliança estiver no nível 25?",
+        "answer1": "R: 30",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 479",
+        "question": "Qual destes eventos NÁO faz parte dos Jogos Olímpicos?",
+        "answer1": "R: Automobilismo",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 480",
+        "question": "Um \"dia\" no planeta Vênus é aproximadamente igual a quantos dias na Terra?",
+        "answer1": "R: 243 dias",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 481",
+        "question": "No Livro do Êxodo, quem conduz o povo judeu à Terra Prometida?",
+        "answer1": "R: Moisés",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 482",
+        "question": "Qual destas é uma fala de Tomoe Gozen?",
+        "answer1": "R: Meu poder assusta até mesmo os fantasmas",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 483",
+        "question": "Qual destas NÃO é uma das habilidades de Cao Cao?",
+        "answer1": "R: Batalha da tristeza",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 484",
+        "question": "O galo gaulês é um símbolo nacional oficial de qual país?",
+        "answer1": "R: França",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 485",
+        "question": "Quem mata Odin, o rei dos deuses, durante o Ragnarok na mitologia nórdica?",
+        "answer1": "R: Fenrir",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 486",
+        "question": "A que famosa e influente família da Renascença o patrono da arte Duque Lorenzo pertenceu?",
+        "answer1": "R: A Casa dos Medici",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 487",
+        "question": "Qual as histórias a seguir não faz parte dos Contos de Fadas dos irmãos Grimm?",
+        "answer1": "R: A pequena sereia",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 488",
+        "question": "Quanto tempo durou a Guerra dos Cem Anos entre a Inglaterra e a França?",
+        "answer1": "R: 116 anos",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 489",
+        "question": "Qual continente tem as temperaturas médias mais baixas?",
+        "answer1": "R: Antártida",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 490",
+        "question": "Qual desses filmes animados NÃO foi dirigido por Hayao Miyazaki?",
+        "answer1": "R: Paprika",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 491",
+        "question": "A Rainha Genebra se apaixonou por qual Cavaleiro da Távola Redonda, segundo a lenda arturiana?",
+        "answer1": "R: Lancelote",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 492",
+        "question": "Qual dos seguintes NÃO é um pré-requisito para a Cartografia de Tecnologia Militar?",
+        "answer1": "R: Balística",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 493",
+        "question": "Qual artista pintou a mundialmente famosa \"Moça com o Brinco de Pérola\"?",
+        "answer1": "R: Johannes Vermeer",
+        "answer2": ""
+    },
+    {
+        "id": "Questão 494",
+        "question": "Qual dos seguintes é considerado um dos discípulos de Confúcio?",
+        "answer1": "R: Yan Hui",
+        "answer2": ""
+    }
+]
