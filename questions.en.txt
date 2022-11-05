@@ -2565,3 +2565,167 @@ A: Movable character printing press
 Question 648
 Where are the world's largest proven oil reserves located?
 A: Ghawar Field
+
+Question 649
+Who was the author of the tragedy "Medea"?
+A: Euripides
+
+question 650
+How many tents are displayed in the Military Technology icon?
+A: 3
+
+Question 651
+In which kingdom did Commander Boudica?
+A: Iceni
+
+Question 652
+Which of the following will NOT prevent you from entering an Ark of Osiris battlefield?
+A: Activate an Attack Upgrade
+
+Question 653
+How much space does a City Hall occupy in the city?
+A: 9x9
+
+Question 654
+The blueprint fragments of which of the following accessories CANNOT be redeemed in the Conquest Season Shop?
+A: Eternal Night Pendant
+
+Question 655
+Assam tea, known for its rich aroma, originated in which country?
+A: India
+
+Question 656
+In which country was mozzarella cheese, widely associated with pizza and Italian cuisine, first produced?
+A: Italy
+
+Question 657
+Which of the following penalties may apply in response to using third-party software?
+A: Battle restrictions
+
+Question 658
+Which of these historical figures was NOT a botanist?
+A: Dmitry Mendeleev
+
+Question 659
+Where is the right hand of the famous sculpture known as "The Thinker"?
+A: Under the chin
+
+question 660
+Which Ceroli Boss has surrounded Citadel of the Brave with his forces?
+A: Torgny
+
+Question 661
+Which of these Alliance Skills increases damage against barbarians and other neutral units?
+A: Rampant progress
+
+Question 662
+What are the weapons used by the City Guardian commander?
+A: An ax and a shield
+
+Question 663
+Which of these Blessings immediately inflicts a 10% loss of troop power on your enemy at the start of battle in the "Golden Kingdom" event?
+A: Anchor
+
+Question 664
+Which of these abilities belonging to Commander Sun Tzu is augmented by Awakening?
+A: Art of War
+
+Question 665
+What kind of boost does Commander Joan of Arc's active ability give allied forces?
+A: Anger
+
+Question 666
+What kind of combat blessing do mixed units receive in Champions of Olympia?
+A: The Blessing of Apollo
+
+Question 667
+How many Key Points are needed to unlock the Blue Crystal Treasure in Alliance Gifts?
+A: 3,000,000
+
+Question 668
+Where was the famous musician Beethoven born?
+A: Bonn
+
+Question 669
+Which of these CANNOT be obtained from a Tavern Equipment Chest?
+A: 60 Minute Training Acceleration
+
+question 670
+Fish and chips originated in which country?
+A: England
+
+Question 671
+How many cards in total are shown in the Mystery Trader's hands?
+A: 5
+
+Question 672
+What type of commander becomes the temporary Garrison Commander if a Governor has not appointed a commander or a named commander is not present?
+A: The highest level commander currently present
+
+Question 673
+Which of the following is NOT a component used to forge the "Golden Age" Epic weapon?
+A: animal bone
+
+Question 674
+In which country was the microscope invented?
+A: Netherlands
+
+Question 675
+In which country were the Wars of the Roses fought?
+A: England
+
+Question 676
+What is the biggest pyramid in the world?
+A: The Great Pyramid of Cholula
+
+Question 677
+In which region of Italy is the Cathedral of Santa Maria del Fiore located?
+A: Tuscany
+
+Question 678
+One "day" on Planet Venus is approximately equal to how many days on Earth?
+A: 243 days
+
+Question 679
+Which of these foods could the Eastern Han statesman Cao Cao not have eaten?
+A: corn
+
+question 680
+"Tongwancheng" was the capital of which ethnic group in ancient China?
+A: Xiongnu
+
+Question 681
+In what country was Marco Polo, the famous explorer and merchant born?
+A: Republic of Venice
+
+Question 682
+Who is the mother of Cupid, the baby-faced god of love in Roman mythology?
+A: Venus
+
+Question 683
+Which military leader was known as the "Reformer of the Legions"?
+A: Gaius Marius
+
+Question 684
+Who "owns" Easter Island?
+A: Chile
+
+Question 685
+Held in 1929, how long did the first Academy Award ("Oscar") last?
+A: 15 minutes
+
+Question 686
+Which musician composed "The Marriage of Figaro"?
+A: Mozart
+
+Question 687
+In the Wish for Victory event, how can players earn rewards?
+A: Training troops
+
+Question 688
+The Luger pistol, manufactured for the German army during World War II, uses what type of ammunition?
+A: 9mm Parabellum
+
+Question 689
+Which of these novels was NOT written by Margaret Atwood?
+A: Flowers for Algernon
