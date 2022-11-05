@@ -10,8 +10,12 @@ Languages available:
 
 - Portuguese (Original)
 - English
+- Phillipine
+- French
+- Vietnamese
+- Indonesian
 
---
+---
 
 [LICENSE - MIT - André Varandas](LICENSE)
 
