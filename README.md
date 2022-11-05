@@ -15,7 +15,7 @@ Languages available:
 - Vietnamese
 - Indonesian
 
---
+---
 
 [LICENSE - MIT - André Varandas](LICENSE)
 
