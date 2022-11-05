@@ -2565,3 +2565,167 @@ R: Prensa de impressão de caracteres móveis
 Questão 648
 Onde estão localizadas as maiores reservas comprovadas de petróleo do mundo?
 R: Campo Ghawar
+
+Questão 649
+Quem foi o autor da tragédia "Medeia"?
+R: Eurípedes
+
+Questão 650
+Quantas tendas são exibidas no ícone da Tecnologia Militar?
+R: 3
+
+Questão 651
+Em que reino o comandante Boudica?
+R: Iceni
+
+Questão 652
+Qual das seguintes opções NÃO impedirá você de entrar em um campo de batalha da Arca de Osíris?
+R: Ativar um Aprimoramento de Ataque
+
+Questão 653
+Quanto espaço uma Prefeitura ocupa na cidade?
+R: 9x9
+
+Questão 654
+Os fragmentos da planta de qual dos seguintes acessórios NÃO PODE ser resgatado na Loja Temporada de Conquista?
+R: Pingente da noite eterna
+
+Questão 655
+O chá de assam, conhecido pelo seu rico aroma, surgiu em qual país?
+R: Índia
+
+Questão 656
+Em qual país o queijo muçarela, amplamente associado às pizzas e culinária italiana, foi produzido pela primeira vez?
+R: Itália
+
+Questão 657
+Qual das seguintes penalidades podem ser aplicadas em resposta ao uso de softwares de terceiros?
+R: Restrições de batalha
+
+Questão 658
+Qual dessas figuras históricas NÃO era um botânico?
+R: Dmitry Mendeleev
+
+Questão 659
+Onde está a mão direita da famosa escultura conhecida como "O Pensador"?
+R: Debaixo do queixo
+
+Questão 660
+Qual Chefe Ceroli cercou a Cidadela dos Bravos com suas forças?
+R: Torgny
+
+Questão 661
+Qual dessas Habilidades da Aliança aumenta o dano contra bárbaros e outras unidades neutras?
+R: Progresso desenfreado
+
+Questão 662
+Quais são as armas usadas pelo comandante Guardião da Cidade?
+R: Um machado e um escudo
+
+Questão 663
+Quais dessas Bênçãos inflige imediatamente uma perda de 10% de poder de tropa ao seu inimigo no início da batalha no evento "Reino Dourado"?
+R: Âncora
+
+Questão 664
+Quais dessas habilidades pertencentes ao Comandante Sun Tzu é aumentada ao Despertar?
+R: Arte da Guerra
+
+Questão 665
+Que tipo de boost a habilidade ativa da comandante Joana D'Arc concede às forças aliadas?
+R: Raiva
+
+Questão 666
+Que tipo de bênção de combate as unidades mistas recebem em Campeões de Olímpia?
+R: A Bênção de Apolo
+
+Questão 667
+Quantos Pontos Chave são necessários para desbloquear o Tesouro de Cristal Azul nos Presentes da Aliança?
+R: 3.000.000
+
+Questão 668
+Onde nasceu o famoso músico Beethoven?
+R: Bonn
+
+Questão 669
+Quais desses itens NÃO PODEM ser obtidos num Baú de Equipamentos de Taberna?
+R: Aceleração de treinamento de 60 Minutos
+
+Questão 670
+O peixe com fritas se originou em qual país?
+R: Inglaterra
+
+Questão 671
+Quantas cartas no total são mostradas nas mãos do Mercador Misterioso?
+R: 5
+
+Questão 672
+Que tipo de comandante se torna o Comandante da Guarnição temporarário caso um Governador não tenha nomeado um comandante ou um comandante nomeado não esteja presente?
+R: O comandante de nível mais alto presente no momento
+
+Questão 673
+Qual das seguintes opções NÃO é um componente usado para forjar a arma Épica "Era Dourada"?
+R: Osso animal
+
+Questão 674
+Em qual país o microscópio foi inventado?
+R: Países Baixos
+
+Questão 675
+Em que país foram travadas as Guerras das Rosas?
+R: Inglaterra
+
+Questão 676
+Qual é a maior pirâmide do mundo?
+R: A Grande Pirâmide de Cholula
+
+Questão 677
+Em qual região da Itália fica a Catedral de Santa Maria del Fiore?
+R: Toscana
+
+Questão 678
+Um "dia" no Planeta Vênus é aproximadamente igual a quantos dias na Terra?
+R: 243 dias
+
+Questão 679
+Qual desses alimentos o estadista Han Oriental Cao Cao poderia não ter comido?
+R: Milho
+
+Questão 680
+"Tongwancheng" foi a capital de qual grupo étnico da China antiga?
+R: Xiongnu
+
+Questão 681
+Em que país nasceu Marco Polo, o famoso explorador e comerciante?
+R: República de Veneza
+
+Questão 682
+Quem é a mãe de Cupido, o deus do amor com cara de bebê na mitologia romana?
+R: Vênus
+
+Questão 683
+Qual líder militar era conhecido como o "Reformador das Legiões"?
+R: Gaius Marius
+
+Questão 684
+Quem "possui" a ilha de Páscoa?
+R: Chile
+
+Questão 685
+Realizada em 1929, quanto tempo durou o primeiro Prêmio da Academia ("Oscar") durou?
+R: 15 minutos
+
+Questão 686
+Qual músico compôs "As Bodas de Fígaro"?
+R: Mozart
+
+Questão 687
+No evento Desejo de Vitória, como os jogadores podem ganhar recompensas?
+R: Treinando tropas
+
+Questão 688
+A pistola Luger, fabricada para o exército alemão durante a Segunda Guerra Mundial, usa qual tipo de munição?
+R: 9mm Parabellum
+
+Questão 689
+Qual desses romances NÃO foi escrito por Margaret Atwood?
+R: Flores para Algernon
