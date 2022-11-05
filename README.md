@@ -10,6 +10,10 @@ Languages available:
 
 - Portuguese (Original)
 - English
+- Phillipine
+- French
+- Vietnamese
+- Indonesian
 
 --
 
