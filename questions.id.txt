@@ -2820,7 +2820,7 @@ J: Michelangelo
 
 Pertanyaan 712
 Manakah dari komandan berikut yang mengumpulkan sumber daya dengan buruk?
-A:
+J: 712
 
 Pertanyaan 713
 Vitamin apa yang dapat menyebabkan rabun senja?

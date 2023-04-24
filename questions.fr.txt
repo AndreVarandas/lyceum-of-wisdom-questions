@@ -2820,7 +2820,7 @@ R : Michel-Ange
 
 question 712
 Lequel des commandants suivants a mal collecté les ressources ?
-UN:
+R: Markswoman
 
 question 713
 Quelle vitamine peut causer la cécité nocturne?
