@@ -62,7 +62,7 @@ Questão 60|O Império Mughal levou o islã para onde?|R: Maioria da Índia|
 Questão 61|Que tipo de desastre natural é medido usando a escala Richter?|R: Terremoto|
 Questão 62|O Papai Noel viaja num trenó puxado por que animais?|R: Renas|
 Questão 63|Qual dos seguintes comandantes foi parte da Guerra dos Cem Anos?|R: Joana D'Arc|
-Questão 64|Qual dos seguintes NÃO pode ser encontrado num baú prateado na taberna?|R: Tomo da Sabedoria Nv. 3|R: Tomo do Conhecimento Nv. 3|
+Questão 64|Qual dos seguintes NÃO pode ser encontrado num baú prateado na taberna?|R: Tomo da Sabedoria Nv. 3 e Tomo do Conhecimento Nv. 3|
 Questão 65|Que parte do corpo humano contém mais água?|R: Globos oculares|
 Questão 66|Quem escreveu a arte da guerra?|R: Sun tzu|
 Questão 67|Quem fundou o reino de Astúrias?|R: Pelágio|
@@ -80,7 +80,7 @@ Questão 78|Qual desses foi o único comandante a derrotar Cyrus, O Grande, em b
 Questão 79|Sob circunstâncias normais, que camada do sol podemos ver a olho nu?|R: Fotosfera|
 Questão 80|Quem pintou a Mona Lisa?|R: Leonardo da Vinci|
 Questão 81|Qual dessas é uma fase no evento "O Governador Mais Poderoso"?|R: Eliminação do Inimigo|
-Questão 82|Que comandante demonstrou sua genialidade militar na Batalha de Poitiers no século VIII?|R: Carlos Martel|
+Questão 82|Que comandante demonstrou sua genialidade militar na Batalha de Tours no século VIII? ou Que comandante demonstrou sua genialidade militar na Batalha de Poitiers no século VIII?|R: Carlos Martel|
 Questão 83|Os egípcios fizeram papel a partir de que material?|R: Papiro|
 Questão 84|Qual é o nível mais alto da Prefeitura em RoK?|R: 25|
 Questão 85|Quem foi o imperador do Primeiro Império Francês?|R: Napoleão Bonaparte|
@@ -105,7 +105,7 @@ Questão 103|Qual dos seguintes não é um recurso renovável?|R: Água|
 Questão 104|Qual dos seguintes é considerado uma fonte de energia?|R: Petróleo|
 Questão 105|Que estadista proeminente serviu como o primeiro general do shogunato Edo no final do período dos Estados Beligerantes do Japão?|R: Tokugawa leyasu|
 Questão 106|Sem usar buffs, quantos Pontos de Ação um Governador pode ter?|R: 1000|
-Questão 107|O processo de dividir átomos é conhecido como o quê?|R: Fissão|
+Questão 107|O processo de dividir átomos é conhecido como o quê?|R: Fissão (dividir)(cuidado a palavra dividir é fissão e combinar é fusão)|
 Questão 108|Que país não está na Europa?|R: Egito|
 Questão 109|De onde vêm as adaptações?|R: Tanto de mutações quanto de recombinação genética|
 Questão 110|As Guerras Púnicas foram lutadas pela Antiga Roma e que outro império antigo?|R: Cártago Antigo|
@@ -164,7 +164,7 @@ Questão 162|Quem foi chamado de "Napoleão do crime" em algumas das histórias 
 Questão 163|O formato da comédia chinesa "crosstalk" origina-se em três lugares: Tianqiao em Pequim, o Quanye Bazaar em Tianjin e onde em Nanjing?|R: Fuzimiao|
 Questão 164|Qual dos seguintes instrumentos musicais tem seis cordas?|R: Violão|
 Questão 165|Como se faz para ganhar créditos de tecnologia da aliança?|R: Doando para a tecnologia da aliança de pesquisa|
-Questão 166|O processo de combinar átomos é conhecido como o quê?|R: Fusão |
+Questão 166|O processo de combinar átomos é conhecido como o quê?|R: Fusão|
 Questão 167|Vantagens da imprensa de Johannes Gutenberg incluem todos os seguintes, exceto qual?|R: Aumento do poder da igreja|
 Questão 168|Em que país o ar-condicionado foi inventado?|R: EUA|
 Questão 169|Quantas vezes o caractere "1" é usado quando você escreve do número 1 ao 99?|R: 20|
@@ -189,7 +189,6 @@ Questão 187|Qual dos seguintes físicos nasceu no aniversário de morte de Gali
 Questão 188|Qual dos seguintes é um combustível fóssil formado de organismos marinhos que frequentemente são encontrados em camadas empilhadas ou inclinadas e usados para aquecimento e cozinhar?|R: Gás natural|
 Questão 189|Qual dos seguintes comandantes é excelente em liderar a infantaria?|R: Richard I|
 Questão 190|Na Grécia antiga, que filósofo gostava de discutir ideias numa rua que depois foi apelidada de "Escola Peripatética"?|R: Aristóteles|
-Questão 191|Que psicólogo alemão descobriu a curva de esquecimento do cérebro humano?|R: Hermann Ebbinghaus|
 Questão 192|Qual das seguintes civilizações oferece um bônus de 5% para unidades de cavalaria?|R: Alemanha|
 Questão 193|Que inventor construiu a primeira locomotiva elétrica do mundo em 1837?|R: Robert Davidson|
 Questão 194|Na Arca de Osíris, que Aceleração você pode usar?|R: Aceleração de Cura|
@@ -206,7 +205,6 @@ Questão 204|Quem escreveu "A Arte da Guerra"?|R: Sun Tzu|
 Questão 205|Que dois principais trabalhos são atribuídos a Homero?|R: A Odisseia e A Ilíada|
 Questão 206|Quem acreditava-se ser o protótipo do Rei de Copas no pôquer?|R: Carlos Magno|
 Questão 207|Quem propôs a ideia filosófica de "Penso, logo existo"?|R: Descartes|
-Questão 208|Em que a Comandante Hermann é boa?|R: Liderar unidades de arquearia|
 Questão 209|Qual das seguintes conquistas deve ser concluída antes da conquista "Floco de Neve Especial"?|R: Golpe de longo alcance|
 Questão 210|Em que o Comandante Sun Tzu é bom?|R: Liderar guarnições de cidade|
 Questão 211|Qual dos seguintes NÃO pode ser encontrado nas Lojas da Aliança?|R: Chave de ouro|
@@ -219,7 +217,7 @@ Questão 217|Durante a Segunda Guerra Púnica, em que batalha Hannibal, com um e
 Questão 218|Qual das seguintes comandantes se juntou a uma rebelião contra seu próprio marido?|R: Constânça|
 Questão 219|Em que o Comandante Eulji Mundeok é bom?|R: Liderar unidades de infantaria|
 Questão 220|O épico de Homero, "A Ilíada" foca nos eventos que acontecem durante que guerra ou batalha?|R: A Guerra de Troia|
-Questão 221|Qual destas é uma das "habilidades ativas" de Minamoto no Yoshitsune?|R: Kyohachiryu|
+Questão 221|Qual destas é uma das "habilidades ativas" de Minamoto no Yoshitsune? Qual é a habilidade ativa de Minamoto no Yoshitsune?|R: Kyohachiryu|
 Questão 222|A Rainha Vitória da Inglaterra fez parte de que casa real?|R: A Casa dos Hanover|
 Questão 223|Qual foi um farol construído depois que a Macedônia conquistou o Egito e foi uma das sete maravilhas do mundo antigo?|R: O Farol de Alexandria|
 Questão 224|O que causa eclipses lunares?|R: A Terra se move diretamente entre o sol e a lua|
@@ -241,7 +239,7 @@ Questão 239|Quantos ossos um humano adulto normalmente tem?|R: 206|
 Questão 240|Que comandante assinou um tratado de paz com Saladin em 1192?|R: Richard I|
 Questão 241|Quem foi o fundador do Império Mongol?|R: Genghis Khan|
 Questão 242|Que rei de país europeu fundou a famosa expediência de Cristovão Colombo?|R: Espanha|
-Questão 243|Qual das seguintes descrições de título de reino está incorreta?|R: As tropas dos duques aumentaram o ataque |R: As tropas dos primeiro ministros aumentaram o ataque|
+Questão 243|Qual das seguintes descrições de título de reino está incorreta?|R: As tropas dos duques aumentaram o ataque e As tropas dos primeiro ministros aumentaram o ataque|
 Questão 244|Qual das seguintes NÃO é uma das habilidades de Osman I?|R: Táticas oblíquas|
 Questão 245|Qual é o nome da energia renovável derivada de matéria orgânica queimando como madeira e álcool?|R: Biomassa|
 Questão 246|Quando a prefeitura de um governador alcançar o nível 25, quantas fazendas ele pode construir?|R: 4|
@@ -255,7 +253,7 @@ Questão 253|Qual das seguintes NÃO é uma das habilidades de Belisarius?|R: Fo
 Questão 254|Dos comandantes abaixo, qual se adegua melhor a liderar tropas CONTRA inimigos de infantaria?|R: Hermann|
 Questão 255|Na página VISUALIZAÇÃO DO COMANDATE, que bônus os comandantes agindo como "Guarda" ganham?|R: Nenhuma dessas respostas está correta|
 Questão 256|Qual dos seguintes NÃO é uma habilidade de rei?|R: Alívio|
-Questão 256|Qual das seguintes NÃO é uma das habilidades de Keira?|R: Sangue Indisciplinado|
+Questão 256B|Qual das seguintes NÃO é uma das habilidades de Keira?|R: Sangue Indisciplinado|
 Questão 257|Dos comandantes abaixo, qual se adegua melhor a liderar tropas CONTRA inimigos de arquearia?|R: Cao Cao|
 Questão 258|Qual das seguintes NÃO é uma das habilidades de Hermann?|R: Irrestível|
 Questão 259|Dos comandantes abaixo, qual se adegua melhor a liderar tropas CONTRA inimigos de cavalaria?|R: Sun Tzu|
@@ -277,7 +275,7 @@ Questão 274|Qual dos seguintes animais NÃO coloca ovos?|R: Morcego|
 Questão 275|Qual tecnologia vem logo antes do Pavise?|R: Flechas Bodkin|
 Questão 276|Qual é o propósito principal das células brancas do sangue no corpo humano?|R: Combate infecções e doenças|
 Questão 277|Qual tecnologia vem logo antes do Espadachim?|R: Trabalho de Ferro|
-Questão 278|Em que o Comandante Lancelotee é bom?|R: Liderar unidades de cavalaria|
+Questão 278|Em que o Comandante Lancelote é bom?|R: Liderar unidades de cavalaria|
 Questão 279|Qual dos seguintes descreve precisamente o Círculo Ártico?|R: Dia Polar e Noite Polar são fenômenos que ocorrem lá|
 Questão 280|Qual dos seguintes países está localizado inteiramente no Hemisfério Norte?|R: Nenhuma dessas respostas está correta|
 Questão 281|Qual dos seguintes é uma construção econômica?|R: Centro de Alianças|
@@ -285,7 +283,6 @@ Questão 282|Além de "Vezes que você pode ser ajudado" e "Poder", qual dos seg
 Questão 283|Que astrônomo propôs a teoria heliocêntrica no século XVI?|R: Nicolau Copérnico|
 Questão 284|Qual dos seguintes é uma construção militar?|R: Acampamento de batedores|
 Questão 285|Qual é a principal causa da formação dos Himalaias?|R: Colisão entre placas|
-Questão 286|Em que a Comandante Baybars é boa?|R: Liderar unidades de cavalaria|
 Questão 287|No Antigo Egito, qual dos seguintes NÃO era um privilégio de ser um 'Escriba'?|R: Isento de pagar despesas médicas, se estivesse doente|
 Questão 288|Quantos pontos VIP você pode comprar com 200 gemas?|R: 200|
 Questão 289|Qual dos seguintes descreve um peixe-palhaço?|R: Peixe marinho tropical|
@@ -338,7 +335,7 @@ Questão 336|Qual dos seguintes comandantes foi de fato governante do seu reino,
 Questão 337|Quem foi a primeira mulher a ganhar o Prêmio Nobel?|R: Marie Curie|
 Questão 338|O Dia do Elba foi a reunião de quais exércitos durante a Segunda Guerra Mundial?|R: EUA e URSS|
 Questão 339|Por que a enfermeira britânica Florence Nightingale era conhecida como "A Dama da Lâmpada"?|R: Porque precisava examinar os pacientes à noite|
-Questão 340|Na mitologia nórdica, qual era a Àrvore do Mundo?|R: Freixo|
+Questão 340|Na mitologia nórdica, qual era a Árvore do Mundo?|R: Freixo|
 Questão 341|O último livro de Darwin discutia primariamente a influência de qual espécie no solo?|R: Minhocas|
 Questão 342|Quantos baús de recompensa são concedidos ao atingir 60 pontos de atividades diária?|R: 3|
 Questão 343|Qual era o título Pierre de Coubertin, fundador do Comitê Olímpico International?|R: Barão|
@@ -365,8 +362,8 @@ Questão 363|Qual tumba de um faraó do antigo Egito o arqueólogo britânico Ho
 Questão 364|Os espinhos de cacto são na verdade uma forma modificada de qual outra parte da planta?|R: Folhas|
 Questão 367|Dos comandantes abaixo, qual se adequa melhor a liderar tropas ao coletar recursos?|R: Seondeok|
 Questão 368|Charles Macintosh fabricou uma versão primitiva da capa de chuva a partir de qual material?|R: Borracha|
-Questão 367|Contra qual país a Inglaterra estava lutando na Batalha de Agincourt?|R: França|
-Questão 368|Qual imperador foi nomeado o "Khan do Céu" por vários nômades turcos durante as dinastias Sui e Tang?|R: Imperador Taizong de Tang|
+Questão 367B|Contra qual país a Inglaterra estava lutando na Batalha de Agincourt?|R: França|
+Questão 368B|Qual imperador foi nomeado o "Khan do Céu" por vários nômades turcos durante as dinastias Sui e Tang?|R: Imperador Taizong de Tang|
 Questão 369|Quais das seguintes cidades foi a primeira a ter um sistema de metrô expresso?|R: Londres|
 Questão 370|Em que ano foi publicada a primeira edição de "O diário de Anne Frank"?|R: 1947|
 Questão 371|Qual é a parte mais dura do corpo humano?|R: Esmalte dos dentes|
@@ -415,7 +412,7 @@ Questão 413|Em RoK, o Catafractário é a unidade especial de qual civilizaçã
 Questão 414|Qual dos seguintes é uma construção decorativa?|R: Tambor de pedra|
 Questão 415|O que faz a habilidade de aliança "Presente da Natureza" quando é usada?|R: Invoque pontos de recurso numa área selecionada|
 Questão 416|Qual comandante militar era conhecido como o "Libertador de Teutoburgo"?|R: Hermann|
-Questão 417|Onde nasceu Pablo Picasso?|R: Ibéria|Obs: Biografia disse Pablo Picasso nasceu em Málaga, Espanha|
+Questão 417|Onde nasceu Pablo Picasso?|R: Ibéria - Obs: Biografia disse Pablo Picasso nasceu em Málaga, Espanha|
 Questão 418|Quem escreveu "O Simpósio"?|R: Platão|
 Questão 419|Qual dessas obras de literatura Monogatari japonesa descreve a lenda "Kaguya-hime"?|R: A Lenda do Cortador de Bambus|
 Questão 420|Qual dos seguintes foi um general durante a Guerra Genpei do Japão?|R: Tomoe Gozen|
@@ -446,7 +443,6 @@ Questão 444|Em código Morse, qual é a duração em pontos entre duas palavras
 Questão 445|O alfabeto grego se originou de qual outro sistema de escrita?|R: Fenício|
 Questão 446|Qual é o maior animal do planeta?|R: Baleia azul|
 Questão 447|Qual destas é uma descrição incorreta do "Mare Imbrium" na lua?|R: Ele contém uma certa quantidade de água sedimentar|
-Questão 448|Quem fundou o "Sultanato de Malaca"?|R: Parameswara|
 Questão 449|Qual dos seguintes NÃO é um naipe no pôquer?|R: Ventos|
 Questão 450|Quando ocorreu a Guerra da Sucessão Austríaca?|R: 1740-1748|
 Questão 451|Qual desses artistas da era renascentista não era da Itália?|R: Shakespeare|
@@ -459,12 +455,12 @@ Questão 457|Quem derrotou a Esfinge de acordo com a lenda grega?|R: Édipo (Oid
 Questão 458|Qual das seguintes opções NÃO aumenta o limite de membros de uma Aliança?|R: Indicar oficiais|
 Questão 459 (idem 25)|Qual das opções seguir NÃO concede Créditos Individuais?|R: Atacar bárbaros|
 Questão 460|Os pandas têm 5 dedos em garras e um sexto dígito. Para que os pandas usam seu sexto dígito?|R: Para segurar o bambu enquanto comem|
-Questão 461|A Tecnologia de Aliança "Guardião de Território" aumenta qual atributo das tropas ao lutar no território da Aliança?|R: Ataque|
+Questão 461|A Tecnologia de Aliança "Guardião do Território" aumenta qual atributo das tropas ao lutar no território da Aliança?|R: Ataque|
 Questão 462|A Torre Jin Mao de Xangai tem quantos andares?|R: 88|
-Questão 463|A sua Prefeitura precisa estar em que nível para entrar na Idade do Ferro?|R: Nível 10|
+Questão 463|A sua Prefeitura precisa estar em que nível para entrar na Idade do Aço (Ferro)?|R: Nível 10|
 Questão 464|Se um homem com sangue tipo AB e uma mulher com sangue tipo B tiverem um bebê, qual das seguintes afirmações estaria incorreta?|R: Poderia ter sangue tipo O|
 Questão 467|Qual é o apelido de Cleópatra VII no jogo?|R: Rainha do Egito|
-Questão 468|Quem foi o professor de Platão?|R: Socrates|
+Questão 468|Quem foi o professor de Platão?|R: Sócrates|
 Questão 469|Qual dessas civilizações pode aumentar sua velocidade de cura?|R: França|
 Questão 470|Qual desses efeitos NÃO é causado pelas habilidades de AEthelflaed?|R: Curar unidades ligeiramente feridas|
 Questão 471|Qual destes NÃO é considerado um dos "Cinco Bons Imperadores" da dinastia Nerva-Antonina da Roma Antiga?|R: Cômodo|
@@ -472,7 +468,7 @@ Questão 472|Que informação o item Tropas Enganosas falsifica para Batedores i
 Questão 473|Qual é a maior cidade do Reino Unido?|R: Londres|
 Questão 474|A obra orquestral "Abertura 1812" foi composta para comemorar a vitória de quem?|R: Império Russo|
 Questão 475|Qual desses comandantes tem a capacidade de converter algumas unidades mortas em unidades gravemente feridas ao atacar uma cidade?|R: Carlos Magno|
-Questão 476|A Tecnologia de Aliança "Guardião do Território" aumenta qual atributo das tropas ao lutar no território da Aliança?|R: Ataque|
+Questão 476|Como se faz para ganhar Pontos de Tecnologia de Aliança?|R: Doando para a tecnologia da aliança de pesquisa|
 Questão 477|Onde ocorreu a batalha final entre o Rei Arthur e Mordred, de acordo com a Lenda Arturiana?|R: Camlann|
 Questão 478|Quantas vezes você pode receber uma ajuda da aliança se o seu centro de aliança estiver no nível 25?|R: 30|
 Questão 479|Qual destes eventos NÁO faz parte dos Jogos Olímpicos?|R: Automobilismo|
@@ -491,3 +487,432 @@ Questão 491|A Rainha Genebra se apaixonou por qual Cavaleiro da Távola Redonda
 Questão 492|Qual dos seguintes NÃO é um pré-requisito para a Cartografia de Tecnologia Militar?|R: Balística|
 Questão 493|Qual artista pintou a mundialmente famosa "Moça com o Brinco de Pérola"?|R: Johannes Vermeer|
 Questão 494|Qual dos seguintes é considerado um dos discípulos de Confúcio?|R: Yan Hui|
+Questão 495|Qual órgão da planta da batata costumamos comer?|R: Caule|
+Questão 496|O Prêmio Urso de Ouro é concedido em qual festival de cinema?|R: Festival de Cinema de Berlim|
+Questão 497|Qual das seguintes obras foi escrita pelo dramaturgo francês Pierre Corneille?|R: Le Cid|
+Questão 498|Em qual palácio inglês está a "Câmara Estrelada"?|R: Palácio de Westminster|
+Questão 499|Supondo a ausência de quaisquer outros buffs especiais, qual desses comandantes tem a maior velocidade de marcha?|R: Belisário|
+Questão 500|Qual é a causa raiz da doença da altitude?|R: Exposição rápida a pequenas quantidades de oxigênio em altura elevada|
+Questão 501|Quantos anos há entre cada edição dos Jogos Olímpicos de Inverno?|R: 4 anos|
+Questão 502|Nos quadrinhos da DC, qual é o nome verdadeiro do Batman?|R: Bruce Wayne|
+Questão 503|Qual Chefe no evento Crise Ceroli planejou um gole bem-sucedido?|R: Torgny|
+Questão 504|Em que país está localizado o Farol de Alexandria, uma das Sete Maravilhas do Mundo Antigo?|R: Egito|
+Questão 505|Qual semideus captura o Cérbero, o "cão de três cabeças de Hades", de acordo com a mitologia grega?|R: Hércules|
+Questão 506|O épico "Poema de El Cid" é originário de que país?|R: Espanha|
+Questão 507|Quando Napoleão Bonaparte nasceu?|R: 1769|
+Questão 508|Qual dos estados abaixo não fazia parte do período dos Três Reinos?|R: Jin|
+Questão 509|O jogador de futebol Lionel Messi jogou por mais tempo em qual clube?|R: Barcelona|
+Questão 510|Em que animal é baseado o mascote dos Jogos Olímpicos de Inverno de 2022?|R: Panda|
+Questão 511|Qual destas NÃO é considerada uma tragédia shakespeariana?|R: Noite de Reis|
+Questão 512|Você pode ajudar seus aliados a construir/aprimorar construções, pesquisar tecnologias e curar tropas. Mas quanto cada ação de ajuda preenche a barra de progresso?|R: 0,01|
+Questão 513|Qual desses locais sagrados concede um bônus de velocidade de marcha?|R: Santuário da Ventania|
+Questão 514|Qual estado criou a primeira forma de papel-moeda?|R: China Antiga|
+Questão 515|Intolerância à lactose é causada pela falta de quê?|R: Lactase|
+Questão 516|Qual dos seguintes países ou regiões NÃO faz parte do Norte da Europa?|R: Argentina|
+Questão 517|Qual destas é uma descrião incorreta da energia eólica?|R: Não é uma forma de energia renovável|
+Questão 518|Qual escultura já foi descrita por Mark Twain como a "mais lúgubre e tocante em pedra no mundo"?|R: O Leão de Lucerna|
+Questão 519|Quais destes temas de cidades apresentam balões?|R: Cabana da Colheita|
+Questão 520|Qual é o número máximo de edifícios decorativos da Estrada do Rei que um governador pode construir?|R: 400|
+Questão 521|Quantos soldados de patrulha vagam pelas muralhas de um governador?|R: 7|
+Questão 522|Qual desses comandantes tem a habilidade ativa Encantamento?|R: Sárka|
+Questão 523|Quais desses boosts funcionam em Expedições em Rise of Kingdoms?|R: Todos|
+Questão 524|Quando surgiu o gênero literário de ficção "hard-boiled" ou "noir"?|R: Década de 1920|
+Questão 525|Em qual dessas campanhas Tutemés III participou?|R: A Batalha de Megido|
+Questão 526|Quantas rosas aparecem no quadro de avatar Pétalas de Rosa?|R: 4|
+Questão 527|Qual comandante pode ser considerado detentor das sobrancelhas mais grossas em Rise of Kingdoms?|R: Cao Cao|
+Questão 528|Qual nação foi a primeira a inventar e usar o papiro como material de escrita?|R: Egito|
+Questão 529|Qual item evoca Lohar Destemido?|R: Escudo de Lohar|
+Questão 530|Qual desses romances é a primeira obra japonesa de ficção literária baseada na lenda do Rei Arthur?|R: Kairo-kõ|
+Questão 531|Qual desses itens contém um registro útil de como um antigo egípcio podia passar para o outro mundo após a morte?|R: O Livro dos Mortos|
+Questão 532|Que tipo de bênção de combate os Arqueiros recebem em Campeões de Olímpia?|R: A Bênção de Ares|
+Questão 533|Em que cidade se encontra atualmente os Obelisco de Tutemés III?|R: Istambul|
+Questão 534|Quantas flechas estão presas no escudo do comandante Lohar?|R: 4|
+Questão 535|Qual desses comandantes tem um ramo de Ataque em sua árvore de Talentos?|R: Centurião|
+Questão 536|Qual desses comandantes NÃO carrega uma espada?|R: Theodora|
+Questão 537|Quais foram os dois materiais de construção mais usados pela antiga indústria de construção egípcia?|R: Tijolos de barro e pedras|
+Questão 538|Que recompensa pode ser dada aos governadores que NÃO se qualificam para a Arca de Osíris, mas cujos colegas membros da aliança se qualificam e são derrotados?|R: Gemas|
+Questão 539|Qual destes aeroportos tem pistas na praia?|R: Aeroporto de Barra|
+Questão 540|Qual dessas comandantes femininas tem flores no cabelo?|R: Boudica|
+Questão 541|Qual cidade egípcia marcou a fronteira entre o Alto Egito e o Baixo Egito durante o período pré-dinástico?|R: Mênfis|
+Questão 542|Qual foi o primeiro filme do ator Charles Chaplin?|R: Carlitos Repórter|
+Questão 543|Por qual outro nome os Chefes Ceroli Ak e Hok também são conhecidos?|R: Os Gêmeos Astrais|
+Questão 544|Qual dessas espécies de tubarão também é conhecida como "tubarão Godzilla"?|R: Dracopristis hoffmanorum|
+Questão 545|Qual faraó emitiu o decreto que aparece na Pedra de Roseta?|R: Ptolemeu V|
+Questão 546|Qual destas opções NÃO seria uma penalidade por não extrair totalmente todos os recursos de um ponto de recurso?|R: Sofrer um ataque bárbaro|
+Questão 547|Qual divinidade egípcia antiga é apresentada com a cabeça de um leão?|R: Téfnis|
+Questão 548|Que tipo de bênção de combate a Cavalaria recebe em Campeões de Olímpia?|R: A Bênção de Hades|
+Questão 549|Qual dessas áreas contém uma roda d'água?|R: Terra de Cultivo da Aliança|
+Questão 550|Que antiga ruína romana localizada na Argélia recebeu formalmente o status de Patrimônio Mundial em 1982?|R: As ruínas de Djémila|
+Questão 551|Em que cidade faleceu Henrique I de Bourbon, Príncipe de Condé?|R: Saint-Jean-d'Angély|
+Questão 552|Que figura da história se disfarçou de capitão prussiano e fugiu com mais de 4.000 marcos de ouro apenas para ser posteriormente considerado um herói popular e chamado de "Capitão de Köpenick"?|R: Wilhelm Voight|
+Questão 553|Que comandante diz: "Certifique-se de que nenhum deles escape!"|R: Carlos Magno|
+Questão 554|Qual Chefe Ceroli vem da Baía do Chifre?|R: Keira|
+Questão 555|Qual destes NÃO era um tipo comum de jardim no antigo Egito?|R: Jardins públicos|
+Questão 556|Qual país adotou o quetzal como sua ave nacional?|R: Guatemala|
+Questão 557|Quantas barracas pequenas você pode ver em um FOrte Bárbaro de nível 3?|R: 6|
+Questão 558|Qual comandante apresenta um navio em seu plano de fundo?|R: Pelágio|
+Questão 559|Quantos furacões foram registrados na região do Oceano Pacífico no ano de 1977?|R: 4|
+Questão 560|Que tipo de bênção de combate a Infantaria recebe em Campeões de Olímpia?|R: A Bênção de Atena|
+Questão 561|Qual Chefe Ceroli passou mais de 20 anos guarnecendo o Norte Distante?|R: Torgny|
+Questão 562|Quais das seguintes divindades NÃO deveriam receber oferendas nos Templos de Abu Simbel?|R: Anúbis|
+Questão 563|Quantos alunos assistem às palestras dos estudiosos do Liceu da Sabedoria?|R: 6|
+Questão 564|Por que a proa e popa de um escaler Viking é projetada para ser simétrica?|R: Reverter a direção rapidamente sem precisar girar|
+Questão 565|Quem escreveu o famoso livro "Uma Breve História do Tempo"?|R: Stephen Hawking|
+Questão 566|Durante qual estação as noites são relativamente curtas e os dias relativamente longos?|R: Verão|
+Questão 567|Qual das seguintes obras NÃO foi escrita pelo maestro musical Andrew Lloyd Webber?|R: Os Miseráveis|
+Questão 568|Depois que uma planta carnívora pega um inseto, como ela digere e absorve a presa?|R: As abas internas das folhas secretam um fluido digestivo|
+Questão 569|Quem é o deus do trovão na mitologia nórdica?|R: Thor|
+Questão 570|Qual é a unidade especial da civilização viking?|R: Berserker|
+Questão 571|O que o nome do antigo Templo de Luxor do Egito também significava?|R: O santuário do sul|
+Questão 572|Qual Chefe Ceroli empunha duas armas ao mesmo tempo?|R: Astrid|
+Questão 573|Quantas Torres de Vigia estão incluídas em uma cidade de nível 25?|R: 8|
+Questão 574|Que conquista é desbloqueada por gastar mais de 200 Chaves de Ouro na Taberna em uma única transação?|R: Tudo incluso|
+Questão 575|Quem é o inimigo mortal do comandante Saladino?|R: Ricardo I|
+Questão 576|Qual das seguintes foi a medalha de maior patente no Império Coreano?|R: Ordem do Cheok Dourado|
+Questão 577|Por qual outro nome o Chefe Ceroli Wafura também é conhecido?|R: Sombra do Lobo|
+Questão 578|Em que época foi construída a primeira pirâmide do antigo Egito?|R: A Terceira Dinastia do Egito|
+Questão 579|Qual Chefe Ceroli vem do Vale dos Dentes-de-sabre?|R: Ak e Hok|
+Questão 580|O que você precisa fazer para ganhar a conquista Proteção de Testemunhas?|R: Mudar o seu apelido 10 vezes|
+Questão 581|Qual destas NÃO é uma Habilidade de Aliança?|R: Marcha Rápida|
+Questão 582|Que tipo de pedra os antigos egípcios extraíam principalmente do delta do Nilo?|R: Calcário|
+Questão 583|Como você obtém a conquista Amigo do Reino?|R: Visitar 100 aldeias tribais|
+Questão 584|Qual era a língua nativa de Cleópatra VII, também conhecida como Cleópatra, a Rainha do Egito?|R: Grego|
+Questão 585|Qual dos seguintes NÃO é considerado um organismo unicelular?|R: Ácaro|
+Questão 586|Qual destes é encontrado no Baú de Ouro da aliança?|R: 1.000 créditos individuais|
+Questão 587|Qual comandante diz: "Meu destino é determinado pela fé e pela oportunidade"?|R: Matilda de Flanders|
+Questão 588|Qual é a capacidade de tropas de reforço que uma cidade recebe no Centro de Alianças de nível 20?|R: 575.000|
+Questão 589|Qual desses comandantes NÃO é mostrado vestindo uma capa?|R: Mehmed II|
+Questão 590|QUal é a cor do cocar floral usado pelo comandante Sárka em Rise of Kingdoms?|R: Vermelho|
+Questão 591|A habilidade ativa em forma de leque do comandante Yi Seong-Gye assume que forma depois de ganhar uma Perícia?|R: Um círculo|
+Questão 592|Você precisa estar em qual posição na classificação diária do Desfiladeiro do Pôr do Sol para receber as recompensas diárias de Chaves de Ouro?|R: No top 5|
+Questão 593|Qual buff de ocupação é fornecido pelo Altar da Chama?|R: Ataque de Tropas +3%|
+Questão 594|Por quantos francos Carlos V resgatou Bertrand du Guesclin durante o conflito pela Bretanha?|R: 100.000|
+Questão 595|Qual entomologista e astrônomo da Nova Zelândia propôs pela primeira vez a adoção de um método de horário de verão?|R: George Hudson|
+Questão 596|Quantos arqueiros são mostrados praticando no Centro de Artilharia ao treinar arqueiros compostos?|R: 3|
+Questão 597|Quantas feras você espera ver lutando ao lado de tropas bárbaras de nível 20 em Rise of Kingdoms?|R: 1 urso e 2 lobos|
+Questão 598|O que o caractere ankh representa nos antigos hierógrlifos egípcios?|R: Vida|
+Questão 599|Que material os artesãos do antigo Egito usava para esculpir estátuas e murais?|R: Pedra|
+Questão 600|Qual é o custo de Gema da decoração Escultura Humana?|R: 2.000|
+Questão 601|No plano de fundo de qual comandante você pode ver um cachorro?|R: Ricardo I|
+Questão 602|Qual comandante NÃO recebe um aumento de nível de habilidade de uma Escultura de Comandante Lendário?|R: Hannibal Barca|
+Questão 603|Onde fica a capital da Alemanha?|R: Berlim|
+Questão 604|Cao Cao se destaca na liderança de que tipo de unidade?|R: Cavalaria|
+Questão 605|Em que região ficava o império de Srivijaya?|R: Sudeste Asiático|
+Questão 606|Qual é o planalto mais alto do mundo?|R: Planalto do Tibete|
+Questão 607|Quem é a deusa da terra na mitologia grega antiga?|R: Gaia|
+Questão 608|Qual dos seguintes animais NÃO são mamíferos?|R: Tartaruga|
+Questão 609|Qual país sediou os primeiros Jogos Olímpicos de Inverno em 25 de janeiro de 1924?|R: França|
+Questão 610|Quanto o item Ataque Aprimorado de 12 Horas aumenta o Ataque de suas tropas?|R: 5%|
+Questão 611|Em que idade a Grécia antiga entrou depois que a civilização micênica foi destruída?|R: Idade das Trevas|
+Questão 612|Qual chefe do evento Crise Ceroli é bem versado em magia de veneno?|R: Dekar|
+Questão 613|Quem escreveu "As Aventuras de Alice no País das Maravilhas"?|R: Lewis Carroll|
+Questão 614|De que país veio Zaratustra, do poema sinfônico "Assim falou Zaratustra"?|R: Pérsia|
+Questão 615|Os humanos pré-historicos conhecidos como "homo floresiensis" também são comumente referidos como?|R: Hobbits|
+Questão 616|O conceito de "separação de poderes" vem de qual obra de Montesquieu?|R: O Espírito da Lei|
+Questão 617|Uma unha humana é feita de qual material?|R: Alfa-queratina|
+Questão 618|As fronteiras de qual desses países se estendem por dois continentes?|R: Egito|
+Questão 619|Em que data se celebra anualmente o Dia Mundial do Meio Ambiente?|R: 5 de junho|
+Questão 620|Quem projetou o Djoser, a primeira pirâmide antiga com um design escalonado?|R: Imhotep|
+Questão 621|Quem criou a famosa escultura "O Pensador"?|R: Auguste Rodin|
+Questão 622|Quantas vezes você pode receber uma ajuda da aliança se o seu Centro de Alianças estiver no nível 14?|R: 18|
+Questão 623|Onde fica localizada a Cidade do Vaticano na Itália?|R: Roma|
+Questão 624|Em que ano estreou o Late Show com David Letterman?|R: 1993|
+Questão 625|Em Arca de Osíris, qual é o requisito para uma aliança participar do Campo de Batalha de Ouro?|R: Classificada entre as 20 melhores em poder da aliança em seu reino|
+Questão 626|A hera japonesa cresce para cima em muralhas e árvores para capturar energia de qual fonte?|R: Luz solar|
+Questão 627|Qual dessas circunstâncias impediria você de mudar a civilização?|R: Treinamento de tropas em andamento na sua cidade|
+Questão 628|Qual desses artistas NÃO foi um pintor Barroco?|R: Vincent vag Gogh|
+Questão 629|Quem escreveu "Humano, demasiado humano"?|R: Nietzche|
+Questão 630|Qual é a capital da República do Chile?|R: Santiago|
+Questão 631|Qual famoso samurai japonês foi chamado de "Ushiwakamaru" quando criança?|R: Minamoto no Yoshitsune|
+Questão 632|O que Che Guevara estudou na faculdade?|R: Farmácia|
+Questão 633|O Cometa Halley pode ser observado da Terra a cada...|R: 75-76 anos|
+Questão 634|Qual aeroporto civil é o mais alto acima do nível do mar?|R: Aeroporto Daocheng Yading|
+Questão 635|Em que país estava localizado o Somme, o campo de batalha mais famoso da Primeira Guerra Mundial?|R: França|
+Questão 636|Na Grécia antiga, a Liga de Delos era liderada por qual cidade-estado?|R: Atenas|
+Questão 637|"O último dos romanos" é um epíteto usado para descrever alguém com um modo de pensar romano clássico. Quem NÃO seria um exemplo disso?|R: Attila|
+Questão 638|Quem é o "deus da morte" na mitologia grega antiga?|R: Tânato|
+Questão 639|Qual destes não faz parte da Santíssima Trindade no cristianismo?|R: A Mãe|
+Questão 640|A Habilidade de Especialidade de qual desses comandantes é a versão aprimorada de uma habilidade pré-existente?|R: Björn Ironside|
+Questão 641|Por qual outro nome outubro também é conhecido no antigo calendário do Japão?|R: Kannazuki|
+Questão 642|Qual destas é a Flor Nacional da Índia?|R: Lótus|
+Questão 643|Qual era a ocupação de Theodorus Van Gosh, o irmão mais novo do famoso pintor holandês Vincent Van Gosh?|R: Negociante de artes|
+Questão 644|De onde veio Hipócrates, o "Pai da Medicina"?|R: Grécia Antiga|
+Questão 645|Em qual país ocorreu a "Batalha de Marengo"?|R: Itália|
+Questão 646|A teoria geral da relatividade foi publicada por qual físico?|R: Einstein|
+Questão 647|Como a Bíblia de Gutemberg foi colocada em produção em massa?|R: Prensa de impressão de caracteres móveis|
+Questão 648|Onde estão localizadas as maiores reservas comprovadas de petróleo do mundo?|R: Campo Ghawar|
+Questão 649|Quem foi o autor da tragédia "Medeia"?|R: Eurípedes|
+Questão 650|Quantas tendas são exibidas no ícone da Tecnologia Militar?|R: 3|
+Questão 651|Em que reino o comandante Boudica?|R: Iceni|
+Questão 652|Qual das seguintes opções NÃO impedirá você de entrar em um campo de batalha da Arca de Osíris?|R: Ativar um Aprimoramento de Ataque|
+Questão 653|Quanto espaço uma Prefeitura ocupa na cidade?|R: 9x9|
+Questão 654|Os fragmentos da planta de qual dos seguintes acessórios NÃO PODE ser resgatado na Loja Temporada de Conquista?|R: Pingente da noite eterna|
+Questão 655|O chá de assam, conhecido pelo seu rico aroma, surgiu em qual país?|R: Índia|
+Questão 656|Em qual país o queijo muçarela, amplamente associado às pizzas e culinária italiana, foi produzido pela primeira vez?|R: Itália|
+Questão 657|Qual das seguintes penalidades podem ser aplicadas em resposta ao uso de softwares de terceiros?|R: Restrições de batalha|
+Questão 658|Qual dessas figuras históricas NÃO era um botânico?|R: Dmitry Mendeleev|
+Questão 659|Onde está a mão direita da famosa escultura conhecida como "O Pensador"?|R: Debaixo do queixo|
+Questão 660|Qual Chefe Ceroli cercou a Cidadela dos Bravos com suas forças?|R: Torgny|
+Questão 661|Qual dessas Habilidades da Aliança aumenta o dano contra bárbaros e outras unidades neutras?|R: Progresso desenfreado|
+Questão 662|Quais são as armas usadas pelo comandante Guardião da Cidade?|R: Um machado e um escudo|
+Questão 663|Quais dessas Bênçãos inflige imediatamente uma perda de 10% de poder de tropa ao seu inimigo no início da batalha no evento "Reino Dourado"?|R: Âncora|
+Questão 664|Quais dessas habilidades pertencentes ao Comandante Sun Tzu é aumentada ao Despertar?|R: Arte da Guerra|
+Questão 665|Que tipo de boost a habilidade ativa da comandante Joana D'Arc concede às forças aliadas?|R: Raiva|
+Questão 666|Que tipo de bênção de combate as unidades mistas recebem em Campeões de Olímpia?|R: A Bênção de Apolo|
+Questão 667|Quantos Pontos Chave são necessários para desbloquear o Tesouro de Cristal Azul nos Presentes da Aliança?|R: 3.000.000|
+Questão 668|Onde nasceu o famoso músico Beethoven?|R: Bonn|
+Questão 669|Quais desses itens NÃO PODEM ser obtidos num Baú de Equipamentos de Taberna?|R: Aceleração de treinamento de 60 Minutos|
+Questão 670|O peixe com fritas se originou em qual país?|R: Inglaterra|
+Questão 671|Quantas cartas no total são mostradas nas mãos do Mercador Misterioso?|R: 5|
+Questão 672|Que tipo de comandante se torna o Comandante da Guarnição temporarário caso um Governador não tenha nomeado um comandante ou um comandante nomeado não esteja presente?|R: O comandante de nível mais alto presente no momento|
+Questão 673|Qual das seguintes opções NÃO é um componente usado para forjar a arma Épica "Era Dourada"?|R: Osso animal|
+Questão 674|Em qual país o microscópio foi inventado?|R: Países Baixos|
+Questão 675|Em que país foram travadas as Guerras das Rosas?|R: Inglaterra|
+Questão 676|Qual é a maior pirâmide do mundo?|R: A Grande Pirâmide de Cholula|
+Questão 677|Em qual região da Itália fica a Catedral de Santa Maria del Fiore?|R: Toscana|
+Questão 678|Um "dia" no Planeta Vênus é aproximadamente igual a quantos dias na Terra?|R: 243 dias|
+Questão 679|Qual desses alimentos o estadista Han Oriental Cao Cao poderia não ter comido?|R: Milho|
+Questão 680|"Tongwancheng" foi a capital de qual grupo étnico da China antiga?|R: Xiongnu|
+Questão 681|Em que país nasceu Marco Polo, o famoso explorador e comerciante?|R: República de Veneza|
+Questão 682|Quem é a mãe de Cupido, o deus do amor com cara de bebê na mitologia romana?|R: Vênus|
+Questão 683|Qual líder militar era conhecido como o "Reformador das Legiões"?|R: Gaius Marius|
+Questão 684|Quem "possui" a ilha de Páscoa?|R: Chile|
+Questão 685|Realizada em 1929, quanto tempo durou o primeiro Prêmio da Academia ("Oscar") durou?|R: 15 minutos|
+Questão 686|Qual músico compôs "As Bodas de Fígaro"?|R: Mozart|
+Questão 687|No evento Desejo de Vitória, como os jogadores podem ganhar recompensas?|R: Treinando tropas|
+Questão 688|A pistola Luger, fabricada para o exército alemão durante a Segunda Guerra Mundial, usa qual tipo de munição?|R: 9mm Parabellum|
+Questão 689|Qual desses romances NÃO foi escrito por Margaret Atwood?|R: Flores para Algernon|
+Questão 690|Páginas de Passaporte são usadas ao imigrar para outros reinos. De que depende o número de Páginas de Passaporte usadas?|R: Poder Individual do Governandor|
+Questão 691|Que grupo étnico fundou a primeira civilização da Mesopotâmia?|R: Os sumérios|
+Questão 692|No Reino Dourado, quantas passagens você precisa liberar para obter um Baú de Ouro?|R: 4 Passagens|
+Questão 693|A palavra "maratona" originalmente se referia a quê?|R: O nome de um lugar|
+Questão 694|Durante o período de Alto e Baixo Egito, qual era a cor do faraó do Alto Egito?|R: Branca|
+Questão 695|O que faz a habilidade de aliança "Completamente Carregado" quando é usada?|R: Aumenta a velocidade de reunião dos membros da aliança para um tipo de recurso|
+Questão 696|Em que continente o serval viveu primeiro?|R: África|
+Questão 697|Qual dessas estações de pesquisa está na latitude mais alta?|R: Estação Polo Sul Amundsen-Scott|
+Questão 698|Qual das seguintes civilizações oferece um bônus de velocidade de cura de 20% para hospitais?|R: França|
+Questão 699|Quantas peças de minério de ferro normal devem ser combinadas para criar uma peça de minério de ferro avançado?|R: 4|
+Questão 700|O que faz a habilidade de aliança "Artesão Hábil" quando é usada?|R: Aumenta grandemente a velocidade de construção de bandeira de aliança|
+Questão 701|Quais dessas habilidades da aliança aumentarão sua velocidade de coleta de recursos?|R: Complementamente carregado|
+Questão 702|Qual comandate é apelidado de "Arco da Revolução"?|R: Yi Seong-Gye|
+Questão 703|Qual dos seguintes estreitos está localizado entre a Eurásia e a América do Norte?|R: Estreito de Bering|
+Questão 704|Na mitologia chinesa, que tipo de criatura é Jingwei?|R: Um pássaro|
+Questão 705|Qual desses escritores é considerado representativo do absurdismo?|R: Albert Camus|
+Questão 706|Qual destes NÃO é um dos estratagemas vencedores listados no antigo livro militar chinês, os "Trinta e seis estratagemas"?|R: A estratégia de "forte vazio"|
+Questão 707|Quais destes Quadros do Avatar podem ser obtidos no evento Crise Ceroli?|R: Reino Submarino|
+Questão 708|Qual é o pico mais alto do mundo?|R: Monte Everest|
+Questão 709|Os 24 "termos solares" são um sistema de calendário tradicional chinês usado para que propósito?|R: Agricultura|
+Questão 710|Seondeok era a Rainha de Silla (parte da atual Coreia). Qual era o nome de nascimento dela?|R: Kim Deokman|
+Questão 711|A famosa escultura renascentista Pietà foi obra de qual artista?|R: Michelangelo|
+Questão 712|Qual dos seguintes comandantes é ruim colentado recursos?|R: Atiradora|
+Questão 713|A deficiência de qual vitamina pode causar cegueira noturna?|R: Vitamina A|
+Questão 714|Zhu Geliang não teve envolvimento em qual dos seguintes incidentes relatados no Romance dos Três Reinos?|R: Revolta dos Turbantes Amarelos|
+Questão 715|A Bastilha, uma prisão que já foi localizada no centro de Paris, França, originalmente serviu para que propósito?|R: Fortaleza defensiva|
+Questão 716|Qual dessas mulheres NÃO é considerada uma das "Quatro Belezas" da China antiga?|R: Bao Si|
+Questão 717|Qual desses navegadores foi o primeiro europeu a chegar no Brasil?|R: Pedro Álvares Cabral|
+Questão 718|Na mitologia grega, quem tirou a carruagem do sol de seu caminho, incendiando a terra?|R: Faetonte|
+Questão 719|Que monarca construiu o Santa Sofia?|R: Justiniano I|
+Questão 720|A feijoada é considerada um prato nacional de qual país?|R: Brasil|
+Questão 721|"Ferimentos de Perfuração" é a habilidade de qual personagem na Crise Ceroli?|R: Astrid|
+Questão 722|"Homem da Paz" é o apelido de qual comandante?|R: Imhotep|
+Questão 723|Johannes Vermeer, o pintor de Moça com Brinco de Pérola, era de qual país?|R: Países Baixos|
+Questão 724|Qual é o maior lago de água doce do mundo por área?|R: Lago Superior|
+Questão 725|Qual é a capacidade padrão de transporte se sueu posto comercial estiver no nível 25?|R: 5 milhões|
+Questão 726|De que país veio o infame pirata Barba Negra?|R: Inglaterra|
+Questão 727|Quem formou o Primeiro Triunvirato com César e Pompeu?|R: Crasso|
+Questão 728|Quantos dias tem um ano bissexto?|R: 366 dias|
+Questão 729|As táticas de combate são uma importante tecnologia militar - que efeito elas têm?|R: Aumentam o Ataque de todas as unidades|
+Questão 730|Qual é a maior espécie de ave viva do mundo?|R: Avestruz|
+Questão 731|Champanhe é uma província de qual país?|R: França|
+Questão 732|Quais dessas frutas aparece no plano de fundo do Comandante Imhotep?|R: Banana|
+Questão 733|Qual é a unidade especial da civilização chinesa?|R: Chu-Ko-Nu|
+Questão 734|Quais desses boots funcionam em Expedições em Rise of Kingdoms?|R: Todos|
+Questão 735|Qual é o nome da conquista obtida ao adquirir 3 temas permamentes da cidade?|R: Temas de tecnicolor|
+Questão 736|Qual tipo de tesouro de cristal é encontrado no Presente de Aliança de nível 26?|R: Tesouro de cristal azul|
+Questão 737|Quantos pontos são ganhos por 1 ponto de Poder aprimorado no segmento "Estágio 4: Aprimoramento de Poder" do evento "O Governador Mais Poderoso"?|R: 2|
+Questão 738|Em qual dessas obras Sherlock Holmes faz sua primeira aparição?|R: Um Estudo em Vermelho|
+Questão 739|Qual desses tipos de terreno exerce uma pequena penalidade na defesa de tropas no mapa Colina do Tesouro nos "Campeões de Olímpia"?|R: Furacão|
+Questão 740|Qual desses itens NÃO PODE ser obtido no Baú de Pedra da Aliança?|R: Chaves de prata|
+Questão 741|Quando a Coca-Cola foi inventada?|R: Século 19|
+Questão 742|O que causou as mortes dos pais do Chefe Ceroli Dekar?|R: A descoberta dos estudos de bruxaria|
+Questão 743|Quantas esmeraldas aparecem nas roupas da comandante Matilda de Flanders?|R: 5|
+Questão 744|Quais das seguintes acelerações NÃO estão disponíveis em Rise of Kingdoms?|R: Aceleração de 6 horas|
+Questão 745|Quanto custa uma única edição do Jornal do Reino?|R: 1.000|
+Questão 746|Quantos créditos individuais podem ser obtidos com a venda de plantas de equipamentos normais por meio do recurso de recuperação da Loja da Aliança?|R: 400|
+Questão 747|Quando não está afetado por buffs, qual é a capacidade de recursos de um Armazém de Nível 25 para cada tipo de recurso?|R: 2.500.000|
+Questão 748|Qual destes ingredientes é usado para preparar molho de soja?|R: Soja|
+Questão 749|Qual dessas figuras do Império Selêucida foi feita refém por Roma para, posteriormente, fugir de Roma e voltar para tomar o trono de seus país de origem?|R: Demétrio I|
+Questão 750|Que cor é usada nos telhados dos edifícios da civilização japonesa?|R: Preto|
+Questão 751|Qual dessas recompensas NÃO será recebida pelo primeiro colado na temporada do Desfiladeiro do Pôr do Sol?|R: Escutura Luz estelar deslumbrante|
+Questão 752|Qual destes NÃO é considerado um dos 8 estilos principais de culinária contemporânea chinesa?|R: Cozinha de Huaiyang|
+Questão 753|Qual é a condição de desbloqueio da dificuldade Pesadelo no evento "Baladas de Ian"?|R: Atingir o Nv. 23 da Prefeitura e 20 milhões de Poder|
+Questão 754|Quantas "Coleções de Equipamentos do Reino Dourado" existem no Baú de Ouro ganho na fase 16 do evento "Reino Dourado"?|R: 3|
+Questão 755|Qual escutura famosa apresenta uma criança urinando?|R: Manneken Pis|
+Questão 756|Em que nível VIP você pode comprar um baú especial VIP que contém esculturas de Hannibal Barca suficientes para despertá-lo?|R: 14|
+Questão 757|Qual destas Molduras de Avatar estão acessíveis para compra?|R: Pétalas de Rosa|
+Questão 758|Qual é o nome do vigarista que também pode aparecer ao mesmo tempo que o Chefe Ceroli Bargha Punho de Sangue?|R: Dhalruk|
+Questão 759|Quantos oficiais uma aliança pode ter, sem contar o líder da aliança?|R: 8|
+Questão 760|O foie gras é um alimento muito rico em nutrientes. Qual país produz mais foie gras?|R: França|
+Questão 761|Quantas seções são apresentadas no Jornal do Reino fora dos eventos de calendário?|R: 5|
+Questão 762|Qual é o nome da quarta chave do evento "Campeões de Olímpia"?|R: Prata Brilhante|
+Questão 763|Qual é a cor das asas da decorações de Pégaso?|R: Douradas|
+Questão 764|Quais dois animais simbolicamente decorava a coroa dupla pschent usada pelos faraós?|R: Cobra e abustre|
+Questão 765|Quantas atualizações estão disponíveis por visita ao Mercador Misterioso?|R: 5|
+Questão 766|Qual é a cor das pedras preciosas cravejadas na coroa do comandante El Cid?|R: Vermelho|
+Questão 767|Um dos benefícios dos alimentos enlatados é sua longa validade. Onde foram feitos os primeiros arenques enlatados?|R: Europa Setentrional|
+Questão 768|Qual país é notoriamente associado ao frango tandoori, um prato de frango marinado com iogurte e especiarias?|R: Índias|
+Questão 769|Qual dessas estruturas permite que batedores e defensores da cidade fiquem de olho nos arredores?|R: Torre de Vigia|
+Questão 770|Qual desses Chefes Ceroli também é chamado de Portador da Tempestade?|R: Torgny|
+Questão 771|Qual dessas decorações NÃO custa Gemas?|R: Árvore de Sakura|
+Questão 772|Qual dos nomes científicos de pássaros também foi usado para homenagear a esposa de Napoleão III, a Imperatriz da França, Eugénie de Montijo?|R: Ptilinopus eugeniae|
+Questão 773|Qual é o número máximo de tropas que você pode formar no evento Campeões de Olímpia?|R: 9|
+Questão 774|Qual é o número máximo de Leões Guardiães que podem ser construídos numa cidade?|R: 6|
+Questão 775|Qual Chefe Ceroli usa um arco como arma?|R: Keira|
+Questão 776|Quais dessas esculturas de comandantes podem ser obtidas abrindo um baú na Taberna em Rise of Kingdoms?|R: Carlos Martel|
+Questão 777|Quem foi a primeira mulher a se tornar piloto militar no mundo?|R: Sabiha Gökçen|
+Questão 778|Qual dessas tecnologias pode ser pesquisada na Academia para acelerar a coleta de comida no mapa?|R: Foice|
+Questão 779|Qual foi o país de origem do arquiteto que projetou o Museu de Antiguidades Egípcias, localizado no Cairo?|R: França|
+Questão 780|Qual é a capacidade de rali da aliança fornecida por um Forte de Nv. 15?|R: 775.000|
+Questão 781|Que atributo de batedor NÃO PODE ser aumentado ao aprimorar um Acampamento dos Batedores ne Nv. 11?|R: Número de batedores|
+Questão 782|O que um Lanceiro Dragão carrega na mão esquerda?|R: Um cachimbo|
+Questão 783|Quantas bandeiras são apresentadas na frente do Centro de Alianças da civilização francesa?|R: 6|
+Questão 784|Quantas pedras uma Pedreira de Nv. 17 produz por hora (sem boosts)?|R: 2.775|
+Questão 785|No plano de fundo de qual comandate você pode ver uma Árvore de Sakura?|R: Minamoto no Yoshitsune|
+Questão 786|Quantos minutos de acelerações no total podem ser obtidos ao comprar o "Suprimento de Aceleração de 7 dias", além da recompensa imediata de 1.050 Gemas?|R: 3.150 minutos|
+Questão 787|Qual é a Capacidade Hospitalar total de Nv. 25 para tropas gravemente feridas (sem boosts)?|R: 300.000|
+Questão 788|Qual arma o comandante Richard I empunha?|R: Um machado e um escudo|
+Questão 789|Quantas rodas há em um aríete?|R: 6|
+Questão 790|Qual desses Temas de Cidade oferece um bônus de atributo especial de +5% para Ataque de Cavalaria e -5% para Saúde de Arqueria?|R: Canção do Semeador|
+Questão 791|Em que clima o manjericão, conhecido na Europa como o "Rei das Ervas", cresce vastamente?|R: Áreas Tropicais|
+Questão 792|Qual dessas civilizações pode aumentar a Defesa de Arqueria?|R: Coreia|
+Questão 793|Qual desses comandantes porta um arco e flechas, além de uma espada?|R: AEthelflaed|
+Questão 794|Qual das seguintes recompensas NÃO PODE ser obtida de um Forte Bárbaro em Rise of Kingdoms?|R: Esculturas de Comandante|
+Questão 795|Qual Chefe Ceroli foi encarregado de proteger os Desfiladeiros Iravento?|R: Astrid|
+Questão 796|Quantas missões individuais uma Expedição envolve?|R: 90|
+Questão 797|Quantas chaves estão incluídas no Presente da Aliança recebido pela destruição de um Forte Bárbaro de nível 5?|R: 60|
+Questão 798|Qual desses infelizes indivíduos foi a única pessoa já registrada a sofrer tanto de nanismo quanto de gigantismo?|R: Adam Rainer|
+Questão 799|Qual desses comandantes também foi chamado de "Santo Senhor"?|R: El Cid|
+Questão 800|Qual país é responsável pela invenção do queijo gorgonzola, famoso pelo seu sabor pungente?|R: França|
+Questão 801|Qual dessas opções NÃO é uma categoria de relatório enviado por mensagem?|R: Coleta|
+Questão 802|Qual das seguintes plantas é visível no plano de fundo de Mulan e Cao Cao na tela do comandante?|R: Bambu|
+Questão 803|Quais desses boosts funcionam em Desfiladeiro do Pôr do Sol?|R: Capacidade de tropas de nível VIP|
+Questão 804|O Bolo Floresta Negra é uma famosa sobremesa europeia. Em que país fica a Floresta Negra de onde deriva o nome?|R: Alemanha|
+Questão 805|Qual Chefe Ceroli tem poder sobre o gelo?|R: Frida|
+Questão 806|No Desfiladeiro do Pôr do Sol, quantas tropas você pode enviar por vez?|R: 5|
+Questão 807|Qual dessas opções NÃO é uma das habilidades da Chefe Ceroli Astrid?|R: Beijo da Língua Flamejante|
+Questão 808|Qual das seguintes condições NÃO era essencial para um Vizir, o funcionário público mais importante do faraó, no antigo Egito?|R: Ter sangue real|
+Questão 809|Qual desses comandantes é careca?|R: Ragnar Lodbrok|
+Questão 810|Qual decoração de criatura da mitologia grega os governandores podem construir em suas cidades?|R: Pégaso|
+Questão 811|Qual das seguintes ações NÃO está disponível para um líder de aliança em Rise of Kingdoms?|R: Sair da Aliança|
+Questão 812|Onde nasceu o Chefe Ceroli Torgny?|R: Cidadela dos Bravos|
+Questão 813|Qual pirâmide é amplamente considerada a única maravilha sobrevivente do mundo antigo, preservada até hoje?|R: Pirâmide de Quéops|
+Questão 814|Quantas tropas são recomendadas para destruir um Forte Bárbaro de Nv. 3?|R: 480.000 unidades de Nv. 3|
+Questão 815|Qual desses termos também foi usado pelos antigos egípcios para se referir a si mesmos?|R: O rebanho de Rá|
+Questão 816|Como se chama o Xamã do Fogo de Karaku?|R: Denko|
+Questão 817|Quantas experiência um comandante ganha com um Tomo do Conhecimento de nível 7?|R: 50.000|
+Questão 818|Quantas chaves estão incluídas no presente da aliança do Baú de Madeira?|R: 10|
+Questão 819|Qual desses comandantes usa um anel na mão?|R: Rainha Tamar da Geórgia|
+Questão 820|Qual comandante tem a habilidade Beleza e sabedoria?|R: Cleópatra VII|
+Questão 821|Qual tipo de tropa recebe um boost da decoração Lótus Oculto?|R: Cavalaria|
+Questão 822|Qual é o maior lago do continente sul-americano?|R: Lago Maracaibo|
+Questão 823|Que imagem está gravada na arma Martelo do Sol e da Lua?|R: O sol|
+Questão 824|Qual oficial da aliança recebe +1% de boost de saúde para tropas?|R: Enviado|
+Questão 825|Qual destes comandantes NÃO tem bigode ou outros pelos faciais?|R: Alexandre, o Grande|
+Questão 826|Quando surgiu a clássica sobremesa inglesa pudim de caramelo?|R: Meados do século 20|
+Questão 827|Em RoK, o Janízaro é uma unidade especial de qual civilização?|R: Império Otomano|
+Questão 828|Qual destas NÃO é uma habilidade passiva do Comandante Minamoto no Yoshitsune?|R: O Homem Digno|
+Questão 829|Qual tribo reivindica a posse da Floresta Takra, que deve ser atravessada para chegar ao Reino de Karaku?|R: O clã Fúria de Sangue|
+Questão 830|Quantas Chaves de Ouro são concedidas ao Governandor com melhor classificação em cada temporada do Desfiladeiro do Pôr do Sol?|R: 5|
+Questão 831|Qual é a cor das flores frescas do Liceu da Sabedoria da civilização francesa?|R: Vermelhas|
+Questão 832|Em que parte do Egito está localizada a Esfinge?|R: O Planalto de Gizé|
+Questão 833|Na hierarquia de necessidades simplificada de Maslow, qual necessidade está no topo da pirâmide?|R: Autorrealização|
+Questão 834|Qual Chefe Ceroli mora em um lugar conhecido como Floresta da Morte?|R: Dekar|
+Questão 835|As pimentas são cultivadas há milênios. Elas surgiram em qual continente?|R: As Américas|
+Questão 836|Qual é o número mínimo de Chaves de Prata que pode ser obtido em um pacote "Tesouro da Sabedoria"?|R: 2|
+Questão 837|Qual tribo de Chefe Ceroli viveu nos ermos congelados por várias gerações?|R: Wafura|
+Questão 838|Quantos pontos são ganhos por unidade de Nv. 3 gravemente ferida/morta no segmento "Estágio 5: Eliminação do Inimigo" do evento "O Governador Mais Poderoso"?|R: 4|
+Questão 839|Qual desses deuses do antigo Egito também era um símbolo da autoridade real?|R: Hórus|
+Questão 840|Qual comandante tem uma coroa com pedras preciosas de cor diferente dos demais?|R: Rainha Tamar da Geórgia|
+Questão 841|Qual Chefe Ceroli trabalha ao lado de uma cobra?|R: Dekar|
+Questão 842|Que tipo de terreno no mapa pode ser atravessado livremente por nossas tropas?|R: Floresta|
+Questão 843|Qual faraó construiu a Pirâmide Curvada?|R: Seneferu|
+Questão 844|O trabalho em qual dessas catedrais começou em Copenhague, no ano de 1877?|R: Igreja de São Paulo|
+Questão 845|Qual conquista é desbloqueada ao aprimorar 2 hospitais para o Nv. 25?|R: Disposto e Caloroso|
+Questão 846|Que letra é mostrada na decoração da Moeda da Sorte de Scolas?|R: L|
+Questão 847|Qual destes NÃO é um tipo de wagyu japonês?|R: Ronguhon Wagyu|
+Questão 848|Refeições prontas, como o macarrão instantâneo são muito populares. Onde os primeiros macarrões instantâneos apareceram?|R: Japão|
+Questão 849|Qual privilégio é reservado para oficiais titulados (não oficiais normais)?|R: A habilidade de verificar o status on-line de membros da aliança|
+Questão 850|Quais das seguintes construções da cidade PODEM ser atualizadas?|R: Posto Comercial|
+Questão 851|Qual dessas recompensas NÃO será recebida pelo primeiro colocado na temporada do Desfiladeiro do Pôr do Sol?|R: Escultura Luz estelar deslumbrante|
+Questão 852|Qual Chefe Ceroli protege a Torre ... ?|R: Wafura|
+Questão 853|Qual Chefe Ceroli empunha uma adaga e um arco?|R: Wafura|
+Questão 854|Quais tipos de tropas receberão um boost do tema de cidade Festa de Páscoa?|R: Arqueria|
+Questão 855|De onde é o comandante Gaius Marius?|R: Roma Antiga|
+Questão 856|Qual divindade da mitologia epípcia antiga era representada pelo obelisco?|R: Rá|
+Questão 857|A escala de Scoville geramente é usada para avaliar a intensidade das pimentas, em que um valor maior denota mais ardor. Qual dessas pimentas é avaliada acima de 1 milhão na escala de Scoville?|R: Pimenta da Alma|
+Questão 858|Qual destas é uma habilidade passiva do Comandante Tutemés III?|R: Conquista de Mitani|
+Questão 859|Qual função de comandante fornece um boost de carga para as tropas?|R: Capitão dos Suprmimentos|
+Questão 860|O estrategista militar Belisário serviu como guarda-costas pessoal de qual imperador em sua juventude?|R: Justiniano I|
+Questão 861|Qual é o nível VIP necessário para comprar uma Escultura de Comandante Lendário com um desconto semanal na Loja VIP?|R: Nv. 13|
+Questão 862|Qual a cor de tinta preferida pelas antigas famílias egípcias para as muralhas de suas casa?|R: Branco|
+Questão 863|Quantos ursos polares aparecem no quadro de avatar Coração do Norte?|R: 3|
+Questão 864|Qual a capacidade de um Hospital de Nv. 15 (sem boosts)?|R: 29.000|
+Questão 865|Quais desses itens podem ser selecionados do Baú de Recurso Nível 3 "Escolha um"?|R: 150.000 de comida|
+Questão 866|Quais dessas plantas NÃO está disponível como construção decorativa?|R: Árvore de Pêssego|
+Questão 867|Qual destas construções decorativas também é considerada um presságio de boa sorte na cultura chinesa?|R: Dragão chinês|
+Questão 868|Adquirir o Comandante Guilherme I desbloqueia qual destas conquistas?|R: Caminho da Glória|
+Questão 869|Qual a quantidade total de contribuições diárias necessária para entrar na classificação de contribuições diárias da aliança?|R: 10.000|
+Questão 870|Que ingedientes são usados para fazer "zongzi", um prato tradicional consumido na China durante o Festival do Barco do Dragão?|R: Arroz glutinoso|
+Questão 871|Qual é a segunda maior nação constituinte do Reino Unido?|R: Escócia|
+Questão 872|Após a abertura do Reino Perdido, que item você precisa gastar para se teletransportar de e para o Reino Perdido?|R: Teleporte Aleatório|
+Questão 873|A catedral de Notre-Dame de Paris foi construída em que estilo?|R: Gótico|
+Questão 874|Qual das seguintes NÃO é uma das habilidades de Keira?|R: Sangue Indisciplinado|
+Questão 875|Qual dos seguintes tipos de bônus NÃO tem efeito na Arca de Osíris?|R: Buffs de Runa|
+Questão 876|O ditado "O Império no qual o Sol nunca se põe" foi usado originalmente em referência ao império de qual país?|R: Espanha|
+Questão 877|Qual das seguintes personalidades nasceu no mesmo ano que o cantor Luciano Pavarotti?|R: Elvis Presley|
+Questão 878|Qual é o menor país insular do mundo?|R: Nauru|
+Questão 879|Qual das seguintes afirmações sobre a Batalha de Baideng é falsa?|R: Foi uma batalha entre a dinastia Tang e os Xiongnu|
+Questão 880|Em RoK, qual construção você pode usar para ver a história do seu reino?|R: Monumento|
+Questão 881|Em RoK, qual dos itens a seguir é considerado um item de Boost?|R: Escudo da Paz|
+Questão 882|Em RoK, qual desses comandantes NÃO é bom em liderar unidades de arqueiros?|R: Saladino|
+Questão 883|Qual foi a primeira das três grandes batalhas travadas entre Alexandre, o Grande, e o Império Aquemênida?|R: Batalha do Grânico|
+Questão 884|Qual das seguintes montanhas tem menos de 8.000 metros de altura?|R: Chomo Lonzo|
+Questão 885|No Japão, qual fruta é conhecida como "fruta da imortalidade"?|R: Tachibana|
+Questão 886|Qual era o nome do primeiro chimpanzé a ir para o espaço?|R: Ham|
+Questão 887|Depois que os alunos do Liceu da Sabedoria terminam suas aulas, para qual prédio em sua cidade eles retornam?|R: Academia|
+Questão 888|Atualmente, em qual galeria está a Mona Lisa?|R: Louvre|
+Questão 889|Qual das alternativas a seguir NÃO é uma descrição precisa do antigo Reino de Kush?|R: Não tinha linguagem e nem escrita próprios|
+Questão 890|Qual dos seguintes deuses é o patrono e protetor de Atenas na mitologia grega antiga?|R: Atenas|
+Questão 891|Bangkok é a capital de qual país?|R: Tailândia|
+Questão 892|Na mitologia, quem foi atingido pela flecha de chumbo de Eros?|R: Dafne|
+Questão 893|Qual desses rios corre pela África?|R: O Nilo|
+Questão 894|Qual dos seguintes buffs são recebidos ao evoluir a estrutura necessária até o nível 25?|R: Bônus de velocidade de marcha de transporte|
+Questão 895|Qual é o maior país da América do Sul?|R: Brasil|
+Questão 896|Qual das seguintes cidades é a capital da França?|R: Paris|
+Questão 897|No estágio "Coletar recursos" do evento O Governador Mais Poderoso, quantos pontos você ganha por coletar 1 Gema?|R: 150|
+Questão 898|Qual das seguintes opções costuma ser disputada como fruta ou vegetal?|R: Tomate|
+Questão 899|Que medida oficial tornou um crime dar a Martinho Lutero comida e abrigo?|R: Édito de Worms|
+Questão 900 (idem 232)|"Machu Picchu" é uma relíquia notável de qual civilização?|R: Os Incas|
+Questão 901|Qual das seguintes raças de gato é conhecida por não ter pelo?|R: Sphynx|
+Questão 902|O lendário comandante da Dinastia Joseon, Yi Sun-sin, sacrificou a vida em que batalha famosa?|R: Batalha de Noryang|
+Questão 903|Quantas teclas tem um piano moderno típico?|R: 88|
+Questão 904|Onde Napoleão Bonaparte foi exiliado após sua derrota em Waterloo?|R: Santa Helena|
+Questão 905|Em RoK, qual desses comandantes NÃO carrega arco e flecha?|R: Kusunoki Masashige|
+Questão 906|Em "Crime e Castigo", qual é o trabalho da primeira pessoa que Raskolnikov assassinou?|R: Penhorista|
+Questão 907|Leonardo da Vinci foi aprendiz na oficina de quem?|R: Andrea del Verrocchio|
+Questão 908|Quantos pontos existem em um tabuleiro Go padrão?|R: 19x19|
+Questão 909|Junto com Henri Matisse, qual desses artistas é considerado um dos fundadores do movimento fauvismo?|R: André Derain|
+Questão 910|Qual é o número da camisa de Luka Modric no Real Madrid?|R: 10|
+Questão 911|R: Qual é o suposto local de nascimento da dança do ventre?|R: Egito|
+Questão 912|Qual desses prêmios Nobel foi concedido a Marie Curie em 1903?|R: Prêmio Nobel de Física|
+Questão 913|Durante o reinado de que imperador foi concluído o Coliseu Romano?|R: Tito|
+Questão 914|Albert Einstein recebeu o Prêmio Nobel de Física de 1921 por qual descoberta?|R: O efeito fotoelétrico|
+Questão 915|A "Jornada das Telhas" é considerada por alguns historiadores o marco do início da Revolução Francesa. Em qual cidade isso ocorreu?|R: Grenoble|
+Questão 916|Quem fundou o xogunato Kamakura?|R: Minamoto no Yoritomo|
+Questão 917|Em que nível a alíquota do imposto de transporte do Posto Comercial se torna 10%?|R: 24|
+Questão 918|Na guerra civil romana de 49 AEC, quem era o principal oponente de Júlio César?|R: Cneu Pompeu Magno|
+Questão 919|Qual é o símbolo químico do antimônio?|R: Sb|
+Questão 920|Qual desses personagem é de "Vinte Mil Léguas Submarinas"?|R: Capitão Nemo|
+Questão 921|Qual é o apelido de Júlio César no Rise of Kingdoms?|R: O Imperador Sem Coroa|
+Questão 922|Quem foi o primeiro astrônomo a calcular o limite de Roche?|R: Édouard Roche|
+Questão 923|Quantos envios você precisa concluir no Fórum Estadual para abrir uma Comenda de Envio?|R: 15|

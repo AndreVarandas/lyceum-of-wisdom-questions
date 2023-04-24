@@ -15,6 +15,8 @@ Languages available:
 - Vietnamese
 - Indonesian
 
+### Last Update - 24/04/2023
+
 ---
 
 [LICENSE - MIT - André Varandas](LICENSE)
