@@ -16,7 +16,7 @@ A: Guerres des Roses
 
 question 5
 Combien de temps dure un marathon en kilomètres ?
-A : 40 km
+R : 40 km
 
 question 6
 Alors, quels traits avantageux sont les plus susceptibles d'être transmis aux descendants ?
@@ -60,7 +60,7 @@ R : Périclès
 
 questions 16
 Les vents en forme de cône des tornades sont remarquables pour quoi faire ?
-A : faire pivoter
+R : faire pivoter
 
 questions 17
 Qui a fondé le Royaume des Asturies ?
@@ -104,7 +104,7 @@ R : Cavalerie
 
 Question 27
 Lequel des éléments suivants ne donne PAS d'EXP aux commandants ?
-A : Attaquez d'autres joueurs
+R : Attaquez d'autres joueurs
 
 questions 28
 Plus une population a de variations génétiques, plus il est probable que certains individus feront quoi ?
@@ -184,7 +184,7 @@ R : Aristote
 
 Question 47
 Lequel des éléments suivants n'est pas une caractéristique de l'art de la Renaissance ?
-A : plat/bidimensionnel
+R : plat/bidimensionnel
 
 Question 48
 Parmi les 12 animaux du zodiaque chinois, lequel vient en premier ?
@@ -192,7 +192,7 @@ Une souris
 
 Question 49
 À la Renaissance, pourquoi Florence était-elle importante ?
-A : Lieu de naissance et symbole de la Renaissance
+R : Lieu de naissance et symbole de la Renaissance
 
 questions 50
 Quelle ancienne cité-État grecque était connue pour son entraînement militaire brutal et sa bravoure ?
@@ -208,7 +208,7 @@ R : Culture classique
 
 Question 53
 Quel commandant est surnommé le père de la conquête ?
-A : Barres de baie
+R : Barres de baie
 
 question 54
 Quel commandant est connu sous le nom de Warlord de Kamakura ?
@@ -220,15 +220,15 @@ Un coca
 
 Question 56
 A quoi servent les flèches de résistance ?
-A : Pour mettre à niveau la Tour de Garde
+R : Pour mettre à niveau la Tour de Garde
 
 question 57
 Laquelle des sept merveilles du monde a été créée pour guérir le désir de la reine de Babylone ?
-A : Les jardins suspendus
+R : Les jardins suspendus
 
 Question 58
 Quel dicton en 4 mots a été suivi par Oda Nobunaga ?
-A : Règle avec une force absolue
+R : Règle avec une force absolue
 
 Question 59
 Les mutations sont un changement de quoi ?
@@ -240,7 +240,7 @@ A: La plupart de l'Inde
 
 Question 61
 Quel type de catastrophe naturelle est mesuré à l'aide de l'échelle de Richter ?
-A : tremblement de terre
+R : tremblement de terre
 
 Question 62
 Le Père Noël voyage dans un traîneau tiré par quels animaux ?
@@ -256,7 +256,7 @@ A: Tome de Sagesse Niv. 3 et Tome de Connaissance Niv. 3
 
 questions 65
 Quelle partie du corps humain contient le plus d'eau ?
-A : globes oculaires
+R : globes oculaires
 
 Question 66
 Qui a écrit l'art de la guerre ?
@@ -296,11 +296,11 @@ R : Pierre de Coubertin
 
 question 75
 Qu'est-ce qui a fourni le plus grand soutien économique à la Renaissance ?
-A : Mécènes riches
+R : Mécènes riches
 
 question 76
 Les mutations sont importantes car elles apportent quoi ?
-A : Variation génétique nécessaire à l'évolution d'une population
+R : Variation génétique nécessaire à l'évolution d'une population
 
 question 77
 Les Trois Rois de Corée étaient Baeke, Silla et... ?
@@ -312,7 +312,7 @@ R : Tommy
 
 question 79
 Dans des circonstances normales, quelle couche du soleil pouvons-nous voir à l'œil nu ?
-A : Photosphère
+R : Photosphère
 
 questions 80
 Qui a peint la Joconde ?
@@ -320,7 +320,7 @@ R : Léonard de Vinci
 
 Question 81
 Lequel de ces éléments est une étape de l'événement "Le plus puissant des gouverneurs" ?
-A : Élimination des ennemis
+R : Élimination des ennemis
 
 question 82
 Quel commandant montra son génie militaire à la bataille de Tours au VIIIe siècle ? ou Quel commandant a déployé son génie militaire à la bataille de Poitiers au VIIIe siècle ?
@@ -368,7 +368,7 @@ R : Médecins
 
 question 93
 Laquelle des ressources suivantes est une ressource énergétique inépuisable basée sur du magma chaud ou de la roche chaude et sèche sous la surface ?
-A : Géothermie
+R : Géothermie
 
 question 94
 Quel explorateur portugais a navigué du cap de Bonne-Espérance aux Indes ?
@@ -400,7 +400,7 @@ R : Le Code d'Hammourabi
 
 questions 101
 Dans l'Arche d'Osiris, où faut-il emmener l'Arche ?
-A : Un bâtiment NON ennemi
+R : Un bâtiment NON ennemi
 
 questions 102
 Quand la déclaration d'indépendance a-t-elle été rédigée ?
@@ -432,7 +432,7 @@ R : Egypte
 
 questions 109
 D'où viennent les adaptations ?
-A : Mutations et recombinaison génétique
+R : Mutations et recombinaison génétique
 
 questions 110
 Les guerres puniques ont été menées par la Rome antique et quel autre empire antique ?
@@ -616,11 +616,11 @@ R : Louis XIV
 
 question 155
 Comment s'appelle l'électricité produite par la force de l'eau à l'aide de grands barrages sur une rivière ?
-A : Énergie hydroélectrique
+R : Énergie hydroélectrique
 
 question 156
 Laquelle des espèces marines suivantes existe depuis le plus longtemps ?
-A : Nautilus
+R : Nautilus
 
 question 157
 Lequel des éléments suivants a été construit sur les ordres de Shah Jahan en mémoire de sa femme Mumtaz Mahal ?
@@ -684,7 +684,7 @@ R : Hermann Ebbinghaus
 
 question 172
 Raphaël est surtout connu pour sa création dont laquelle parmi les suivantes ?
-A : École d'Athènes
+R : École d'Athènes
 
 question 173
 Parmi les propositions suivantes, laquelle est la plus grande île du monde ?
@@ -696,7 +696,7 @@ R : Humanisme
 
 question 175
 Quel est le rapport de conversion des ampères (A) en milliampères (mA) ?
-A : 1:1000
+R : 1:1000
 
 question 176
 Dans quel pays les guerres carlistes ont-elles eu lieu au XIXe siècle ?
@@ -736,11 +736,11 @@ R : La pierre de Rosette
 
 question 185
 À quel ordre de mammifères appartiennent les suidés ?
-A : Artiodactyles
+R : Artiodactyles
 
 question 186
 Les humanistes du Nord comme Erasmus étaient surtout connus pour quoi ?
-A : Intérêt pour la religion et la réforme sociale
+R : Intérêt pour la religion et la réforme sociale
 
 question 187
 Lequel des physiciens suivants est né le jour anniversaire de la mort de Galileo Galilei et est décédé le jour anniversaire de la naissance d'Albert Einstein ?
@@ -768,7 +768,7 @@ R : Robert Davidson
 
 question 194
 Sur l'Arche d'Osiris, quelle hâte pouvez-vous utiliser ?
-A : Accélération de la guérison
+R : Accélération de la guérison
 
 question 195
 Qui était le premier empereur de Rome ?
@@ -776,7 +776,7 @@ R : Gaius Octavius Augustus
 
 question 196
 Quel genre de lieu saint accorde des bonus d'attaque aux troupes ?
-A : Autel de la Flamme
+R : Autel de la Flamme
 
 question 197
 Lequel des éléments suivants était également connu sous le nom d'Empire romain d'Orient ?
@@ -792,7 +792,7 @@ R : Poséidon
 
 questions 200
 Un apport insuffisant de quel élément peut provoquer une thyromégalie ?
-A : Iode
+R : Iode
 
 questions 201
 Le Taj Mahal a été construit sous quelle dynastie indienne ?
@@ -812,7 +812,7 @@ R : Sun Tzu
 
 questions 205
 Quelles sont les deux œuvres principales attribuées à Homère ?
-A : L'Odyssée et l'Iliade
+R : L'Odyssée et l'Iliade
 
 questions 206
 Qui était considéré comme le prototype du Roi de Cœur au poker ?
@@ -824,19 +824,19 @@ R : Descartes
 
 questions 209
 Lequel des succès suivants doit être accompli avant le succès "Spécial flocon de neige" ?
-A : Frappe à longue distance
+R : Frappe à longue distance
 
 questions 210
 En quoi le commandant Sun Tzu est-il doué ?
-A : Diriger les garnisons de la ville
+R : Diriger les garnisons de la ville
 
 questions 211
 Lequel des éléments suivants ne peut PAS être trouvé dans les magasins Alliance ?
-A : clé d'or
+R : clé d'or
 
 questions 212
 En quoi le commandant Baybars est-il doué ?
-A : Unités de cavalerie de tête
+R : Unités de cavalerie de tête
 
 questions 213
 Lors de la capture et de la remise à l'eau de poissons en pleine mer, pourquoi est-il important de percer leur vessie natatoire ?
@@ -848,7 +848,7 @@ Un médicament
 
 questions 215
 Lequel des éléments suivants n'était pas un pilier de la Renaissance ?
-A : Maniérisme
+R : Maniérisme
 
 question 216
 Lequel des Desiderius Erasmus et Thomas More suivants ont en commun ?
@@ -856,7 +856,7 @@ A: Tous deux étaient considérés comme des humanistes
 
 question 217
 Au cours de la deuxième guerre punique, dans quelle bataille Hannibal, avec une armée beaucoup plus petite, a-t-il vaincu une armée romaine ?
-A : La bataille de Cannes
+R : La bataille de Cannes
 
 questions 218
 Lequel des commandants suivants a rejoint une rébellion contre son propre mari ?
@@ -864,7 +864,7 @@ R : Constance
 
 question 219
 En quoi le commandant Eulji Mundeok est-il doué ?
-A : Unités d'infanterie de tête
+R : Unités d'infanterie de tête
 
 questions 220
 L'épopée d'Homère "L'Iliade" se concentre sur les événements qui se déroulent au cours de quelle guerre ou bataille ?
@@ -876,7 +876,7 @@ R : Kyohachiryu
 
 questions 222
 La reine Victoria d'Angleterre faisait partie de quelle maison royale ?
-A : La Maison de Hanovre
+R : La Maison de Hanovre
 
 question 223
 Qu'est-ce qu'un phare construit après la conquête de l'Égypte par la Macédoine et était-ce l'une des sept merveilles du monde antique ?
@@ -896,7 +896,7 @@ R : Ozone
 
 question 227
 En quoi le commandant Keira est-il doué ?
-A : Unités de tir à l'arc de tête
+R : Unités de tir à l'arc de tête
 
 question 228
 Quel pays d'Asie chevauche l'ancien empire parthe ?
@@ -928,7 +928,7 @@ R : des vêtements
 
 question 235
 Le titre "Reine" du royaume augmente lequel des suivants ?
-A : Vitesse de collecte
+R : Vitesse de collecte
 
 question 236
 Keira a une fois défié les attentes du monde à son égard dans une bataille glorieuse. Où cette bataille a-t-elle eu lieu ?
@@ -964,7 +964,7 @@ A: Les troupes des ducs ont augmenté l'attaque et les troupes des premiers mini
 
 question 244
 Lequel des éléments suivants n'est PAS l'une des capacités d'Osman I ?
-A : Tactiques obliques
+R : Tactiques obliques
 
 question 245
 Comment s'appelle l'énergie renouvelable issue de la combustion des matières organiques comme le bois et l'alcool ?
@@ -980,11 +980,11 @@ Une tomate
 
 question 248
 Sur la page COMMANDER VIEW, quel bonus les commandants agissant en tant que "Drill Master" obtiennent-ils ?
-A : Attaque des troupes +1 %
+R : Attaque des troupes +1 %
 
 question 249
 Quel buff peut être acquis en occupant un Sanctuaire du Courage ?
-A : Augmentation de l'EXP gagnée par les commandants
+R : Augmentation de l'EXP gagnée par les commandants
 
 questions 250
 Lequel des éléments suivants n'est PAS l'une des capacités de Lohar ?
@@ -1000,7 +1000,7 @@ A: Dans une tribu barbare éloignée
 
 question 253
 Lequel des éléments suivants n'est PAS l'une des capacités de Bélisaire ?
-A : Force fulgurante
+R : Force fulgurante
 
 question 254
 Parmi les commandants ci-dessous, lequel convient le mieux pour diriger des troupes CONTRE des ennemis d'infanterie ?
@@ -1016,7 +1016,7 @@ Un soulagement
 
 Question 256B
 Lequel des éléments suivants n'est PAS l'une des capacités de Keira ?
-A : Sang indiscipliné
+R : Sang indiscipliné
 
 question 257
 Parmi les commandants ci-dessous, lequel convient le mieux pour diriger des troupes CONTRE des ennemis du tir à l'arc ?
@@ -1032,11 +1032,11 @@ R : Sun Tzu
 
 questions 260
 Pourquoi le scorbut était-il autrefois un problème courant pour les marins ?
-A : Par manque de fruits et légumes frais lors de longs trajets
+R : Par manque de fruits et légumes frais lors de longs trajets
 
 question 261
 En quoi le commandant Hermann est-il doué ?
-A : Unités de tir à l'arc de tête
+R : Unités de tir à l'arc de tête
 
 questions 262
 Laquelle de ces villes du Brésil a accueilli les Jeux olympiques ?
@@ -1048,15 +1048,15 @@ R : Vitamine A
 
 question 264
 Sur la page COMMANDER VIEW, quel bonus les commandants agissant en tant que "Fiscal" obtiennent-ils ?
-A : Vitesse de collecte 5 %
+R : Vitesse de collecte 5 %
 
 question 265
 En quoi le commandant Hannibal Barca est-il bon?
-A : Attaquer des villes
+R : Attaquer des villes
 
 question 266
 Dans lequel de ces pays passe le premier méridien ?
-A : Mali -> (Espagne, France, Royaume-Uni, Ghana, Burkina Faso, Mali Algérie)
+R : Mali -> (Espagne, France, Royaume-Uni, Ghana, Burkina Faso, Mali Algérie)
 
 question 267
 Parmi les maladies suivantes, lesquelles peuvent être causées par un manque de vitamine D ?
@@ -1068,7 +1068,7 @@ A: Sang Celtique
 
 question 269
 Lequel des éléments suivants n'est PAS l'une des capacités de Mulan ?
-A : Armée indomptable
+R : Armée indomptable
 
 questions 270
 En plus du "Nombre de Scouts" et de la "Puissance", lesquels des paramètres suivants du Scout Camp peuvent également être mis à jour ?
@@ -1100,11 +1100,11 @@ R : Combat les infections et les maladies
 
 question 277
 Quelle technologie vient juste avant le Swordsman ?
-A : Ferronnerie
+R : Ferronnerie
 
 question 278
 En quoi le commandant Lancelot est-il doué ?
-A : Unités de cavalerie de tête
+R : Unités de cavalerie de tête
 
 question 279
 Lequel des énoncés suivants décrit avec précision le cercle polaire arctique ?
@@ -1120,7 +1120,7 @@ R : Centre de l'Alliance
 
 questions 282
 En plus de "Nombre de fois où vous pouvez être aidé" et "Puissance", lesquels des paramètres suivants de l'Alliance Center peuvent également être mis à jour ?
-A : Capacité des renforts de la ville
+R : Capacité des renforts de la ville
 
 question 283
 Quel astronome a proposé la théorie héliocentrique au XVIe siècle ?
@@ -1132,11 +1132,11 @@ R : Camp scout
 
 question 285
 Quelle est la cause principale de la formation de l'Himalaya ?
-A : Collision entre plaques
+R : Collision entre plaques
 
 question 287
 Dans l'Égypte ancienne, lequel des éléments suivants n'était PAS un privilège d'être un « scribe » ?
-A : Exonéré du paiement des frais médicaux en cas de maladie
+R : Exonéré du paiement des frais médicaux en cas de maladie
 
 question 288
 Combien de points VIP pouvez-vous acheter avec 200 gemmes ?
@@ -1144,7 +1144,7 @@ R : 200
 
 question 289
 Lequel des énoncés suivants décrit un poisson-clown ?
-A : Poissons marins tropicaux
+R : Poissons marins tropicaux
 
 questions 290
 Quel scientifique néerlandais est connu comme "le père de la microbiologie" ?
@@ -1160,11 +1160,11 @@ R : Dieu du tonnerre
 
 question 293
 Où a été trouvée l'Armée de terre cuite du patrimoine mondial ?
-A : Dans un mausolée royal
+R : Dans un mausolée royal
 
 question 294
 Quelle est la principale cause des paysages karstiques ?
-A : La dissolution des roches solubles
+R : La dissolution des roches solubles
 
 question 295
 Lequel des événements suivants ne s'est PAS produit pendant les guerres gréco-perses ?
@@ -1172,7 +1172,7 @@ R : La bataille d'Azincourt
 
 question 296
 Quelle technologie vient juste avant la cavalerie lourde ?
-A : Armure d'écailles
+R : Armure d'écailles
 
 question 297
 Lequel des pays suivants est le plus proche du pôle Nord ?
@@ -1180,7 +1180,7 @@ R : Finlande
 
 question 298
 Dans quelle écriture le Code d'Hammourabi a-t-il été gravé dans la pierre ?
-A : Cunéiforme
+R : Cunéiforme
 
 question 299
 Un objet de collecte amélioré peut-il augmenter sa vitesse de collecte de combien ?
@@ -1204,11 +1204,11 @@ R : La peste noire
 
 questions 304
 Lequel des éléments suivants accorde des points d'activité quotidienne ?
-A : Vaincre les troupes barbares sur la carte
+R : Vaincre les troupes barbares sur la carte
 
 questions 306
 Quels océans sont reliés par le canal de Panama ?
-A : Pacifique et Atlantique
+R : Pacifique et Atlantique
 
 questions 307
 Selon le conte du loup de la mythologie romaine, qu'est-il arrivé aux jumeaux qu'elle a nourris : Romulus et Remus ?
@@ -1216,7 +1216,7 @@ R : Romulus est devenu le fondateur et le premier roi de Rome
 
 questions 308
 Lequel des buffs suivants peut prendre effet pendant les batailles de Sunset Canyon ?
-A : Les mordus d'équipement
+R : Les mordus d'équipement
 
 questions 309
 Quelles villes sont reliées par le pont Dom Luís I ?
@@ -1252,7 +1252,7 @@ R : 8
 
 question 317
 Quel était le but initial de la Grande Pyramide de Gizeh ?
-A : Tombeau du pharaon Khéops
+R : Tombeau du pharaon Khéops
 
 question 318
 Quelle est la beauté qui serait à l'origine de la guerre de Troie ?
@@ -1284,7 +1284,7 @@ R : Allemagne
 
 questions 325
 La fête nationale française a lieu le 14 juillet pour coïncider avec quel événement historique ?
-A : Prise de la Bastille
+R : Prise de la Bastille
 
 question 326
 Quel pharaon a ordonné la construction des temples d'Abou Simbel ?
@@ -1312,7 +1312,7 @@ R : 1905
 
 questions 332
 Quel est l'avantage de faire des recherches sur les "mathématiques" à l'Académie ?
-A : Vitesse de recherche accrue
+R : Vitesse de recherche accrue
 
 question 333
 Lequel des textes suivants a été écrit par Mary Shelley ?
@@ -1372,7 +1372,7 @@ R : Un fléau
 
 question 347
 Quel instrument de musique est un emblème national de l'Irlande ?
-A : harpe
+R : harpe
 
 question 348
 Parmi les inventions suivantes, laquelle n'a PAS vu le jour pendant la première révolution industrielle ?
@@ -1404,11 +1404,11 @@ R : Edouard VIII
 
 question 355
 Lequel de ces articles NE PEUT PAS être acheté dans la boutique du marchand mystère ?
-A : Page du passeport
+R : Page du passeport
 
 question 356
 Quelle contribution extraordinaire à la science a valu au biologiste Carl Landsteiner le prix Nobel ?
-A : Découvrir les groupes sanguins humains
+R : Découvrir les groupes sanguins humains
 
 question 357
 En République de Corée, le Hwarang est l'unité spéciale de quelle civilisation ?
@@ -1416,7 +1416,7 @@ R : Corée
 
 question 358
 Laquelle de ces civilisations peut augmenter la capacité hospitalière ?
-A : Byzance
+R : Byzance
 
 question 359
 Quel commandant est généralement considéré comme l'exemple idéal de "l'esprit Bushido" ?
@@ -1432,7 +1432,7 @@ R : Mathématiques
 
 question 362
 La "Bataille de Navas de Tolosa" a été un tournant majeur dans quel conflit ?
-A : La Reconquête
+R : La Reconquête
 
 question 363
 Quel tombeau d'un ancien pharaon égyptien l'archéologue britannique Howard Carter a-t-il découvert en 1922 ?
@@ -1468,7 +1468,7 @@ R : 1947
 
 question 371
 Quelle est la partie la plus dure du corps humain ?
-A : émail des dents
+R : émail des dents
 
 question 372
 Quelle est la seule comète à courte période visible régulièrement à l'œil nu depuis la Terre ?
@@ -1476,11 +1476,11 @@ R : La comète de Halley
 
 question 373
 Sur la page COMMANDER VIEW, quel bonus les commandants qui agissent en tant que "Bloodfist Guard" reçoivent-ils ?
-A : Santé des troupes +1 %
+R : Santé des troupes +1 %
 
 question 374
 Une diminution de laquelle des métriques suivantes pourrait indiquer une proximité croissante avec un état de vide ?
-A : pression d'air
+R : pression d'air
 
 question 375
 À quelle époque de l'histoire chinoise la « bataille de la rivière Fei » a-t-elle eu lieu, lorsqu'un petit groupe de soldats a maîtrisé une force largement supérieure ?
@@ -1584,7 +1584,7 @@ R : Vitamine C
 
 questions 400
 Dans la plupart des cas, quel type de lion a une crinière ?
-A : Mâle adulte
+R : Mâle adulte
 
 questions 401
 Un équipement avec un bonus de talent spécial augmentera ses statistiques de quel pourcentage lorsqu'il est équipé par un commandant avec le talent correspondant ?
@@ -1624,7 +1624,7 @@ Une distance
 
 questions 410
 Comment s'appelle le détroit turc qui sépare l'Europe de l'Asie ?
-A : (Détroit du) Bosphore
+R : (Détroit du) Bosphore
 
 Question 411
 Qui a été la première femme créée par Héphaïstos dans la mythologie grecque ?
@@ -1636,15 +1636,15 @@ R : Johann Gutenberg
 
 Question 413
 En République de Corée, la Cataphracte est l'unité spéciale de quelle civilisation ?
-A : Byzance
+R : Byzance
 
 Question 414
 Lequel des éléments suivants est une construction décorative ?
-A : Tambour en pierre
+R : Tambour en pierre
 
 Question 415
 Que fait la compétence d'alliance "Don de la nature" lorsqu'elle est utilisée ?
-A : Invoquer des points de ressources dans une zone sélectionnée
+R : Invoquer des points de ressources dans une zone sélectionnée
 
 Question 416
 Quel commandant militaire était connu sous le nom de « Libérateur de Teutobourg » ?
@@ -1660,7 +1660,7 @@ R : Platon
 
 Question 419
 Laquelle de ces œuvres de la littérature japonaise Monogatari décrit la légende "Kaguya-hime" ?
-A : La Légende du Coupeur de Bambou
+R : La Légende du Coupeur de Bambou
 
 questions 420
 Lequel des personnages suivants était un général pendant la guerre de Genpei au Japon ?
@@ -1676,7 +1676,7 @@ R : Parc national de Yellowstone
 
 question 423
 Le chef militaire Carlos Martel n'était PAS connu pour lequel des exploits suivants ?
-A : Commandement des unités de cavalerie
+R : Commandement des unités de cavalerie
 
 question 424
 Quel commandant est connu sous le nom de "The Immortal Hammer" ?
@@ -1696,7 +1696,7 @@ R : Oxygène
 
 question 428
 Quelle est la plus petite espèce de serpent connue ?
-A : Leptotyphlops carlae
+R : Leptotyphlops carlae
 
 question 429
 Qui a écrit le livre bien connu "Sapiens : Une brève histoire de l'humanité" ?
@@ -1704,7 +1704,7 @@ R : Yuval Noah Harari
 
 questions 430
 Un apport insuffisant de quel élément peut provoquer une thyromégalie ?
-A : Iode
+R : Iode
 
 Question 431
 Yi Seong-Gye est spécialisé dans lequel des domaines suivants ?
@@ -1728,7 +1728,7 @@ R : Chlorure de sodium
 
 Question 436
 Qu'est-ce que la technologie "franc-maçonnerie" peut aider à améliorer ?
-A : La vitesse de construction des bâtiments dans votre ville
+R : La vitesse de construction des bâtiments dans votre ville
 
 Question 437
 Qui a fondé "l'Armada espagnole" ?
@@ -1736,7 +1736,7 @@ R : Philippe II
 
 Question 438
 La civilisation phénicienne est née dans quelle partie du monde ?
-A : En Méditerranée orientale
+R : En Méditerranée orientale
 
 Question 439
 Quelle est la nationalité de Pierre de Fermat, qui a proposé le dernier théorème de Fermat ?
@@ -1744,7 +1744,7 @@ R : France
 
 question 440
 Le coffre de réussite à 1 000 points comprend :
-A : Sculpture de commandant épique
+R : Sculpture de commandant épique
 
 Question 441
 Qui a lancé la première Marche du sel ?
@@ -1768,7 +1768,7 @@ R : phénicien
 
 Question 446
 Quel est le plus gros animal de la planète ?
-A : baleine bleue
+R : baleine bleue
 
 Question 447
 Laquelle de ces descriptions est une description incorrecte de la "Mare Imbrium" sur la lune ?
@@ -1780,7 +1780,7 @@ R : Vents
 
 questions 450
 Quand a eu lieu la Guerre de Succession d'Autriche ?
-A : 1740-1748
+R : 1740-1748
 
 Question 451
 Lequel de ces artistes de la Renaissance n'était pas italien ?
@@ -1796,7 +1796,7 @@ R : Expéditions
 
 Question 454
 Quel gaz compose plus de 90 % de l'atmosphère de Mars ?
-A : dioxyde de carbone
+R : dioxyde de carbone
 
 question 455
 Quelle capacité active de commandant peut infliger Silence ?
@@ -1812,15 +1812,15 @@ A: Œdipe (Oidipe)
 
 question 458
 Lequel des éléments suivants n'augmente PAS une limite d'adhésion à l'Alliance ?
-A : Nommer des officiers
+R : Nommer des officiers
 
 Question 459 (idem 25)
 Lequel des éléments suivants n'accorde PAS de crédits individuels ?
-A : Attaquer les barbares
+R : Attaquer les barbares
 
 question 460
 Les pandas ont 5 orteils griffus et un sixième doigt. A quoi servent les pandas avec leur sixième chiffre ?
-A : Tenir le bambou en mangeant
+R : Tenir le bambou en mangeant
 
 Question 461
 La technologie d'alliance "Territory Guardian" augmente quelle statistique de troupe lors de combats sur le territoire de l'Alliance ?
@@ -1860,7 +1860,7 @@ Une pièce
 
 Question 472
 Quelles informations l'objet Troupes trompeuses falsifie-t-il pour les éclaireurs ennemis ?
-A : Nombre d'unités dans votre ville
+R : Nombre d'unités dans votre ville
 
 Question 473
 Quelle est la plus grande ville du Royaume-Uni ?
@@ -1916,7 +1916,7 @@ R : Fenrir
 
 question 486
 À quelle famille célèbre et influente de la Renaissance appartenait le mécène Duque Lorenzo ?
-A : La maison de Médicis
+R : La maison de Médicis
 
 question 487
 Laquelle des histoires suivantes ne fait pas partie des contes de fées des frères Grimm ?
@@ -1972,7 +1972,7 @@ R : Bélisaire
 
 questions 500
 Quelle est la cause première du mal de l'altitude ?
-A : Exposition rapide à de petites quantités d'oxygène à haute altitude
+R : Exposition rapide à de petites quantités d'oxygène à haute altitude
 
 questions 501
 Combien d'années s'écoule-t-il entre chaque édition des Jeux olympiques d'hiver ?
@@ -2048,7 +2048,7 @@ R : Le Lion de Lucerne
 
 question 519
 Lequel de ces thèmes de ville comporte des ballons ?
-A : Cabane de récolte
+R : Cabane de récolte
 
 questions 520
 Quel est le nombre maximum de bâtiments décoratifs de King's Road qu'un gouverneur peut construire ?
@@ -2120,7 +2120,7 @@ R : Théodora
 
 question 537
 Quels étaient les deux matériaux de construction les plus utilisés par l'industrie de la construction égyptienne antique ?
-A : Briques et pierres en terre cuite
+R : Briques et pierres en terre cuite
 
 question 538
 Quelle récompense peut être donnée aux gouverneurs qui ne se qualifient PAS pour l'Arche d'Osiris, mais dont les autres membres de l'alliance se qualifient et sont vaincus ?
@@ -2156,7 +2156,7 @@ R : Ptolémée V
 
 question 546
 Lequel de ces éléments ne serait PAS une pénalité pour ne pas extraire complètement toutes les ressources d'un point de ressource ?
-A : Subir une attaque barbare
+R : Subir une attaque barbare
 
 question 547
 Quelle divinité égyptienne antique est représentée avec la tête d'un lion ?
@@ -2168,15 +2168,15 @@ R : La Bénédiction d'Hadès
 
 question 549
 Laquelle de ces zones contient une roue hydraulique ?
-A : Terres agricoles de l'Alliance
+R : Terres agricoles de l'Alliance
 
 questions 550
 Quelle ancienne ruine romaine située en Algérie a officiellement reçu le statut de patrimoine mondial en 1982 ?
-A : Les ruines de Djémila
+R : Les ruines de Djémila
 
 question 551
 Dans quelle ville est mort Henri Ier de Bourbon, prince de Condé ?
-A : Saint-Jean-d'Angély
+R : Saint-Jean-d'Angély
 
 question 552
 Quel personnage de l'histoire s'est déguisé en capitaine prussien et s'est enfui avec plus de 4 000 marcs d'or pour être plus tard considéré comme un héros populaire et appelé « le capitaine de Köpenick » ?
@@ -2192,7 +2192,7 @@ R : Keira
 
 question 555
 Lequel de ceux-ci n'était PAS un type de jardin courant dans l'Égypte ancienne ?
-A : Jardins publics
+R : Jardins publics
 
 question 556
 Quel pays a adopté le quetzal comme oiseau national ?
@@ -2228,7 +2228,7 @@ R : 6
 
 question 564
 Pourquoi la proue et la poupe d'une chaloupe viking sont-elles conçues pour être symétriques ?
-A : Inverser rapidement la direction sans avoir à tourner
+R : Inverser rapidement la direction sans avoir à tourner
 
 question 565
 Qui a écrit le célèbre livre "Une brève histoire du temps" ?
@@ -2244,7 +2244,7 @@ R : Les Misérables
 
 question 568
 Après qu'une plante carnivore attrape un insecte, comment digère-t-elle et absorbe-t-elle la proie ?
-A : Les volets internes des feuilles sécrètent un liquide digestif
+R : Les volets internes des feuilles sécrètent un liquide digestif
 
 question 569
 Qui est le dieu du tonnerre dans la mythologie nordique ?
@@ -2292,19 +2292,19 @@ R : Ak et Hok
 
 questions 580
 Que devez-vous faire pour obtenir le succès Protection des témoins ?
-A : Changez de pseudo 10 fois
+R : Changez de pseudo 10 fois
 
 question 581
 Laquelle de ces compétences N'EST PAS une compétence d'alliance ?
-A : Marche rapide
+R : Marche rapide
 
 question 582
 Quel type de pierre les anciens Égyptiens exploitaient-ils principalement dans le delta du Nil ?
-A : calcaire
+R : calcaire
 
 question 583
 Comment obtenir le succès Ami du Royaume ?
-A : Visitez 100 villages tribaux
+R : Visitez 100 villages tribaux
 
 question 584
 Quelle était la langue maternelle de Cléopâtre VII, également connue sous le nom de Cléopâtre, la reine d'Égypte ?
@@ -2312,11 +2312,11 @@ R : Grec
 
 question 585
 Lequel des éléments suivants n'est PAS considéré comme un organisme unicellulaire ?
-A : acarien
+R : acarien
 
 question 586
 Lequel de ces éléments se trouve dans le coffre d'or de l'alliance ?
-A : 1 000 crédits individuels
+R : 1 000 crédits individuels
 
 question 587
 Quel commandant dit : « Mon destin est déterminé par la foi et l'opportunité » ?
@@ -2344,7 +2344,7 @@ R : Dans le top 5
 
 question 593
 Quel buff d'occupation est fourni par l'Autel des flammes ?
-A : Attaque des troupes +3 %
+R : Attaque des troupes +3 %
 
 question 594
 Pour combien de francs Charles Quint a-t-il sauvé Bertrand du Guesclin lors du conflit pour la Bretagne ?
@@ -2360,7 +2360,7 @@ R : 3
 
 question 597
 Combien de bêtes vous attendez-vous à voir combattre aux côtés de troupes barbares de niveau 20 dans Rise of Kingdoms ?
-A : 1 ours et 2 loups
+R : 1 ours et 2 loups
 
 question 598
 Que représente le caractère ankh dans les hiéroglyphes égyptiens anciens ?
@@ -2396,7 +2396,7 @@ R : Asie du Sud-Est
 
 Question 606
 Quel est le plus haut plateau du monde ?
-A : Plateau du Tibet
+R : Plateau du Tibet
 
 question 607
 Qui est la déesse de la Terre dans la mythologie grecque antique ?
@@ -2440,7 +2440,7 @@ R : L'esprit de la loi
 
 question 617
 Un ongle humain est fait de quel matériau ?
-A : Alpha-kératine
+R : Alpha-kératine
 
 question 618
 Les frontières desquelles de ces pays s'étendent sur deux continents ?
@@ -2480,7 +2480,7 @@ R : Lumière du soleil
 
 question 627
 Laquelle de ces circonstances vous empêcherait de changer de civilisation ?
-A : Entraînement des troupes en cours dans votre ville
+R : Entraînement des troupes en cours dans votre ville
 
 question 628
 Lequel de ces artistes n'était PAS un peintre baroque ?
@@ -2544,7 +2544,7 @@ R : lotus
 
 question 643
 Quelle était la profession de Theodorus Van Gosh, le frère cadet du célèbre peintre hollandais Vincent Van Gosh ?
-A : Marchand d'art
+R : Marchand d'art
 
 question 644
 D'où vient Hippocrate, le "père de la médecine" ?
@@ -2560,7 +2560,7 @@ R : Einstein
 
 question 647
 Comment la Bible de Gutenberg a-t-elle été mise en production de masse ?
-A : Presse à caractères mobile
+R : Presse à caractères mobile
 
 question 648
 Où se trouvent les plus grandes réserves prouvées de pétrole au monde ?
@@ -2580,7 +2580,7 @@ R : Iceni
 
 question 652
 Lequel des éléments suivants ne vous empêchera PAS d'entrer sur un champ de bataille de l'Arche d'Osiris ?
-A : Activer une amélioration d'attaque
+R : Activer une amélioration d'attaque
 
 question 653
 Combien d'espace occupe un hôtel de ville dans la ville ?
@@ -2600,7 +2600,7 @@ R : Italie
 
 question 657
 Parmi les pénalités suivantes, lesquelles peuvent s'appliquer en cas d'utilisation d'un logiciel tiers ?
-A : Restrictions de combat
+R : Restrictions de combat
 
 question 658
 Lequel de ces personnages historiques n'était PAS un botaniste ?
@@ -2608,7 +2608,7 @@ R : Dmitri Mendeleïev
 
 question 659
 Où se trouve la main droite de la célèbre sculpture connue sous le nom de "Le Penseur" ?
-A : Sous le menton
+R : Sous le menton
 
 questions 660
 Quel Ceroli Boss a encerclé la Citadelle des Braves avec ses forces ?
@@ -2616,15 +2616,15 @@ R : Torgny
 
 question 661
 Laquelle de ces compétences d'alliance augmente les dégâts contre les barbares et les autres unités neutres ?
-A : Progrès rampants
+R : Progrès rampants
 
 question 662
 Quelles sont les armes utilisées par le commandant City Guardian ?
-A : Une hache et un bouclier
+R : Une hache et un bouclier
 
 question 663
 Laquelle de ces bénédictions inflige immédiatement une perte de puissance de 10 % à votre ennemi au début de la bataille dans l'événement "Golden Kingdom" ?
-A : Ancre
+R : Ancre
 
 question 664
 Laquelle de ces capacités appartenant au commandant Sun Tzu est augmentée par l'éveil ?
@@ -2648,7 +2648,7 @@ R : Bonn
 
 question 669
 Lequel de ces éléments NE PEUT PAS être obtenu dans un coffre d'équipement de taverne ?
-A : 60 minutes d'accélération d'entraînement
+R : 60 minutes d'accélération d'entraînement
 
 questions 670
 Le fish and chips est originaire de quel pays ?
@@ -2664,7 +2664,7 @@ R : Le commandant de plus haut niveau actuellement présent
 
 question 673
 Lequel des éléments suivants n'est PAS un composant utilisé pour forger l'arme épique "Golden Age" ?
-A : os d'animaux
+R : os d'animaux
 
 Question 674
 Dans quel pays le microscope a-t-il été inventé ?
@@ -2720,7 +2720,7 @@ R : Mozart
 
 question 687
 Dans l'événement Wish for Victory, comment les joueurs peuvent-ils gagner des récompenses ?
-A : Entraînement des troupes
+R : Entraînement des troupes
 
 question 688
 Le pistolet Luger, fabriqué pour l'armée allemande pendant la Seconde Guerre mondiale, utilise quel type de munition ?
@@ -2732,7 +2732,7 @@ A: Fleurs pour Algernon
 
 question 690
 Les pages de passeport sont utilisées pour immigrer vers d'autres royaumes. Quel est le nombre de pages de passeport utilisées ?
-A : Pouvoir individuel de gouverner
+R : Pouvoir individuel de gouverner
 
 question 691
 Quelle ethnie a fondé la première civilisation de la Mésopotamie ?
@@ -2784,7 +2784,7 @@ R : YI SEONG-GYE
 
 question 703
 Lequel des détroits suivants est situé entre l'Eurasie et l'Amérique du Nord ?
-A : Détroit de Béring
+R : Détroit de Béring
 
 question 704
 Dans la mythologie chinoise, quel genre de créature est Jingwei ?
@@ -2796,7 +2796,7 @@ R : ALBERT CAMUS
 
 question 706
 Lequel de ces stratagèmes n'est pas l'un des stratagèmes gagnants répertoriés dans le vieux livre militaire chinois, les "trente-six stratagèmes" ?
-A : La stratégie du « vide fort »
+R : La stratégie du « vide fort »
 
 Question 707
 Lequel de ces cadres Avatar peut être obtenu lors de l'événement Crisis Ceroli ?
@@ -2828,11 +2828,11 @@ R : Vitamine A
 
 question 714
 Zhu Geliang n'a pas été impliqué dans lequel des incidents suivants rapportés dans le roman des trois royaumes ?
-A : Révolte des turbans jaunes
+R : Révolte des turbans jaunes
 
 question 715
 Bastille, une prison qui était déjà située dans le centre de Paris, en France, servait à l'origine à quoi ?
-A : Fortaleza Défensive
+R : Fortaleza Défensive
 
 question 716
 Laquelle de ces femmes n'est pas considérée comme l'une des "quatre beautés" de la Chine ancienne ?
@@ -2844,7 +2844,7 @@ R : Pedro Álvarez Cabral
 
 question 718
 Dans la mythologie grecque, qui a détourné le chariot du soleil de son chemin, brûlant la terre ?
-A : Phaéton
+R : Phaéton
 
 question 719
 Quel monarque a construit Santa Sofia ?
@@ -2868,7 +2868,7 @@ R : Pays-Bas
 
 question 724
 Quel est le plus grand lac d'eau douce du monde en termes de superficie ?
-UN:
+R: Lake Superior
 
 question 725
 Quelle est la capacité de transport standard si elle est adaptée à un poste commercial au niveau 25 ?
@@ -2916,7 +2916,7 @@ A : Thèmes de couleurs techniques
 
 question 736
 Quel type de trésor de cristal se trouve dans l'alliance de niveau 26 présente ?
-A : Trésor de cristal bleu
+R : Trésor de cristal bleu
 
 question 737
 Combien de points sont gagnés par 1 point de puissance améliorée dans le segment "Étape 4 : Amélioration de la puissance" de l'événement "Le gouverneur le plus puissant" ?
@@ -2924,4 +2924,4 @@ R : 2
 
 question 738
 Dans laquelle de ces œuvres Sherlock Holmes fait-il votre première apparition ?
-A : Une étude en rouge
+R : Une étude en rouge

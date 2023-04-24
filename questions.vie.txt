@@ -2748,7 +2748,7 @@ A: Tên của một địa điểm
 
 Câu hỏi 694
 Trong thời kỳ thượng và hạ Ai Cập, màu sắc của Pharaoh của Thượng Ai Cập là gì?
-MỘT: Trắng
+A: Trắng
 
 Câu hỏi 695
 Khả năng liên minh "được tải hoàn toàn" khi được sử dụng là gì?
@@ -2756,7 +2756,7 @@ A: Tăng tốc độ gặp gỡ của các thành viên liên minh lên một ki
 
 Câu hỏi 696
 Serval sống ở châu lục nào đầu tiên?
-Đáp: Châu Phi
+A: Châu Phi
 
 Câu hỏi 697
 Trạm nghiên cứu nào ở vĩ độ cao nhất?
@@ -2764,7 +2764,7 @@ Trạm nghiên cứu nào ở vĩ độ cao nhất?
 
 Câu hỏi 698
 Nền văn minh nào sau đây tặng 20% ​​tốc độ chữa bệnh cho các bệnh viện?
-MỘT: PHÁP
+A: PHÁP
 
 Câu hỏi 699
 Cần kết hợp bao nhiêu mảnh quặng sắt bình thường để tạo ra một mảnh quặng sắt cao cấp?
@@ -2788,7 +2788,7 @@ A: eo biển Bering
 
 Câu hỏi 704
 Trong thần thoại Trung Quốc, Jingwei là loại sinh vật nào?
-Đáp: Một con chim
+A: Một con chim
 
 Câu hỏi 705
 Nhà văn nào trong số này được coi là đại diện cho chủ nghĩa phi lý?
@@ -2796,7 +2796,7 @@ R: ALBERT CAMUS
 
 Câu hỏi 706
 Cái nào trong số này không phải là một trong những mưu lược chiến thắng được liệt kê trong cuốn sách quân sự cổ của Trung Quốc, "ba mươi sáu mưu kế"?
-Đáp: Chiến lược “trống không mạnh”
+A: Chiến lược “trống không mạnh”
 
 Câu hỏi 707
 Khung Avatar nào trong số này có thể nhận được tại sự kiện Crisis Ceroli?
@@ -2824,7 +2824,7 @@ A: Markswoman
 
 Câu hỏi 713
 Vitamin nào có thể gây quáng gà?
-Đáp: Vitamin A
+A: Vitamin A
 
 Câu hỏi 714
 Zhu Geliang không liên quan đến sự kiện nào sau đây được kể trong tiểu thuyết Tam Quốc Chí?
@@ -2860,7 +2860,7 @@ A: ASTRID
 
 Câu hỏi 722
 "Người của hòa bình" là biệt danh của chỉ huy nào?
-Đáp: IMHOTEP
+A: IMHOTEP
 
 Câu hỏi 723
 Johannes Vermeer, người thợ vẽ bông tai ngọc trai, là người nước nào?
@@ -2868,7 +2868,7 @@ A: Hà Lan
 
 Câu hỏi 724
 Hồ nước ngọt lớn nhất thế giới theo diện tích là gì?
-MỘT:
+A: Lake Superior
 
 Câu hỏi 725
 Năng lực vận chuyển tiêu chuẩn là bao nhiêu nếu nó phù hợp với một bưu điện thương mại ở cấp 25?
@@ -2896,11 +2896,11 @@ A: đà điểu
 
 Câu hỏi 731
 tỉnh là nước nào?
-MỘT: PHÁP
+A: PHÁP
 
 Câu hỏi 732
 Loại trái cây nào sau đây xuất hiện trong nền của Chỉ huy IMHOTEP?
-Một quả chuối
+A: Một quả chuối
 
 Câu hỏi 733
 Sự thống nhất đặc biệt của nền văn minh Trung Quốc là gì?
@@ -2908,7 +2908,7 @@ A: CHA-KO-NU
 
 Câu hỏi 734
 Giày nào trong số những đôi giày này hoạt động trong các cuộc thám hiểm Rise of Kingdoms?
-Đáp: Tất cả
+A: Tất cả
 
 Câu hỏi 735
 Tên của thành tích đạt được bằng cách mua 3 chủ đề vĩnh viễn của thành phố là gì?
@@ -2920,7 +2920,7 @@ A: Kho báu pha lê xanh
 
 Câu hỏi 737
 1 điểm sức mạnh được cải thiện trong phân đoạn "Giai đoạn 4: Cải thiện sức mạnh" của sự kiện "Thống đốc mạnh mẽ nhất" kiếm được bao nhiêu điểm?
-MỘT: 2
+A: 2
 
 Câu hỏi 738
 Tác phẩm nào trong số này Sherlock Holmes xuất hiện lần đầu tiên với bạn?

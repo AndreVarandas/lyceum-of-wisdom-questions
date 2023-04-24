@@ -16,7 +16,7 @@ A: Wars of the Roses
 
 pertanyaan 5
 Berapa panjang maraton dalam kilometer?
-J: 40 km
+A: 40 km
 
 pertanyaan 6
 Jadi, sifat menguntungkan apa yang paling mungkin diturunkan ke keturunannya?
@@ -36,7 +36,7 @@ A: Julius Caesar
 
 pertanyaan 10
 Siapa yang datang dengan ide kuda Troya? Siapa yang memenangkan Perang Troya?
-J: Odiseus; Orang Yunani
+A: Odiseus; Orang Yunani
 
 pertanyaan 11
 Bagian otak mana yang akan terpengaruh alkohol?
@@ -48,7 +48,7 @@ A: Seseorang yang menyembah 1 tuhan
 
 pertanyaan 13
 Manakah dari berikut ini yang bukan merupakan tujuan dari mitologi Yunani?
-J: Menawarkan jalan menuju keselamatan
+A: Menawarkan jalan menuju keselamatan
 
 pertanyaan 14
 Kacamata terdiri dari kuarsa, pasir dan apa?
@@ -124,7 +124,7 @@ Petunjuk
 
 pertanyaan 32
 Siapa yang membunuh Hector dan bagaimana Achilles mati?
-J: Achilles; panah di tumit
+A: Achilles; panah di tumit
 
 Soal 33
 Komandan mana yang dijuluki Mead of Death?
@@ -332,7 +332,7 @@ A: Papirus
 
 Pertanyaan 84
 Apa tingkat tertinggi Balai Kota di RoK?
-J: 25
+A: 25
 
 pertanyaan 85
 Siapa Kaisar Kekaisaran Prancis Pertama?
@@ -404,7 +404,7 @@ A: Gedung NON-musuh
 
 pertanyaan 102
 Kapan Proklamasi Kemerdekaan ditulis?
-J: 1776
+A: 1776
 
 pertanyaan 103
 Manakah dari berikut ini yang bukan merupakan sumber daya terbarukan?
@@ -420,7 +420,7 @@ A: Tokugawa leyasu
 
 Soal 106
 Tanpa menggunakan buff, berapa banyak Action Point yang bisa dimiliki seorang Governor?
-J: 1000
+A: 1000
 
 Soal 107
 Proses pemecahan atom disebut?
@@ -484,7 +484,7 @@ A: Afrodit
 
 pertanyaan 122
 Sejarah Mesir Kuno mencakup berapa banyak kerajaan?
-J: 3
+A: 3
 
 pertanyaan 123
 Komandan mana yang dijuluki Penjaga Kartago?
@@ -492,11 +492,11 @@ A: Hannibal Barca
 
 Pertanyaan 124
 Berapa banyak jari yang dimiliki karakter kartun Mickey Mouse di masing-masing tangan?
-J: 4
+A: 4
 
 pertanyaan 125
 Mengapa katak dan oranisme lain menghasilkan begitu banyak telur/keturunan?
-J: Semakin banyak keturunan yang dihasilkan, semakin besar kemungkinan mereka untuk bertahan hidup.
+A: Semakin banyak keturunan yang dihasilkan, semakin besar kemungkinan mereka untuk bertahan hidup.
 
 Pertanyaan 126
 Dalam mitologi Yunani, pahlawan mana yang melakukan pencarian Bulu Domba Emas?
@@ -664,7 +664,7 @@ A: Penggabungan
 
 Pertanyaan 167
 Kelebihan mesin press Johannes Gutenberg adalah sebagai berikut, kecuali?
-J: Meningkatkan kekuatan gereja
+A: Meningkatkan kekuatan gereja
 
 Soal 168
 Di negara mana AC ditemukan?
@@ -672,7 +672,7 @@ A: Amerika Serikat
 
 Pertanyaan 169
 Berapa kali karakter "1" digunakan ketika Anda menulis dari angka 1 hingga 99?
-J: 20
+A: 20
 
 pertanyaan 170
 Siapa yang menerapkan Kalender Julian di Roma?
@@ -696,7 +696,7 @@ A. Humanisme
 
 Soal 175
 Berapa rasio konversi dari amp (A) ke miliampere (mA)?
-J: 1:1000
+A: 1:1000
 
 Pertanyaan 176
 Di negara mana Perang Carlist terjadi pada abad ke-19?
@@ -716,7 +716,7 @@ Seekor unta
 
 pertanyaan 180
 Pada tahun berapa Ricardo Coração de Leão dan Saladin menandatangani gencatan senjata?
-J: 1192
+A: 1192
 
 Pertanyaan 181
 Bangunan apa yang awalnya dibangun di London sebagai tempat Pameran Besar Karya Industri Semua Bangsa yang berlangsung pada tahun 1851?
@@ -772,7 +772,7 @@ A: Percepatan Penyembuhan
 
 Pertanyaan 195
 Siapa Kaisar Roma yang pertama?
-J: Gaius Octavius Augustus
+A: Gaius Octavius Augustus
 
 Pertanyaan 196
 Tempat suci macam apa yang memberikan bonus serangan pasukan?
@@ -804,7 +804,7 @@ A: Euclid
 
 pertanyaan 203
 Ada berapa tahapan dalam event Mightiest Government?
-J: 5
+A: 5
 
 pertanyaan 204
 Siapa yang menulis "The Art of War"?
@@ -944,7 +944,7 @@ A: Stephen Hawking
 
 Pertanyaan 239
 Berapa banyak tulang yang biasanya dimiliki manusia dewasa?
-J: 206
+A: 206
 
 pertanyaan 240
 Komandan mana yang menandatangani perjanjian damai dengan Saladin pada tahun 1192?
@@ -972,7 +972,7 @@ A: Biomassa
 
 Pertanyaan 246
 Ketika balai kota gubernur mencapai level 25, berapa banyak peternakan yang bisa dia bangun?
-J: 4
+A: 4
 
 Pertanyaan 247
 Manakah dari buah-buahan berikut, yang dikenal sebagai "pir serigala", yang salah dianggap beracun?
@@ -1008,7 +1008,7 @@ A: Hermann
 
 pertanyaan 255
 Di halaman COMMANDER VIEW, bonus apa yang didapatkan Komandan yang bertindak sebagai "Guard"?
-J: Tak satu pun dari jawaban ini benar.
+A: Tak satu pun dari jawaban ini benar.
 
 Soal 256
 Manakah dari berikut ini yang BUKAN merupakan keterampilan raja?
@@ -1112,7 +1112,7 @@ A: Polar Day dan Polar Night adalah fenomena yang terjadi di sana
 
 pertanyaan 280
 Manakah dari negara-negara berikut yang terletak sepenuhnya di belahan bumi utara?
-J: Tak satu pun dari jawaban ini benar.
+A: Tak satu pun dari jawaban ini benar.
 
 Pertanyaan 281
 Manakah dari berikut ini yang merupakan konstruksi ekonomi?
@@ -1124,7 +1124,7 @@ A: Kapasitas bala bantuan kota
 
 Pertanyaan 283
 Astronom apa yang mengajukan teori heliosentris pada abad ke-16?
-J: Nicolaus Copernicus
+A: Nicolaus Copernicus
 
 Pertanyaan 284
 Manakah dari berikut ini yang merupakan bangunan militer?
@@ -1140,7 +1140,7 @@ A: Dibebaskan dari membayar biaya pengobatan jika sakit
 
 Pertanyaan 288
 Berapa banyak poin VIP yang bisa Anda beli dengan 200 permata?
-J: 200
+A: 200
 
 Pertanyaan 289
 Manakah dari berikut ini yang menggambarkan ikan badut?
@@ -1184,7 +1184,7 @@ A: paku
 
 Pertanyaan 299
 Bisakah item Pengumpulan yang Ditingkatkan meningkatkan kecepatan pengumpulannya sebanyak berapa?
-J: 50%
+A: 50%
 
 pertanyaan 300
 Pada level VIP berapa Anda membuka antrean build kedua secara permanen?
@@ -1192,7 +1192,7 @@ A: Lv. 6
 
 pertanyaan 301
 Bisakah item Peningkatan Serangan (Lanjutan) meningkatkan serangan Anda sebanyak apa?
-J: 10%
+A: 10%
 
 pertanyaan 302
 Manakah dari pidato berikut yang diberikan oleh Perdana Menteri Prusia Otto von Bismarck pada bulan September 1862?
@@ -1212,7 +1212,7 @@ A: Pasifik dan Atlantik
 
 pertanyaan 307
 Menurut kisah Serigala dari mitologi Romawi, apa yang terjadi pada si kembar yang dia makan: Romulus dan Remus?
-J: Romulus menjadi pendiri dan Raja pertama Roma
+A: Romulus menjadi pendiri dan Raja pertama Roma
 
 pertanyaan 308
 Manakah dari buff berikut yang dapat berpengaruh selama pertempuran Sunset Canyon?
@@ -1224,7 +1224,7 @@ A: Porto dan Vila Nova de Gaia
 
 pertanyaan 310
 Mengingat pendiriannya pada tahun 1863, berapa kali Komite Internasional Palang Merah memenangkan Hadiah Nobel Perdamaian?
-J: 3
+A: 3
 
 pertanyaan 311
 Di kota modern manakah Globe Shakespeare dibangun?
@@ -1248,7 +1248,7 @@ A: Prancis
 
 Pertanyaan 316
 Di Ark of Osiris, berapa banyak teleportasi yang diperoleh aliansi pertama untuk menempati obelisk?
-J: 8
+A: 8
 
 Pertanyaan 317
 Apa tujuan asli Piramida Agung Giza?
@@ -1272,7 +1272,7 @@ A: Wars of the Roses
 
 pertanyaan 322
 Siapa yang memberikan pidato terkenal "Saya punya mimpi"?
-J: Martin Luther King Jr.
+A: Martin Luther King Jr.
 
 pertanyaan 323
 Siapa Kaisar Romawi Suci terakhir?
@@ -1308,7 +1308,7 @@ A: Cacar
 
 Pertanyaan 331
 Pada tahun berapa Einstein menerbitkan keempat Annus Mirabilis ("Artikel Ajaib")?
-J: 1905
+A: 1905
 
 pertanyaan 332
 Apa manfaat meneliti "Matematika" di Akademi?
@@ -1320,11 +1320,11 @@ A: Frankenstein
 
 Pertanyaan 334
 Pada tahun berapa Kode Napoleon didirikan?
-J: 1804
+A: 1804
 
 Pertanyaan 335
 Atlet Afrika-Amerika Jesse Owens memenangkan berapa banyak medali emas Olimpiade pada tahun 1936?
-J: 4
+A: 4
 
 Pertanyaan 336
 Manakah dari komandan berikut yang merupakan penguasa de facto kerajaan Anda, tetapi tidak pernah secara resmi menjadi kepala negara?
@@ -1352,7 +1352,7 @@ A: Cacing
 
 Pertanyaan 342
 Berapa banyak peti hadiah yang diberikan setelah mencapai 60 poin aktivitas harian?
-J: 3
+A: 3
 
 Pertanyaan 343
 Apa gelar Pierre de Coubertin, pendiri Komite Olimpiade Internasional?
@@ -1360,7 +1360,7 @@ A: Baron
 
 Pertanyaan 344
 Berapa banyak khanat atau kerajaan yang dibagi menjadi kerajaan Mongol pada saat kematian Kubilai pada tahun 1294?
-J: 4
+A: 4
 
 Pertanyaan 345
 Di Dinasti Han Cina, siapa yang membuka Jalur Sutra di bawah Kaisar Wu?
@@ -1388,7 +1388,7 @@ A: Taoisme
 
 Pertanyaan 351
 Pada tahun berapa Kejuaraan Tenis Wimbledon pertama diadakan?
-J: 1877
+A: 1877
 
 Soal 352
 Apa arti kata "Formula" dalam "Balapan Formula 1"?
@@ -1424,7 +1424,7 @@ A: Kusunoki Masashige
 
 Pertanyaan 360
 Berapa banyak item dengan kualitas yang sama yang harus saya lengkapi untuk menyelesaikan "Battle Ready"?
-J: 6
+A: 6
 
 Pertanyaan 361
 Manakah dari bidang ini yang TIDAK termasuk dalam daftar Hadiah Nobel?
@@ -1464,7 +1464,7 @@ A: London
 
 Soal 370
 Pada tahun berapa edisi pertama "The Diary of Anne Frank" diterbitkan?
-J: 1947
+A: 1947
 
 Pertanyaan 371
 Apa bagian tersulit dari tubuh manusia?
@@ -1488,7 +1488,7 @@ A: Di Dinasti Jin
 
 Pertanyaan 376
 Berapa banyak Poin Aktivitas harian yang diperlukan untuk mengklaim hadiah petunjuk Hadiah Harian di "Scrolls of Lucerne"?
-J: 50
+A: 50
 
 Pertanyaan 377
 Siapa yang menaklukkan "Kerajaan Vandal dan Alan" dalam Perang Vandal?
@@ -1504,7 +1504,7 @@ A: Julius Caesar
 
 pertanyaan 380
 Pada tahun berapa Uni Soviet secara resmi didirikan?
-J: 1922
+A: 1922
 
 Pertanyaan 381
 Dari mana datangnya reggae?
@@ -1516,7 +1516,7 @@ A: Aldo Rossi
 
 Pertanyaan 383
 Mengapa Laut Mati mendapatkan namanya?
-J: Air yang sangat asin mencegah tumbuhan dan hewan berkembang biak di dekatnya
+A: Air yang sangat asin mencegah tumbuhan dan hewan berkembang biak di dekatnya
 
 Pertanyaan 384
 Siapa pendaki atau pasangan pendaki pertama yang mencapai puncak Gunung Everest menurut catatan?
@@ -1564,11 +1564,11 @@ A: abad ke-19
 
 Pertanyaan 395
 Berapa banyak huruf yang digunakan dalam versi bahasa Inggris saat ini?
-J: 26
+A: 26
 
 Pertanyaan 396
 Berapa banyak pasukan yang dapat dikirim gubernur dengan Balai Kota level 17 atau lebih tinggi?
-J: 4
+A: 4
 
 Pertanyaan 397
 Manakah dari peradaban berikut yang tidak dapat memperkuat kavalerinya?
@@ -1588,7 +1588,7 @@ A: Pria dewasa
 
 pertanyaan 401
 Peralatan dengan bonus bakat khusus akan meningkatkan statistiknya dengan persentase berapa saat dilengkapi oleh seorang komandan dengan bakat yang sesuai?
-J: 30%
+A: 30%
 
 pertanyaan 402
 Keahlian "Viking Lord" Komandan Björn Ironside menguntungkan yang mana dari tipe unit berikut?
@@ -1712,7 +1712,7 @@ A: Potong
 
 Pertanyaan 432
 Berapa banyak Pramuka yang dapat ditampung oleh Perkemahan Pramuka dalam satu waktu?
-J: 3
+A: 3
 
 Pertanyaan 433
 Manakah dari berikut ini adalah deskripsi yang benar dari stratosfer?
@@ -1732,7 +1732,7 @@ A: Kecepatan konstruksi bangunan di kota Anda
 
 Pertanyaan 437
 Siapa yang mendirikan "Armada Spanyol"?
-J: Philip II
+A: Philip II
 
 Pertanyaan 438
 Peradaban Fenisia berasal dari bagian dunia mana?
@@ -1760,7 +1760,7 @@ A: Gantung layang
 
 Pertanyaan 444
 Dalam kode Morse, berapa durasi titik di antara dua kata?
-J: 7 poin
+A: 7 poin
 
 Pertanyaan 445
 Alfabet Yunani berasal dari sistem penulisan lain yang mana?
@@ -1780,7 +1780,7 @@ A: Angin
 
 pertanyaan 450
 Kapan Perang Suksesi Austria terjadi?
-J: 1740-1748
+A: 1740-1748
 
 Pertanyaan 451
 Manakah dari seniman era Renaisans ini yang bukan berasal dari Italia?
@@ -1828,11 +1828,11 @@ A: Serang
 
 Pertanyaan 462
 Berapa lantai Shanghai Jin Mao Tower?
-J: 88
+A: 88
 
 Pertanyaan 463
 Level apa yang dibutuhkan Balai Kota Anda untuk memasuki Zaman Baja (Besi)?
-J: Tingkat 10
+A: Tingkat 10
 
 Pertanyaan 464
 Jika seorang pria bergolongan darah AB dan seorang wanita bergolongan darah B memiliki anak, manakah dari pernyataan berikut yang tidak benar?
@@ -1884,7 +1884,7 @@ A: Camlan
 
 Pertanyaan 478
 Berapa kali Anda dapat menerima bantuan aliansi jika pusat aliansi Anda berada di level 25?
-J: 30
+A: 30
 
 Pertanyaan 479
 Manakah dari acara ini yang BUKAN bagian dari Olimpiade?
@@ -1892,7 +1892,7 @@ A: Motorsport
 
 pertanyaan 480
 Satu "hari" di planet Venus kira-kira sama dengan berapa hari di Bumi?
-J: 243 hari
+A: 243 hari
 
 Pertanyaan 481
 Dalam Kitab Keluaran, siapa yang memimpin orang-orang Yahudi ke Tanah Perjanjian?
@@ -1924,7 +1924,7 @@ A: Putri duyung kecil
 
 Pertanyaan 488
 Berapa lama Perang Seratus Tahun antara Inggris dan Prancis berlangsung?
-J: 116 tahun
+A: 116 tahun
 
 Pertanyaan 489
 Benua manakah yang memiliki suhu rata-rata terendah?
@@ -2000,7 +2000,7 @@ A: Spanyol
 
 pertanyaan 507
 Kapan Napoleon Bonaparte lahir?
-J: 1769
+A: 1769
 
 pertanyaan 508
 Manakah dari negara bagian di bawah ini yang bukan bagian dari periode Tiga Kerajaan?
@@ -2020,7 +2020,7 @@ A: Malam Keduabelas
 
 pertanyaan 512
 Anda dapat membantu sekutu Anda membangun / meningkatkan bangunan, teknologi penelitian, dan menyembuhkan pasukan. Tetapi seberapa banyak setiap tindakan bantuan mengisi bilah kemajuan?
-J: 0,01
+A: 0,01
 
 Pertanyaan 513
 Manakah dari situs suci berikut yang memberikan bonus kecepatan berbaris?
@@ -2052,11 +2052,11 @@ A: Pondok Panen
 
 pertanyaan 520
 Berapa jumlah maksimum bangunan dekoratif King's Road yang dapat dibangun oleh seorang gubernur?
-J: 400
+A: 400
 
 Pertanyaan 521
 Berapa banyak tentara patroli berkeliaran di dinding gubernur?
-J: 7
+A: 7
 
 pertanyaan 522
 Manakah dari komandan berikut yang memiliki skill aktif Pesona?
@@ -2076,7 +2076,7 @@ A: Pertempuran Megido
 
 Pertanyaan 526
 Berapa banyak mawar yang muncul di papan avatar Kelopak Mawar?
-J: 4
+A: 4
 
 Pertanyaan 527
 Komandan mana yang bisa dikatakan memiliki alis paling tebal di Rise of Kingdoms?
@@ -2108,7 +2108,7 @@ A: Istanbul
 
 Pertanyaan 534
 Berapa banyak anak panah yang tertancap di perisai Komandan Lohar?
-J: 4
+A: 4
 
 Pertanyaan 535
 Manakah dari komandan ini yang memiliki cabang Serangan di pohon Bakat mereka?
@@ -2200,7 +2200,7 @@ A: Guatemala
 
 Pertanyaan 557
 Berapa banyak tenda kecil yang bisa kamu lihat di Barbarian Hold level 3?
-J: 6
+A: 6
 
 Pertanyaan 558
 Komandan mana yang memiliki kapal di latar belakangnya?
@@ -2208,7 +2208,7 @@ A: Pelagius
 
 Pertanyaan 559
 Berapa banyak badai yang tercatat di wilayah Samudra Pasifik pada tahun 1977?
-J: 4
+A: 4
 
 pertanyaan 560
 Berkat pertempuran seperti apa yang diterima Infanteri di Champions of Olympia?
@@ -2224,7 +2224,7 @@ A: Anubis
 
 Pertanyaan 563
 Berapa banyak mahasiswa yang menghadiri kuliah ulama di Lyceum of Wisdom?
-J: 6
+A: 6
 
 Pertanyaan 564
 Mengapa haluan dan buritan longboat Viking didesain simetris?
@@ -2264,7 +2264,7 @@ A: Astrid
 
 Pertanyaan 573
 Berapa banyak Menara Pengawal yang termasuk dalam kota level 25?
-J: 8
+A: 8
 
 Pertanyaan 574
 Pencapaian apa yang dibuka untuk menghabiskan lebih dari 200 Golden Tavern Keys dalam satu transaksi?
@@ -2324,7 +2324,7 @@ A: Matilda dari Flanders
 
 Pertanyaan 588
 Berapa kapasitas pasukan bala bantuan yang diterima kota di Pusat Aliansi level 20?
-J: 575.000
+A: 575.000
 
 Pertanyaan 589
 Manakah dari komandan ini yang TIDAK ditampilkan mengenakan jubah?
@@ -2348,7 +2348,7 @@ A: Serangan Pasukan +3%
 
 Pertanyaan 594
 Untuk berapa franc Charles V menyelamatkan Bertrand du Guesclin selama konflik untuk Brittany?
-J: 100.000
+A: 100.000
 
 Pertanyaan 595
 Ahli entomologi dan astronom Selandia Baru mana yang pertama kali mengusulkan untuk mengadopsi metode waktu musim panas?
@@ -2356,7 +2356,7 @@ A: George Hudson
 
 Pertanyaan 596
 Berapa banyak pemanah yang ditampilkan berlatih di Pusat Artileri saat melatih pemanah majemuk?
-J: 3
+A: 3
 
 Pertanyaan 597
 Berapa banyak binatang buas yang Anda harapkan untuk bertarung bersama pasukan barbar level 20 di Rise of Kingdoms?
@@ -2372,7 +2372,7 @@ Sebuah batu
 
 pertanyaan 600
 Berapa harga Permata dari dekorasi Patung Manusia?
-J: 2.000
+A: 2.000
 
 pertanyaan 601
 Di latar belakang komandan mana Anda dapat melihat seekor anjing?
@@ -2412,7 +2412,7 @@ A: Prancis
 
 pertanyaan 610
 Berapa item Peningkatan Serangan 12 Jam meningkatkan Serangan pasukan Anda?
-J: 5%
+A: 5%
 
 pertanyaan 611
 Berapa usia Yunani kuno masuk setelah peradaban Mycenaean dihancurkan?
@@ -2460,7 +2460,7 @@ A: Auguste Rodin
 
 Pertanyaan 622
 Berapa kali Anda dapat menerima bantuan aliansi jika Pusat Aliansi Anda berada di level 14?
-J: 18
+A: 18
 
 Pertanyaan 623
 Di manakah lokasi Kota Vatikan di Italia?
@@ -2468,7 +2468,7 @@ A: Roma
 
 Soal 624
 Tahun berapa Late Show with David Letterman debut?
-J: 1993
+A: 1993
 
 Soal 625
 Di Ark of Osiris, apa persyaratan aliansi untuk berpartisipasi di Golden Battleground?
@@ -2504,7 +2504,7 @@ A: Apotek
 
 Pertanyaan 633
 Komet Halley dapat diamati dari Bumi setiap...
-J: 75-76 tahun
+A: 75-76 tahun
 
 Pertanyaan 634
 Bandara sipil mana yang tertinggi di atas permukaan laut?
@@ -2572,7 +2572,7 @@ A: Euripides
 
 pertanyaan 650
 Berapa banyak tenda yang ditampilkan di ikon Teknologi Militer?
-J: 3
+A: 3
 
 Pertanyaan 651
 Di kerajaan mana Komandan Boudica?
@@ -2584,7 +2584,7 @@ A: Aktifkan Peningkatan Serangan
 
 Soal 653
 Berapa banyak ruang yang ditempati Balai Kota di kota?
-J: 9x9
+A: 9x9
 
 Pertanyaan 654
 Fragmen cetak biru mana dari aksesori berikut yang TIDAK BISA ditukarkan di Toko Musim Penaklukan?
@@ -2640,7 +2640,7 @@ A: Berkat Apollo
 
 Soal 667
 Berapa banyak Poin Kunci yang diperlukan untuk membuka Harta Karun Kristal Biru di Hadiah Aliansi?
-J: 3.000.000
+A: 3.000.000
 
 Soal 668
 Di mana musisi terkenal Beethoven lahir?
@@ -2656,7 +2656,7 @@ A: Inggris
 
 Pertanyaan 671
 Berapa total kartu yang ditampilkan di tangan Mystery Trader?
-J: 5
+A: 5
 
 Pertanyaan 672
 Komandan seperti apa yang menjadi Panglima Garnisun sementara jika Gubernur belum menunjuk komandan atau komandan yang ditunjuk tidak hadir?
@@ -2684,7 +2684,7 @@ A: Tuscany
 
 Soal 678
 Satu "hari" di Planet Venus kira-kira sama dengan berapa hari di Bumi?
-J: 243 hari
+A: 243 hari
 
 Pertanyaan 679
 Manakah dari makanan ini yang tidak bisa dimakan oleh Cao Cao, negarawan Han Timur?
@@ -2712,7 +2712,7 @@ A: Chili
 
 Soal 685
 Diselenggarakan pada tahun 1929, berapa lama Academy Award ("Oscar") pertama berlangsung?
-J: 15 menit
+A: 15 menit
 
 Soal 686
 Musisi mana yang menggubah "The Marriage of Figaro"?
@@ -2736,19 +2736,19 @@ A: Kekuatan Pemerintahan Individu
 
 Pertanyaan 691
 Kelompok etnis apa yang mendirikan peradaban pertama Mesopotamia?
-J: Bangsa Sumeria
+A: Bangsa Sumeria
 
 Pertanyaan 692
 Di kerajaan emas, berapa banyak bagian yang perlu Anda lepaskan untuk mendapatkan peti emas?
-J: 4 tiket
+A: 4 tiket
 
 Pertanyaan 693
 Kata "maraton" awalnya mengacu pada apa?
-J: Nama tempat
+A: Nama tempat
 
 Pertanyaan 694
 Selama periode Mesir tinggi dan rendah, apa warna kulit Firaun Mesir Hulu?
-Putih
+A: Putih
 
 Pertanyaan 695
 Apa kemampuan aliansi "terisi penuh" saat digunakan?
@@ -2756,7 +2756,7 @@ A: Meningkatkan kecepatan rapat anggota aliansi menjadi jenis daya tarik
 
 Pertanyaan 696
 Benua apa yang pertama kali ditinggali Serval?
-J: Afrika
+A: Afrika
 
 Pertanyaan 697
 Manakah dari stasiun penelitian berikut yang berada di garis lintang tertinggi?
@@ -2764,11 +2764,11 @@ A: STASIUN POLO SOUTH AMUNDSEN-SCOTT
 
 Pertanyaan 698
 Manakah dari peradaban berikut yang menawarkan bonus kecepatan penyembuhan 20% ke rumah sakit?
-J: PERANCIS
+A: PERANCIS
 
 Pertanyaan 699
 Berapa banyak bijih besi normal yang harus digabungkan untuk membuat bijih besi tingkat lanjut?
-R: 4
+A: 4
 
 Pertanyaan 700
 Apa yang dilakukan kemampuan aliansi "pengrajin terampil" saat digunakan?
@@ -2780,7 +2780,7 @@ A: Dibebankan secara komplementer
 
 Pertanyaan 702
 Komandan mana yang dijuluki "busur revolusi"?
-R: YI SEONG-GYE
+A: YI SEONG-GYE
 
 Pertanyaan 703
 Manakah dari penyempitan berikut yang terletak di antara Eurasia dan Amerika Utara?
@@ -2788,15 +2788,15 @@ A: Selat Bering
 
 Pertanyaan 704
 Dalam mitologi Tiongkok, makhluk apakah Jingwei?
-J: Seekor burung
+A: Seekor burung
 
 Pertanyaan 705
 Manakah dari penulis ini yang dianggap mewakili absurdisme?
-J: ALBERT CAMUS
+A: ALBERT CAMUS
 
 Pertanyaan 706
 Manakah dari berikut ini yang bukan merupakan salah satu siasat pemenang yang tercantum dalam buku militer Tiongkok kuno, "tiga puluh enam siasat"?
-J: Strategi "kekosongan yang kuat"
+A: Strategi "kekosongan yang kuat"
 
 Pertanyaan 707
 Frame Avatar manakah yang bisa didapatkan di event Crisis Ceroli?
@@ -2804,35 +2804,35 @@ A: Kerajaan Kapal Selam
 
 Pertanyaan 708
 Apa puncak tertinggi di dunia?
-J: MONTE EVEREST
+A: MONTE EVEREST
 
 Pertanyaan 709
 Apakah 24 "istilah surya" merupakan sistem penanggalan Tionghoa tradisional yang digunakan untuk tujuan apa?
-J: Pertanian
+A: Pertanian
 
 Pertanyaan 710
 Seondeok adalah ratu Silla (bagian dari Korea sekarang) Apa nama lahirnya?
-J: Kim Deokman
+A: Kim Deokman
 
 Pertanyaan 711
 Patung Renaisans Pietà yang terkenal adalah karya seniman yang mana?
-J: Michelangelo
+A: Michelangelo
 
 Pertanyaan 712
 Manakah dari komandan berikut yang mengumpulkan sumber daya dengan buruk?
-J: 712
+A: 712
 
 Pertanyaan 713
 Vitamin apa yang dapat menyebabkan rabun senja?
-J: Vitamin A
+A: Vitamin A
 
 Pertanyaan 714
 Zhu Geliang tidak terlibat dalam insiden mana yang dilaporkan dalam novel tiga kerajaan?
-J: Pemberontakan turban kuning
+A: Pemberontakan turban kuning
 
 Pertanyaan 715
 Bastille, penjara yang sudah ada di pusat kota Paris, Prancis, awalnya berfungsi untuk apa?
-J: Pertahanan Fortaleza
+A: Pertahanan Fortaleza
 
 Pertanyaan 716
 Manakah dari wanita berikut yang tidak dianggap sebagai salah satu dari "empat wanita cantik" di Tiongkok kuno?
@@ -2840,51 +2840,51 @@ A: BAO SI
 
 Pertanyaan 717
 Manakah dari navigator berikut yang merupakan orang Eropa pertama yang tiba di Brasil?
-J: Pedro Álvarez Cabral
+A: Pedro Álvarez Cabral
 
 Pertanyaan 718
 Dalam mitologi Yunani, siapa yang mengambil kereta matahari dari jalannya, membakar bumi?
-J: Phaeton
+A: Phaeton
 
 Pertanyaan 719
 Raja apa yang membangun Santa Sofia?
-J: Yustinianus I
+A: Yustinianus I
 
 Pertanyaan 720
 Apakah feijoada dianggap sebagai hidangan nasional dari negara mana?
-J: Brasil
+A: Brasil
 
 Pertanyaan 721
 "Drilling Wounds" adalah kemampuan karakter yang mana dalam krisis Ceroli?
-J: ASTRID
+A: ASTRID
 
 Pertanyaan 722
 "Manusia perdamaian" adalah julukan dari komandan yang mana?
-J: IMHOTEP
+A: IMHOTEP
 
 Pertanyaan 723
 Johannes Vermeer, pelukis anting-anting mutiara, dari negara mana?
-J: Belanda
+A: Belanda
 
 Pertanyaan 724
 Apa danau air tawar terbesar di dunia berdasarkan wilayah?
-A:
+A: Lake Superior
 
 Pertanyaan 725
 Berapa kapasitas angkutan standar jika cocok untuk pos niaga di tingkat 25?
-R: 5 juta
+A: 5 juta
 
 Pertanyaan 726
 Negara apa yang menjadi asal Bajak Laut Jenggot Hitam yang terkenal itu?
-J: Inggris
+A: Inggris
 
 Pertanyaan 727
 Siapa yang membentuk tiga serangkai pertama dengan Caesar dan Pompey?
-J: CRASSO
+A: CRASSO
 
 Pertanyaan 728
 Berapa hari yang dimiliki tahun kabisat?
-R: 366 hari
+A: 366 hari
 
 Pertanyaan 729
 Taktik pertempuran adalah teknologi militer yang penting - apa pengaruhnya?
@@ -2892,15 +2892,15 @@ A: Tingkatkan serangan semua unit
 
 Pertanyaan 730
 Apa burung hidup terbesar di dunia?
-J: burung unta
+A: burung unta
 
 Pertanyaan 731
 Negara apa yang merupakan provinsi?
-J: PERANCIS
+A: PERANCIS
 
 Pertanyaan 732
 Manakah dari buah berikut yang muncul di latar belakang Komandan IMHOTEP?
-Sebuah pisang
+A: Sebuah pisang
 
 Pertanyaan 733
 Apa kesatuan khusus peradaban Tiongkok?
@@ -2908,11 +2908,11 @@ A: CHA-KO-NU
 
 Pertanyaan 734
 Manakah dari sepatu bot ini yang berfungsi pada ekspedisi Rise of Kingdoms?
-J: Semua
+A: Semua
 
 Pertanyaan 735
 Apa nama pencapaian yang diperoleh dengan memperoleh 3 tema permanen kota?
-J: Tema warna teknis
+A: Tema warna teknis
 
 Pertanyaan 736
 Jenis harta kristal apa yang ditemukan di aliansi level 26 yang ada?
@@ -2920,7 +2920,7 @@ A: Harta Karun Kristal Biru
 
 Pertanyaan 737
 Berapa banyak poin yang diperoleh dengan 1 poin peningkatan kekuatan di segmen "Tahap 4: Peningkatan Kekuatan" dari acara "Gubernur Terkuat"?
-J: 2
+A: 2
 
 Pertanyaan 738
 Manakah dari karya berikut yang pertama kali ditampilkan Sherlock Holmes?

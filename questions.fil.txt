@@ -2868,7 +2868,7 @@ A: Ang Netherlands
 
 Tanong 724
 Ano ang pinakamalaking freshwater lake sa mundo ayon sa lugar?
-A:
+A: Lake Superior
 
 Tanong 725
 Ano ang karaniwang kapasidad ng transportasyon kung ito ay angkop sa isang komersyal na post sa antas 25?
@@ -2900,7 +2900,7 @@ A: FRANCE
 
 Tanong 732
 Alin sa mga prutas na ito ang lumilitaw sa background ng Commander IMHOTEP?
-Saging
+A: Saging 
 
 Tanong 733
 Ano ang natatanging pagkakaisa ng kabihasnang Tsino?
