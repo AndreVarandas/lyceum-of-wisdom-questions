@@ -2729,3 +2729,199 @@ A: 9mm Parabellum
 question 689
 Lequel de ces romans n'a PAS été écrit par Margaret Atwood ?
 A: Fleurs pour Algernon
+
+question 690
+Les pages de passeport sont utilisées pour immigrer vers d'autres royaumes. Quel est le nombre de pages de passeport utilisées ?
+A : Pouvoir individuel de gouverner
+
+question 691
+Quelle ethnie a fondé la première civilisation de la Mésopotamie ?
+R : Les Sumériens
+
+question 692
+Dans le royaume d'or, combien de passages devez-vous libérer pour obtenir un coffre en or ?
+R : 4 billets
+
+question 693
+Le mot "marathon" faisait initialement référence à quoi ?
+A : Le nom d'un lieu
+
+question 694
+A l'époque de la haute et de la basse Egypte, quelle était la couleur du Pharaon de la Haute Egypte ?
+Un blanc
+
+question 695
+Qu'est-ce que la capacité d'alliance "complètement chargée" lorsqu'elle est utilisée ?
+A: Augmente la vitesse de réunion des membres de l'alliance à un type d'appel
+
+question 696
+Sur quel continent Serval a-t-il vécu en premier ?
+R : Afrique
+
+question 697
+Laquelle de ces stations de recherche se trouve à la latitude la plus élevée ?
+A : STATION POLO SUD AMUNDSEN-SCOTT
+
+question 698
+Laquelle des civilisations suivantes offre un bonus de vitesse de guérison de 20 % aux hôpitaux ?
+R : FRANCE
+
+question 699
+Combien de morceaux de minerai de fer normaux doivent être combinés pour créer un morceau de minerai de fer avancé ?
+R : 4
+
+question 700
+Que fait la capacité d'alliance "artisan qualifié" lorsqu'elle est utilisée ?
+A: La vitesse de construction du drapeau de l'alliance augmente considérablement
+
+question 701
+Laquelle de ces compétences d'alliance augmentera votre vitesse de collecte de ressources ?
+A : Complémentairement chargé
+
+question 702
+Quel commandant est surnommé "l'arc de la révolution" ?
+R : YI SEONG-GYE
+
+question 703
+Lequel des détroits suivants est situé entre l'Eurasie et l'Amérique du Nord ?
+A : Détroit de Béring
+
+question 704
+Dans la mythologie chinoise, quel genre de créature est Jingwei ?
+R : Un oiseau
+
+question 705
+Lequel de ces écrivains est considéré comme représentatif de l'absurde ?
+R : ALBERT CAMUS
+
+question 706
+Lequel de ces stratagèmes n'est pas l'un des stratagèmes gagnants répertoriés dans le vieux livre militaire chinois, les "trente-six stratagèmes" ?
+A : La stratégie du « vide fort »
+
+Question 707
+Lequel de ces cadres Avatar peut être obtenu lors de l'événement Crisis Ceroli ?
+A: Royaume sous-marin
+
+question 708
+Quel est le plus haut sommet du monde ?
+R : MONTE EVEREST
+
+question 709
+Les 24 « termes solaires » sont-ils un système de calendrier chinois traditionnel utilisé dans quel but ?
+R : Agriculture
+
+question 710
+Seondeok était la reine de Silla (partie de l'actuelle Corée). Quel était son nom de naissance ?
+R : Kim Deokman
+
+question 711
+La célèbre sculpture Renaissance Pietà est l'œuvre de quel artiste ?
+R : Michel-Ange
+
+question 712
+Lequel des commandants suivants a mal collecté les ressources ?
+UN:
+
+question 713
+Quelle vitamine peut causer la cécité nocturne?
+R : Vitamine A
+
+question 714
+Zhu Geliang n'a pas été impliqué dans lequel des incidents suivants rapportés dans le roman des trois royaumes ?
+A : Révolte des turbans jaunes
+
+question 715
+Bastille, une prison qui était déjà située dans le centre de Paris, en France, servait à l'origine à quoi ?
+A : Fortaleza Défensive
+
+question 716
+Laquelle de ces femmes n'est pas considérée comme l'une des "quatre beautés" de la Chine ancienne ?
+R : BAO SI
+
+question 717
+Lequel de ces navigateurs fut le premier Européen à arriver au Brésil ?
+R : Pedro Álvarez Cabral
+
+question 718
+Dans la mythologie grecque, qui a détourné le chariot du soleil de son chemin, brûlant la terre ?
+A : Phaéton
+
+question 719
+Quel monarque a construit Santa Sofia ?
+R : Justinien Ier
+
+question 720
+La feijoada est-elle considérée comme un plat national de quel pays ?
+R : Brésil
+
+question 721
+"Drilling Wounds" est la capacité de quel personnage dans la crise de Ceroli ?
+R : ASTRID
+
+question 722
+« Homme de paix » est le surnom de quel commandant ?
+R : IMHOTEP
+
+question 723
+Johannes Vermeer, le peintre des boucles d'oreilles en perles, était de quel pays ?
+R : Pays-Bas
+
+question 724
+Quel est le plus grand lac d'eau douce du monde en termes de superficie ?
+UN:
+
+question 725
+Quelle est la capacité de transport standard si elle est adaptée à un poste commercial au niveau 25 ?
+R : 5 millions
+
+question 726
+De quel pays est venu le tristement célèbre Pirate Barbe Noire ?
+R : Angleterre
+
+question 727
+Qui a formé le premier triumvirat avec César et Pompée ?
+R : CRASSO
+
+question 728
+Combien de jours compte une année bissextile ?
+R : 366 jours
+
+question 729
+Les tactiques de combat sont une technologie militaire importante - quel effet ont-elles ?
+A : Augmenter l'attaque de toutes les unités
+
+question 730
+Quel est le plus grand oiseau vivant au monde ?
+A: autruche
+
+question 731
+Quel pays est une province ?
+R : FRANCE
+
+question 732
+Lequel de ces fruits apparaît en arrière-plan du Commandant IMHOTEP ?
+Une banane
+
+question 733
+Quelle est l'unité particulière de la civilisation chinoise ?
+R : CHA-KO-NU
+
+question 734
+Laquelle de ces bottes fonctionne sur les expéditions Rise of Kingdoms ?
+R : Tous
+
+question 735
+Comment s'appelle le succès obtenu en acquérant 3 thèmes permanents de la ville ?
+A : Thèmes de couleurs techniques
+
+question 736
+Quel type de trésor de cristal se trouve dans l'alliance de niveau 26 présente ?
+A : Trésor de cristal bleu
+
+question 737
+Combien de points sont gagnés par 1 point de puissance améliorée dans le segment "Étape 4 : Amélioration de la puissance" de l'événement "Le gouverneur le plus puissant" ?
+R : 2
+
+question 738
+Dans laquelle de ces œuvres Sherlock Holmes fait-il votre première apparition ?
+A : Une étude en rouge
