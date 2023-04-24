@@ -647,7 +647,7 @@ Sino ang tinawag na "Napoleon ng krimen" sa ilan sa mga kuwento ng Sherlock Holm
 A: Propesor Moriarty
 
 Tanong 163
-Ang Chinese comedy crosstalk format ay nagmula sa tatlong lugar: Tianqiao sa Beijing, ang Quanye Bazaar sa Tianjin, at saan sa Nanjing?
+Ang Chinese comedy crosstalk format ay nagmula sa tatlong lugaA: Tianqiao sa Beijing, ang Quanye Bazaar sa Tianjin, at saan sa Nanjing?
 A: Fuzimiao
 
 Tanong 164
@@ -2768,7 +2768,7 @@ A: FRANCE
 
 Tanong 699
 Gaano karaming mga normal na piraso ng iron ore ang dapat pagsamahin upang lumikha ng isang advanced na piraso ng iron ore?
-R: 4
+A: 4
 
 Tanong 700
 Ano ang ginagawa ng kakayahan ng alyansa na "skilled artisan" kapag ginamit?
@@ -2780,7 +2780,7 @@ A: Komplementaryong sinisingil
 
 Tanong 702
 Sinong kumander ang binansagang "arko ng rebolusyon"?
-R: YI SEONG-GYE
+A: YI SEONG-GYE
 
 Tanong 703
 Alin sa mga sumusunod na makitid ang matatagpuan sa pagitan ng Eurasia at North America?
@@ -2792,7 +2792,7 @@ A: Isang ibon
 
 Tanong 705
 Alin sa mga manunulat na ito ang itinuturing na kinatawan ng absurdismo?
-R: ALBERT CAMUS
+A: ALBERT CAMUS
 
 Tanong 706
 Alin sa mga ito ang hindi isa sa mga nanalong pakana na nakalista sa lumang aklat ng militar ng Tsina, ang "tatlumpu't anim na pakana"?
@@ -2872,7 +2872,7 @@ A: Lake Superior
 
 Tanong 725
 Ano ang karaniwang kapasidad ng transportasyon kung ito ay angkop sa isang komersyal na post sa antas 25?
-R: 5 milyon
+A: 5 milyon
 
 Tanong 726
 Anong bansa ang dumating sa kilalang Pirate Black Beard?
@@ -2884,7 +2884,7 @@ A: CRASSO
 
 Tanong 728
 Ilang araw mayroon ang isang leap year?
-R: 366 araw
+A: 366 araw
 
 Tanong 729
 Ang mga taktika sa labanan ay isang mahalagang teknolohiyang militar - ano ang epekto ng mga ito?

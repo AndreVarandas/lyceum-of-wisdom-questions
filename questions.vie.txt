@@ -2768,7 +2768,7 @@ A: PHÁP
 
 Câu hỏi 699
 Cần kết hợp bao nhiêu mảnh quặng sắt bình thường để tạo ra một mảnh quặng sắt cao cấp?
-R: 4
+A: 4
 
 câu hỏi 700
 Khả năng liên minh "nghệ nhân lành nghề" làm gì khi được sử dụng?
@@ -2780,7 +2780,7 @@ A: Tính phí đầy đủ
 
 Câu hỏi 702
 Chỉ huy nào được mệnh danh là "vòng cung của cách mạng"?
-R: YI SEONG-GYE
+A: YI SEONG-GYE
 
 Câu hỏi 703
 Đường hẹp nào sau đây nằm giữa Âu Á và Bắc Mỹ?
@@ -2792,7 +2792,7 @@ A: Một con chim
 
 Câu hỏi 705
 Nhà văn nào trong số này được coi là đại diện cho chủ nghĩa phi lý?
-R: ALBERT CAMUS
+A: ALBERT CAMUS
 
 Câu hỏi 706
 Cái nào trong số này không phải là một trong những mưu lược chiến thắng được liệt kê trong cuốn sách quân sự cổ của Trung Quốc, "ba mươi sáu mưu kế"?
@@ -2884,7 +2884,7 @@ A: CRASSO
 
 Câu hỏi 728
 Một năm nhuận có bao nhiêu ngày?
-R: 366 ngày
+A: 366 ngày
 
 Câu hỏi 729
 Chiến thuật chiến đấu là một kỹ thuật quân sự quan trọng - chúng có tác dụng gì?
