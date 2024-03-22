@@ -3615,7 +3615,7 @@ Qual é o número da camisa de Luka Modric no Real Madrid?
 R: 10
 
 Questão 911
-R: Qual é o suposto local de nascimento da dança do ventre?
+Qual é o suposto local de nascimento da dança do ventre?
 R: Egito
 
 Questão 912
@@ -3665,3 +3665,1139 @@ R: Édouard Roche
 Questão 923
 Quantos envios você precisa concluir no Fórum Estadual para abrir uma Comenda de Envio?
 R: 15
+
+Questão 924
+Em RoK, qual é o apelido da comandante Constânça?
+R: Rainha da Sicília
+
+Questão 925
+Quem foi o pai de Aníbal?
+R: Hamilcar Barca
+
+Questão 926
+Quais sãos os dois corpos de água que o Canal de Suez conecta?
+R: Mar Mediterrâneo, Mar Vermelho
+
+Questão 927
+Qual é o bônus fornecido pelo tema da cidade lendária Fortaleza Congelada?
+R: Defesa de Infantaria +10%
+
+Questão 928
+Em qual país está Çatalhöyük?
+R: Turquia
+
+Questão 929
+Qual destas não é uma antiga civilização das Américas?
+R: Os sumérios
+
+Questão 930
+No evento Acadêmico Incomparável, quantas respostas você precisa acertar na Preliminar para se qualificar para o Intermediário?
+R: 6
+
+Questão 931
+Que bônus é concedido a uma aliança que captura o Local Sagrado de Nível 2 "Altar da Chama"?
+R: Ataque de Tropas +3%
+
+Questão 932
+Em que ano o hipismo foi incluído pela primeira vez como esporte olímpico?
+R: Jogos Olímpicos de Paris, 1900
+
+Questão 933
+Qual escola de pintura é representada por Georges Seurat?
+R: Pontilhismo
+
+Questão 934
+Que civilização se desenvolveu entre os rios Tigre e Eufrates?
+R: Os Mesopotâmios
+
+Questão 935
+Quais dessas ações podem ser executadas por líderes de alianças e oficiais titulados, mas NÃO por oficiais não titulados?
+R: Inscrever-se na Arca de Osíris
+
+Questão 936
+Em que ano Alexandre Fleming descobriu a penicilina?
+R: 1928
+
+Questão 937
+Quais dos seguintes personagens NÃO estão presentes na história "Jornada ao Oeste"?
+R: Terceira Irmã Hu
+
+Questão 938
+Em qual país o Grupo Carlsberg, fabricante de cervejas, foi fundado em 1847?
+R: Dinamarca
+
+Questão 939
+Quais são as dimensões da névoa removida por um item do Mapa do Reino?
+R: 10x10
+
+Questão 940
+Na mitologia nórdica, os corvos Huginn e Muninn eram companheiros de qual deus?
+R: Odin
+
+Questão 941
+Com qual figura da mitologia grega Mary Shelley associou o monstro de Frankenstein?
+R: Prometeu
+
+Questão 942
+Qual é o nome real da sinfonia "Leningrado" de Dmitri Shostakovich?
+R: Sinfonia nº7 em dó maior
+
+Questão 943
+O poeta Fernando Pessoa ficou conhecido por escrever seus poemas como diferentes "personagens", que ele chamou de "heterônimos". Qual destes NÃO é um dos heterônimos que Pessoa utilizou?
+R: Francisco Norman
+
+Questão 944
+Quem é a consorte da divindade hindu Vishnu?
+R: Lakshmi
+
+Questão 945
+Qual é o maior planeta conhecido em nosso sistema solar?
+R: Júpiter
+
+Questão 946
+Para desbloquear a conquista "Trilha de Huarong", você deve usar Guan Yu para derrotar uma tropa liderada por qual dos seguintes comandantes?
+R: Cao Cao
+
+Questão 947
+Qual dos seguintes comandantes da RoK foi o único governante na história a derrotar Ciro, o Grande, em uma grande batalha?
+R: Tomyris
+
+Questão 948
+Qual dessas cidades está localizada na América do Sul?
+R: Buenos Aires
+
+Questão 949
+Em 1970, uma missão Apolo tentou pousar na lua. Devido a um problema técnico, só conseguiu orbitar a lua e retornar à Terra. Qual era o nome da missão?
+R: Apollo 13
+
+Questão 950
+Qual destes comandantes do RoK é de Ceroli?
+R: Keira
+
+Questão 951
+Qual das seguintes constelações tem a forma de uma coroa?
+R: Coroa do Norte
+
+Questão 952
+Usando uma tropa liderada por Júlio César e Cleópatra VII, qual das seguintes ações desbloqueará a conquista "Desejos Imortais"?
+R: Atacar uma cidade
+
+Questão 953
+O Colosso de Rodes representa qual deus do sol? O Colosso de Rodes representa qual deus grego?
+R: Hélio
+
+Questão 954
+A "Marcha da Independência" e o hino nacional de qual pais?
+R:Turquia
+
+Questão 955
+Diego Velázquez, o pintor da obra realista Retrato do Papa Inocêncio X, era de qual país?
+R: Espanha
+
+Questão 956
+O Lago General Carrera se origina nas geleiras dos Andes. Quais são os dois países que fazem fronteira com o lago?
+R: Argentina e Chile
+
+Questão 957
+Quem era o deus grego e trácio do vinho?
+R: Dioniso
+
+Questão 958
+Quem foi o pai do rei franco Pepino, o Breve?
+R: Carlos Martel
+
+Questão 959
+Onde nasceu o compositor Wolfgang Amadeus Mozart?
+R: Salzburgo (Áustria)
+
+Questão 960
+Qual continente foi o berço da civilização Maia?
+R: As Américas
+
+Questão 961
+A pintura de Sandro Botticelli "Vênus e Marte" é famosa por suas cores vivas e belas figuras. Em qual galeria esta pintura está alojada no momento?
+R: Na National Gallery em Londres (Trafalgar Square)
+
+Questão 962
+Para qual formação é o armamento "Tambor de Guerra Imperial"?
+R: V (because of the tower)
+
+Questão 963
+A decoração da cidade "Portão de Ishtar" é uma homenagem a qual das seguintes civilizações?
+R: Babilônia
+
+Questão 964
+Em RoK, qual comandante tem o apelido de "Rainha da Sicília"?
+R: Constânça
+
+Questão 965
+Qual é o efeito do acessório "Vingança"?
+R: Dano de Contra-ataque +8%
+
+Questão 966
+Na página VISUALIZAÇÃO DO COMANDANTE, que buffs os comandantes que atuam como "Guarda de Ferro" recebem?
+R: Saúde das Tropas +1%
+
+Questão 967
+Quem é o rei dos deuses na mitologia grega?
+R: Zeus
+
+Questão 968
+As Dunas de Areia Cantantes em Dunhuang, na China, são conhecidas por fazer um som alto de bateria sempre que o vento sopra. De que deserto elas fazem parte?
+R: Deserto de Kumtag
+
+Questão 969
+Qual é a maior cordilheira continental da Terra?
+R: Os Andes
+
+Questão 970
+Qual filme ganhou Melhor Filme no primeiro Oscar?
+R: Asas
+
+Questão 971
+A casa de leilões Sotheby's foi fundada em 1744 em qual cidade inglesa?
+R: Londres
+
+Questão 973
+Qual novo método de construção de colunas na Roma antiga foi baseado nos três principais estilos gregos?
+R: A coluna toscana
+
+Questão 974
+Qual dessas esculturas foi obra do antigo escultor grego Fídias?
+R: Estátua de Zeus em Olímpia
+
+Questão 975
+Qual destes deuses NÃO é filho de Zeus na mitologia grega?
+R: Hera
+
+Questão 976
+Qual é a capacidade de tropas reunidas padrão quando seu castelo está no nível 25?
+R: 2 milhões
+
+Questão 977
+A Porta dos Leões é a maior escultura pré-histórica sobrevivente no mar Egeu. Onde ela está localizada?
+R: Micenas
+
+Questão 978
+Qual dessas habilidades ativas pertence a Carlos Martel?
+R: Escudo de Francia
+
+Questão 979
+Qual o nível da sua Prefeitura para usar o Frenesi de Guerra?
+R: 10
+
+Questão 980
+Qual desses filósofos não era um defensor da escola de filosofia do cinismo?
+R: Sócrates
+
+Questão 981
+Qual desses eventos marca o início do domínio romano sobre a Grécia?
+R: Batalha de Corinto
+
+Questão 982
+Que antigo filosofo grego estabeleceu as primeiras ideias do atomismo?
+R: Demócrito
+
+Questão 983
+Os Jogos Olímpicos da Antiguidade era realizados a cada 4 anos em Olímpia, no sudoeste da Grécia. Em que ano se acredita que eles começaram?
+R: 776 AEC
+
+Questão 984
+Quem é o "Deus da Guerra" na mitologia grega antiga?
+R: Ares
+
+Questão 985
+Quem escreveu a "História da Guerra do Peloponeso", um relato histórico da guerra titular? Quem foi o autor da História da Guerra do Peloponeso?
+R: Tucídides
+
+Questão 986
+Qual dessas peças NÃO foi escrita pelo antigo escritor de tragédias grego Eurípides?
+R: Antígona
+
+Questão 987
+Qual é o nome do santuário mais íntimo de um antigo templo grego, acessível apenas aos membros do sacerdócio?
+R: Ádito
+
+Questão 988
+Qual destas não é uma das Três Górgonas do mito grego?
+R: Perga
+
+Questão 989
+Quanto tempo dura o aumento de "Expansão Básica do Exército"?
+R: 4h
+
+Questão 990
+Na mitologia grega, quem é o herói conhecido por roubar o fogo dos deuses e entregá-lo à humanidade?
+R: Prometeu
+
+Questão 991
+Quem escreveu "História dos Animais"?
+R: Aristóteles
+
+Questão 992
+Qual das seguintes escolas de filosofia NÃO visa alcançar a "ataraxia"?
+R: Peripatética
+
+Questão 993
+Qual dessas cidades costuma ser considerada o berço da civilização ocidental e o berço da democracia?
+R: Atenas
+
+Questão 994
+Qual matemático grego antigo usou o método da exaustão para calcular a área de um círculo?
+R: Arquimedes
+
+Questão 995
+Segundo a mitologia grega, quais dois deuses se transformaram no "peixe" no signo de Peixes?
+R: Afrodite e Eros
+
+Questão 996
+Que evento marcou o início do período helenístico?
+R: A morte de Alexandre, O Grande
+
+Questão 997
+Qual dos seguintes NÃO é um dos destinos da mitologia grega?
+R: Urd
+
+Questão 998
+Quem é o Deus do Sono da mitologia grega antiga?
+R: Hipnos
+
+Questão 999
+No épico homérico "A ilíada", qual das seguintes deusas NÃO fez parte da competição pelo Pomo da Discórdia?
+R: Artemis
+
+Questão 1000
+A ajuda da aliança NÃO pode acelerar quais das seguintes atividades?
+R: Treinamento da tropa
+
+Questão 1001
+Qual filósofo escreveu a "Utopia"?
+R: Platão
+
+Questão 1002
+Qual desses antigos dramaturgos gregos é considerado "o pai da tragédia"?
+R: Èsquilo
+
+Questão 1003
+Qual dessas opções NÃO é um detalhamento da tecnologia de aliança?
+R: Militar
+
+Questão 1004
+Qual dramaturgo grego antigo escreveu a famosa tragédia "Èdipo Rei"?
+R: Sófocles
+
+Questão 1005
+Qual destes NÃO foi um poeta grego?
+R: Adônis
+
+Questão 1006
+Qual filósofo criou o "paradoxo da flecha"?
+R: Zenão de Eleia
+
+Questão 1007
+Qual destas opções representa um dos quatro elementos fundamentais da natureza de acordo com muitos filósofos gregos antigos?
+R: Vento
+
+Questão 1008
+Na mitologia grega, qual herói montou o cavalo voador Pégaso?
+R: Belerofonte
+
+Questão 1009
+Qual desses antigos filósofos gregos NÃO participou da discussão sobre justiça na República de Platão?
+R: Protágonas
+
+Questão 1010
+A quem foi dedicado o Partenon?
+R: Atena
+
+Questão 1011
+"Conhece-te a ti mesmo" era um aforismo amplamente conhecido de qual país?
+R: Grécia Antiga
+
+Questão 1012
+Na "República", o que Platão identifica como a "forma mais elevada"?
+R: O Bom
+
+Questão 1013
+Qual a cor da vela que Teseu usou em seu navio para indicar a seu pai, Egeu, que havia matado com sucesso o Minotauro?
+R: Branco
+
+Questão 1014
+Qual era o nome da criatura que atraía os marinheiros com sua voz celestial na mitologia grega?
+R: Sereia
+
+Questão 1015
+Qual das seguintes opções NÃO foi incluída nas Olímpiadas de Verão, sediadas em Atenas, em 1896?
+R: Basquete
+
+Questão 1016
+Qual era o nome do antigo deus grego do vinho?
+R: Dioniso
+
+Questão 1017
+Quem é a deusa grega da noite?
+R: Nix
+
+Questão 1018
+Qual dessas não é uma habilidade do general Ceroli Keira?
+R: O Camaleão Vermelho
+
+Questão 1019
+Qual capítulo das Crônicas do Reino concede a conquista "Explorador Eterno" caso toda a névoa seja explorada antes do fim do capítulo?
+R: A Longa Paz
+
+Questão 1020
+O período após a queda da civilização micênica e antes do nascimento das cidades-estado gregas é conhecido como Idade das Trevas grega. Qual dessas obras foi escrita nessa época?
+R: A Odisseia
+
+Questão 1021
+Qual poeta escreveu "Teogonia", que descreve as origens e a genealogia dos deuses gregos?
+R: Hesíodo
+
+Questão 1022
+O épico grego "A Odisseia" narra o retorno do herói Ulisses da guerra. Onde era sua terra natal?
+R: Itaca
+
+Questão 1023
+Na Grécia antiga, quem era a alta sacerdotisa do Templo de Apolo em Delfos?
+R: a Pítia
+
+Questão 1024
+Qual desses antigos filósofos gregos NÃO participou da discussão sobre justiça na Republica de Platão?
+R: Polemarco
+
+Questão 1025
+Quem saiu vencedor da "Batalha de Hastings"?
+R: Guilherme, o Conquistador
+
+Questão 1026
+Qual a montanha mais alta da África?
+R: Monte Kilimajaro
+
+Questão 1027
+Em que ano foi lançada a sonda Tianwen-1 Mars?
+R: 2020
+
+Questão 1028
+Qual dos seguintes é o segundo maior delta de rio da Europa?
+R: Delta do Danúbio
+
+Questão 1029
+Na Tábua de Esmeralda, Hermes Trismegisto afirma possuir "três partes da sabedoria de todo o mundo". Qual destas NÃO é uma das três partes?
+R: Transfiguração
+
+Questão 1030
+Graças a grandes depósitos de bórax e pigmento de algas locais, a Laguna Colorada é uma paisagem fantástica de vermelho e branco. Em que país ela está localizada?
+R: Bolívia
+
+Questão 1031
+A roteirista Marguerite Duras é conhecida por escrever o filme "Hiroshima mon amour", Onde ela nasceu?
+R: Vietnã
+
+Questão 1032
+Qual dessas pessoas não ganhou um Prêmio Nobel de Física em 2022?
+R: Karl Barry Sharpless
+
+Questão 1033
+Em Macbeth de Shakespeare, o personagem principal mata o rei Duncan da Escócia. Qual é o nome do filho mais velho de Duncan?
+R: Malcolm
+
+Questão 1034
+De que nacionalidade era Miguel de Cervantes, autor de "Dom Quixote"?
+R: Espanhola
+
+Questão 1035
+"Ru" é um dos tipos mais famosos de cerâmica chinesa, conhecida por seu delicado esmalte azul claro. De qual dinastia ela se originou?
+R: Song
+
+Questão 1036
+Qual é o metal alcalino-terroso mais pesado?
+R: Rádio
+
+Questão 1037
+Para cada 1 unidade que você treina em sua cidade, quantas unidades de expedição você recebe no modo Expedição?
+R: 1
+
+Questão 1038
+Qual dos itens a seguir pode ser usado para aprimorar as habilidades de Comandante?
+R: Esculturas de Comandante
+
+Questão 1039
+No Japão, os portões "torii" costumam ser colocados na entrada de quais construções?
+R: Santuários
+
+Questão 1040
+Qual dos seguintes NÃO é uma dança típica?
+R: Sumô
+
+Questão 1041
+Qual dos seguintes peixes atrai suas presas usando bioluminescência?
+R: Peixe-pescador
+
+Questão 1042
+Que planeta no sistema solar está mais perto do Sol?
+R: Mercúrio
+
+Questão 1043
+No RoK, qual capítulo das Crônicas do Reino exige a exploração completa de todos os blocos de névoa do reino?
+R: A Longa Paz
+
+Questão 1044
+Qual destas foi a primeira estação espacial do mundo?
+R: Salyut 1
+
+Questão 1045
+Muitas figuras históricas lutaram na terceira cruzada, Qual dos líderes abaixo morreu neste movimento militar?
+R: Frederico Barba Ruiva
+
+Questão 1046
+Qual dos métodos a seguir NÃO aumentara a velocidade de pesquisa da sua academia?
+R: Tornar-se a Justiça do seu reino
+
+Questão 1047
+No Rok, qual tecnologia e pré-requisito para a tecnologia militar Fitoterapia?
+R: Camuflagem
+
+Questão 1048
+Que recurso é necessário para viajar no Fórum Estadual?
+R: Pontos de Ação
+
+Questão 1049
+No RoK, qual comandante tem o título "Amado de Thoth"?
+R: Tutemés III
+
+Questão 1050
+Quem foi o diretor do jogo premiado como Jogo do Ano no Game Awards 2022?
+R: Hidetaka Miyazaki
+
+Questão 1051
+No RoK, qual das seguintes decorações precisa ser comprada com Gemas?
+R: Vaso
+
+Questão 1052
+Quem é o deus hindu da destruição, também conhecido como "dançarino cósmico"?
+R: Shiva
+
+Questão 1053
+O Panteão foi o local de sepultamento de muitos artistas importantes desde o Renascimento. Qual dos seguintes artistas foi enterrado lá?
+R: Raphael
+
+Questão 1054
+Qual destas é uma das Habilidades Ativas de Diaochan?
+R: Dança do Caos
+
+Questão 1055
+A bandeira de que país tem o recorde mundial de ser a bandeira nacional mais antiga usada?
+R: Dinamarca
+
+Questão 1056
+Qual dos seguintes impérios NÃO participou da Batalha dos Três Imperadores (também conhecida como Batalha de Austerlitz)?
+R: O Império Persa
+
+Questão 1057
+Em que país ocorreu nasce o famoso revolucionário e estrategista militar Simón Bolívar?
+R: Venezuela
+
+Questão 1058
+Em que ano Mark Zuckerberg criou o Facebook?
+R: 2004
+
+Questão 1059
+Qual desses comandantes é frequentemente descrito como tendo sobrevivido a 57 combates sem uma única derrota?
+R: Honda Tadakatsu
+
+Questão 1060
+Qual é a capital da Escócia?
+R: Edimburgo
+
+Questão 1061
+No evento "O Governador Mais Poderoso", qual é a classificação mínima que você precisa alcançar para receber 10 esculturas de comandante do evento?
+R: 15º
+
+Questão 1062
+Em 1582, Oda Nobunaga foi traído e emboscado por seu general Akechi Mitsuhide. Onde isso ocorreu?
+R: Templo de Honnō-Ji em Kyoto
+
+Questão 1063
+Dos seguintes, qual é o mais provável de ter levado diretamente à Idade do Bronze?
+R: O bronze é mais duro e durável que outros metais disponíveis na época
+
+Questão 1064
+Qual é a temperatura ideal para assar um frango no barril quente de um canhão otomano?
+R: 200 ºC
+
+Questão 1065
+Qual é a meia-vida do Iodo-129, um isótopo radiotivo produzido por reatores nucleares?
+R: 15,7 milhões de anos
+
+Questão 1066
+Durante um eclipse solar, o objeto celestial que fica entre o Sol e a Terra é:
+R: A Lua
+
+Questão 1067
+Quantos jogadores existem no jogo de tabuleiro Go?
+R: 2
+
+Questão 1068
+As pirâmides maias foram feitas de quê?
+R: Pedra
+
+Questão 1069
+As atividades físicas diárias do povo maia NÃO incluíam:
+R: Arremesso de pinguim
+
+Questão 1070
+Quem escreveu o romance "Declínio de um Homem"?
+R: Osamu Dazai
+
+Questão 1071
+Quais destes itens não podem ser obtidos num Baú de Equipamentos?
+R: Tomos de Conhecimento
+
+Questão 1072
+Quem foi o pai de Edward de Woodstock?
+R: Eduardo III
+
+Questão 1073
+Qual das seguintes não é um dos Destinos da mitologia nórdica?
+R: Karma
+
+Questão 1074
+Qual destas opções é o museu de arte mais visitado do mundo nos últimos anos?
+R: Louvre
+
+Questão 1075
+A Peste de Justiniano de 541-549 foi o primeiro surto da primeira pandemia de peste. Que outro grande estava ocorrendo no Império Romano do Oriente naquela época?
+R: A Guerra Gótica
+
+Questão 1076
+Em qual guerra norte-americana foi emitida a "Proclamação de Emancipação"?
+R: Guerra Civil
+
+Questão 1077
+Qual é o formato de um gol de futebol quando visto de frente?
+R: Um retângulo
+
+Questão 1078
+Em RoK, qual das habilidades de Sun Tzu é melhorada por sua habilidade de especialidade?
+R: Arte da Guerra
+
+Questão 1079
+Em RoK, há uma estrada pavimentada com tijolos dourados que pode ser adquirida por 100 Gemas. Como ela se chama?
+R: Estrada do Rei
+
+Questão 1080
+Os métodos de mitigação da desertificação NÃO incluem:
+R: Superexploração das águas subterrâneas
+
+Questão 1081
+Na mitologia nórdica, a quem pertence o martelo Mjölnir?
+R: Thor
+
+Questão 1082
+Qual desses grupos étnicos chineses é conhecido por beber kumis, uma bebida feita com leite de égua fermentado?
+R: Mongóis
+
+Questão 1083
+Em RoK, qual é o número máximo de minas de ouro que um jogador pode construir?
+R: 4
+
+Questão 1084
+Qual dessas obras não se passa durante a Guerra da Tróia?
+R: Antígona
+
+Questão 1085
+Em que continente está localizado Benin?
+R: África
+
+Questão 1086
+Quem era responsável por conduzir bravos guerreiros do Valhalla após a morte na mitologia nórdica?
+R: Valquírias
+
+Questão 1087
+Qual destas NÃO é uma etapa típica do tratamento de esgoto?
+R: Descarga
+
+Questão 1088
+Quando alguém pisa em uma casca de banana calçando sapatos, o coeficiente de atrito entre o sapato e a casca de banana é de:
+R: 0,07
+
+Questão 1089
+Em RoK, qual das seguintes NÃO é uma das habilidades de Mulan?
+R: Coração Inteligente
+
+Questão 1090
+Quem mata Odin, o rei dos deuses, durante o Ragnarok na mitologia nórdica?
+R: Fenrir
+
+Questão 1091
+Em que país nasceu Botticelli, pintor de O Nascimento de Vênus?
+R: Itália
+
+Questão 1092
+Qual dessas cidades NÃO fica na Ásia?
+R: Melbourne
+
+Questão 1093
+Li Xin, o ancestral do "General Voador" Li Guang, era um general de qual estado durante o período dos Reinos Combatentes da história chinesa?
+R: Qin
+
+Questão 1094
+Dentre as fossas oceânicas conhecidas, qual é a mais profunda do mundo?
+R: A Fossa das Marianas
+
+Questão 1095
+Qual foi o único presidente dos Estados Unidos que serviu mais do que dois mandatos?
+R: Franklin D. Roosevelt
+
+Questão 1096
+De acordo com a cronologia Maia, o Período Pré-Clássico Tardio se enquadra em:
+R: 1 A.C. a 159 D.C.
+
+Questão 1097
+Na fábula "Os Músicos de Bremen", dos Irmãos Grimm, um grupo de animais viaja para Bremen em busca de uma carreira musical. Qual dos seguintes animais NÃO faz parte do grupo?
+R: Porco
+
+Questão 1098
+As Cataratas do Iguaçu ficam na fronteira entre quais países?
+R: Brasil e Argentina
+
+Questão 1099
+Qual destas figuras históricas jamais se envolveu com a medicina?
+R: Justiniano
+
+Questão 1100
+Qual destes países modernos NÃO está localizado no território da civilização maia?
+R: República Dominicana
+
+Questão 1101
+Em RoK, o que você tem que fazer para concluir a missão "Espada do Rei"?
+R: Recrutar 200 Unidades de Infantaria
+
+Questão 1102
+Na mitologia maia, quantos níveis existem no céu e no submundo combinados?
+R: 22
+
+Questão 1103
+Qual runa do Futhark representa Tyr, o deus da guerra e da justiça na mitologia germânica?
+R: Tiwaz
+
+Questão 1104
+Qual das árvores a seguir é comum em ecossistemas boreais?
+R: Abeto
+
+Questão 1105
+De acordo com a World Athletics, qual destes NÃO é um peso de disco internacional oficial?
+R: 1,25 kg
+
+Questão 1106
+Qual dos seguintes eventos ocorreu na América do Norte durante os Loucos Anos Vinte?
+R: Início da publicação da revista "Weird Tales"
+
+Questão 1107
+Qual das seguintes regiões é o habitat principal dos ursos polares?
+R: Círculo Ártico
+
+Questão 1108
+Que comandante é conhecida como a Dama dos Mércios?
+R: AEthelflaed
+
+Questão 1109
+Quem dirigiu o filme "Primavera Numa Pequena Cidade"?
+R: Fei Mu
+
+Questão 1110
+Nos séculos 16 a 17, que doença os famosos "médicos da peste" mascarados de pássaros tratavam?
+R: Praga bubônica
+
+Questão 1111
+Em RoK, qual dos seguintes armamentos pode ser usado com a formação em arco?
+R: Emblema do Norte
+
+Questão 1112
+Qual dos seguintes órgãos faz parte do sistema respiratório humano?
+R: Pulmões
+
+Questão 1113
+Em RoK, qual comandante pode afastar os buffs de ataque do inimigo?
+R: Amanitore
+
+Questão 1114
+Qual dos seguintes NÃO é um jogo de bola?
+R: Esgrima
+
+Questão 1115
+Quem ordenou a produção do manuscrito civil popularmente conhecido como Livro do Juízo Final?
+R: Guilherme I
+
+Questão 1116
+Como é chamada a habilidade de especialização do Comandante Cao Cao?
+R: Imperador Wu de Wei
+
+Questão 1117
+Em que país misterioso Stonehenge está localizado?
+R: Reino Unido
+
+Questão 1118
+Em RoK, qual é a cor da bainha de Matilda de Flanders?
+R: Azul
+
+Questão 1119
+Qual dos seguintes animais estava na bandeira imperial do Império Inca?
+R: Cobra
+
+Questão 1120
+Qual foi o primeiro filme dirigido por Satoshi Kon?
+R: Perfect Blue
+
+Questão 1121
+Durante a fusao nuclear, qual dos seguintes elementos produz menos energia do que absorve?
+R: Ferro
+
+Questão 1122
+Qual dos seguintes treinadores levou seu time a 13 títulos da Liga de Futebol Inglesa?
+R: Alex Ferguson
+
+Questão 1123
+Em que continente estava localizado o Império Inca?
+R: América do Sul
+
+Questão 1124
+Uma cratera no outro lado da Lua recebeu o nome de um oficial chines que foi (supostamente) a primeira pessoa a viajar para o espaço. Qual era o nome dele?
+R: Wan Hu
+
+Questão 1125
+Qual dos seguintes seres vivos são carnívoros?
+R: Libélulas
+
+Questão 1126
+O Mar de Aral já foi o quarto maior lago do mundo, mas desde então praticamente secou. Onde ele está localizado?
+R: Ásia Central
+
+Questão 1127
+Qual destas é uma descrição incorreta da "Batalha de Poitiers"?
+R: A campanha aconteceu durante a Primeira Guerra Mundial
+
+Questão 1128
+Na mitologia grega, qual juiz dos mortos era responsável por dar o voto decisivo em todas as almas?
+R: Minos
+
+Questão 1129
+Qual é o slogan da fabricante de armas Heckler & Koch?
+R: "Sem concessões!"
+
+Questão 1130
+Qual clube ganhou mais títulos da Liga de Futebol Inglesa?
+R: Manchester United
+
+Questão 1131
+Quem é o treinador mais antigo da história do Arsenal FC?
+R: Arsene Wenger
+
+Questão 1132
+Ao velejar durante uma tempestade, ocasionalmente é possível avistar um efeito de "raio" na ponta do mastro. Qual é o nome desse fenômeno?
+R: Fogo de Santelmo
+
+Questão 1133
+A profundidade no ponto mais profundo do Mar Báltico é de:
+R: 459m
+
+Questão 1134
+Qual dos seguintes clube de futebol NÃO tem sede em Londres?
+R: Everton
+
+Questão 1135
+Qual dos seguintes NÃO é uma "arma branca"?
+R: Pistola
+
+Questão 1136
+No xadrez internacional, qual lado se move primeiro?
+R: Branco
+
+Questão 1137
+Na revista em quadrinhos "Batman", da DC Comics, qual versão de Robin morreu por conta de uma votação dos leitores?
+R: Jason Todd (Capuz Vermelho)
+
+Questão 1138
+Em seu diálogo no jogo, quem Cleópatra VII menciona que foi assassinado pelos seus próprios senadores?
+R: Júlio César
+
+Questão 1139
+Sigmund Freud, pai da psicanálise, era de qual país?
+R: Áustria
+
+Questão 1140
+Qual dos seguintes reinados de imperadores chineses foi conhecido como o "Reinado de Zhenguan"?
+R: Imperador Taizong de Tang
+
+Questão 1141
+Quem foram os dois beligerantes na Batalha de Thermopylae?
+R: Gregos e persas
+
+Questão 1142
+Quem ganhou um Prêmio Nobel em duas áreas diferentes?
+R: Marie Curie
+
+Questão 1143
+Qual das seguintes equipes foi a primeira a marcar 100 pontos em uma única temporada da Liga de Futebol Inglesa?
+R: Manchester City
+
+Questão 1144
+Qual é o aumento na Velocidade de Coleta quando os membros da aliança coletam recursos no território da aliança?
+R: 25%
+
+Questão 1145
+Qual é o apelido de Belisário?
+R: O Último dos Romanos
+
+Questão 1146
+Qual dessas frutas NÃO cresce em árvores?
+R: Morango
+
+Questão 1147
+Em RoK, qual comandante é apelidado de "Rainha de Silla"?
+R: Seondeok
+
+Questão 1148
+A qual exército pertencia a "Guarda Varangiana"?
+R: O exército bizantino
+
+Questão 1149
+A conquista otomana de Constantinopla em 1453 marcou o fim do Império Romano do Oriente. Quem era o imperador romano na época?
+R: Constantino XI Paleólogo
+
+Questão 1150
+Qual é a duração do item de Recrutamento de Construtor?
+R: 2 dias
+
+Questão 1151
+Qual é o maior lago da Europa?
+R: Lago Ladoga
+
+Questão 1152
+Quem foi o primeiro autor japonês a receber o Prêmio Nobel de Literatura?
+R: Yasunari Kawabata
+
+Questão 1153
+Qual das seguintes afirmações sobre Zhuge Liang em RoK está incorreta?
+R: Ele se destaca na liderança de unidades de cavalaria
+
+Questão 1154
+Qual dos seguintes títulos só pode ser usado por um governante islâmico?
+R: Sultão
+
+Questão 1155
+Qual das opções a seguir não é um benefício de atualizar sua Taberna?
+R: Melhora a variedade de recompensas em Baús Dourados
+
+Questão 1156
+Ao atualizar seu Armazém do Nv. 24 para o Nv. 25, qual recurso ganha mais capacidade de proteção de recursos?
+R: Ouro
+
+Questão 1157
+Em RoK, qual dos seguintes comandantes se destaca na liderança de unidades de cerco?
+R: Margaret I
+
+Questão 1158
+Em RoK, qual comandante tem o apelido de "Zizka do Cálice"?
+R: Jan Zizka
+
+Questão 1159
+Durante o Período dos Estados Beligerantes da China, que estado derrotou os outros seis e construiu o império chinês unificado?
+R: Qin
+
+Questão 1160
+Na China, os bolinhos de arroz (niangao) são uma iguaria frequentemente consumida durante o Ano Novo Chinês. Qual das seguintes afirmações sobre niangao está INCORRETA?
+R: Geralmente só são consumidos durate o Ano Novo Chinês
+
+Questão 1161
+De acordo com a lenda chinesa, qual das alternativas a seguir não é uma das fraquezas da terrível fera conhecida como "Nian"?
+R: Água
+
+Questão 1162
+Durante qual dinastia chinesa o Siku Quanshu foi compilado?
+R: Qing
+
+Questão 1163
+Em que dia cai a véspera do Ano Novo Chinês no calendário lunar?
+R: Um dia antes do Ano Novo Lunar
+
+Questão 1164
+Qual dos seguintes animais do zodíaco chinês é geralmente considerado fictício?
+R: Dragão
+
+Questão 1165
+O tipo móvel foi usado pela primeira vez em que país?
+R: China
+
+Questão 1166
+Em que ano ocorreu a Batalha de Guandu?
+R: 200 (não AC)
+
+Questão 1167
+Qual poeta chinês escreveu o poema "Li Sao"?
+R: Qu Yuan
+
+Questão 1168
+Em seu diálogo no jogo, qual comandantes Sun Tzu alerta o governador para ficar de olho?
+R: Cao Cao
+
+Questão 1169
+A Cidade Proibida foi construída durante o governo de qual dinastia chinesa?
+R: Ming
+
+Questão 1170
+Quem queimou o Palácio de Epang, construído durante a Dinastia Qin na China?
+R: Xiang Yu
+
+Questão 1171
+Qual das alternativas a seguir não é uma tradição comum do Ano Novo Chinês?
+R: Comer bolos lunares
+
+Questão 1172
+Qual das seguintes formas NÃO foi usada pelo "Espírito de Ossos Brancos" em sua lendária batalha contra o Rei Macaco Sun Wukong na "Jornada ao Oeste".
+R: Um garoto
+
+Questão 1173
+"Cento e quarenta mil, todos desarmados! Entre estes não havia um único homem"? Qual poeta da dinastia Tang escreveu este dístico?
+R: Madame Huarui
+
+Questão 1174
+Qual antiga dinastia chinesa seguiu a dinastia Shang?
+R: A Dinastia Zhou
+
+Questão 1175
+Qual das seguintes civilizações fornece um aumeto na velocidade de construção?
+R: China
+
+Questão 1176
+Em qual categoria se enquandra o sistema formal de escrita do antigo Egito?
+R: Hieroglífico
+
+Questão 1177
+Quem pintou Ninfa do Rio Luo?
+R: Gu Kaizhi
+
+Questão 1178
+Qual dessas opções NÃO foi um dos chamados "24 heróis" do Pavilhão Lingyan?
+R: Li Mi
+
+Questão 1179
+Em qual tribunal o "Huainanzi" foi compilado em um livro?
+R: Liu An
+
+Questão 1180
+"Manuscrito corrido" é um estilo de caligrafia chinesa. Qual das seguintes obras NÃO está escrita em dessa forma?
+R: Estela do Pagode Duobao
+
+Questão 1181
+Qual dessas figuras NÃO é referenciada no título do antigo poema chinês: "Oito Imortais da Taça de Vinho"?
+R: Du Fu
+
+Questão 1182
+Quantas estrelas aparecem no banner exibido atrás do comandante Minamoto no Yoshitsune?
+R: 3
+
+Questão 1183
+Na história do folclore chinês "O vaqueiro e a tecelã", qual constelação o vaqueiro representa?
+R: Áquila
+
+Questão 1184
+Quem escreveu o romance "The Scholars"?
+R: Wu Jingzi
+
+Questão 1185
+Em RoK, qual dos seguintes personagens Sun Tzu menciona em seu diálogo Confiança?
+R: Mulan
+
+Questão 1186
+O mapa Qingming captura a vida cotidiana e a paisagem de qual antiga dinastia chinesa?
+R: Song
+
+Questão 1187
+A Batalha de Changping foi travada entre quais duas forças?
+R: Reinos de Qin e Zhao
+
+Questão 1188
+Quem foi o último Imperador da China?
+R: O Imperador Xuantong (Puyi)
+
+Questão 1189
+Cada animal do zodíaco chinês está associado a um dos cincos elementos clássicos chineses. Qual elemento tem mais animais do zodíaco associados a ele?
+R: Terra
+
+Questão 1190
+Onde fica o Mausoléu do Primeiro Imperador Qin localizado na China?
+R: Shaanxi
+
+Questão 1191
+Qual das seguintes não é considerada uma das Quatro Grandes Invenções da China antiga?
+R: Sismógrafo
+
+Questão 1192
+O Templo do Céu, na China, foi construído durante o reino de que imperador?
+R: O Imperador Yongle (Shy Di)
+
+Questão 1193
+A ametista é valorizada por sua tonalidade violeta brilhante. De que mineral ela é uma variedade?
+R: Quartzo
+
+Questão 1194
+Quem fundou a Ordem da Jarreteira da Inglaterra?
+R: Eduardo III
+
+Questão 1195
+Qual destas afirmações sobre o título "tribuna da plebe" está incorreta?
+R: Eles eram totalmente subservientes ao Senado
+
+Questão 1196
+Qual é o maior aeroporto do mundo em área?
+R: Aeroporto Internacional King Fahd
+
+Questão 1197
+Qual é a substância mais abundante no corpo de um adulto saudável?
+R: Água
+
+Questão 1198
+Qual dos seguintes não é um gás nobre?
+R: Oxigênio
+
+Questão 1199
+Qual desses materiais é usado para forjar equipamentos de coleta e manutenção da paz?
+R: Osso animal
+
+Questão 1200
+As Ilhamas são nativas de qual continente terrestre?
+R: América do Sul
+
+Questão 1201
+Qual é o pico insular mais alto no mundo?
+R: Puncak Jaya
+
+Questão 1202
+No envo do Fórum Estadual "O Bosque do Crepúsculo", os bosques titulares ficam em que direção da cidade?
+R: Oeste
+
+Questão 1203
+Em 1689, quais foram os dois governantes que concederam o consentimento real à Declaração de Direitos Ingleses?
+R: William III e Mary II
+
+Questão 1204
+Qual das seguintes peças de Shakespeare é uma comédia romântica escrita em algum momento entre 1590 e 1596?
+R: Sonho de Uma Noite de Verão
+
+Questão 1205
+Quem é o marido de Matilda de Flanders?
+R: Guilherme I (William)
+
+Questão 1206
+No corpo humano, qual dos seguintes ossos está mais próximo do coração?
+R: Esterno
+
+Questão 1207
+Qual das seguintes unidades de medida NÃO é usada para medir radiação ionizante?
+R: Lúmens
+
+Questão 1208
+Com qual destes governantes a Rainha Tamar da Geórgia formou um pacto de não agressão?
+R: Saladino

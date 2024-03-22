@@ -3615,7 +3615,7 @@ What is the number of Luka Modric's shirt at Real Madrid?
 A: 10
 
 Question 911
-A: What is the supposed place of birth of belly dance?
+What is the supposed place of birth of belly dance?
 A: Egypt
 
 Question 912
@@ -3648,7 +3648,7 @@ A: CNEU Pompeu Magno
 
 Question 919
 What is the chemical symbol of antimony?
-R: SB
+A: SB
 
 Question 920
 Which of these character is "twenty thousand submarines"?
@@ -3665,3 +3665,1139 @@ A: Édouard Roche
 Question 923
 How many shipments do you need to conclude in the State Forum to open a shipping commendation?
 A: 15
+
+Question 924
+In RoK, what is Commander Constânça's nickname?
+A: Queen of Sicily
+
+Question 925
+Who was Hannibal's father?
+A: Hamilcar Barca
+
+Question 926
+What two bodies of water does the Suez Canal connect?
+A: Mediterranean Sea, Red Sea
+
+Question 927
+What is the bonus provided by the Frozen Fortress legendary city theme?
+A: Infantry Defense +10%
+
+Question 928
+What country is Çatalhöyük in?
+A: Turkey
+
+Question 929
+Which of these is not an ancient civilization of the Americas?
+A: The Sumerians
+
+Question 930
+In the Peerless Academic event, how many answers do you need to get right in the Preliminary to qualify for the Intermediate?
+A: 6
+
+Question 931
+What bonus is granted to an alliance that captures the Level 2 Holy Site "Altar of Flame"?
+A: Troop Attack +3%
+
+Question 932
+In what year was equestrianism included as an Olympic sport for the first time?
+A: Paris Olympic Games, 1900
+
+Question 933
+Which school of painting is represented by Georges Seurat?
+A: Pointillism
+
+Question 934
+What civilization developed between the Tigris and Euphrates rivers?
+A: The Mesopotamians
+
+Question 935
+Which of these actions can be performed by alliance leaders and titled officers, but NOT by non-titled officers?
+A: Subscribe to Ark of Osiris
+
+Question 936
+In what year did Alexandre Fleming discover penicillin?
+A: 1928
+
+Question 937
+Which of the following characters are NOT present in the story "Journey to the West"?
+A: Third Sister Hu
+
+Question 938
+In which country was the Carlsberg Group, a beer manufacturer, founded in 1847?
+A: Denmark
+
+Question 939
+What are the dimensions of the fog removed by a Kingdom Map item?
+A: 10x10
+
+Question 940
+In Norse mythology, the ravens Huginn and Muninn were companions of which god?
+A: Odin
+
+Question 941
+With which figure from Greek mythology did Mary Shelley associate Frankenstein's monster?
+A: Prometheus
+
+Question 942
+What is the real name of Dmitri Shostakovich's "Leningrad" symphony?
+A: Symphony No. 7 in C major
+
+Question 943
+The poet Fernando Pessoa became known for writing his poems as different "characters", which he called "heteronyms". Which of these is NOT one of the heteronyms that Pessoa used?
+A: Francisco Norman
+
+Question 944
+Who is the consort of the Hindu deity Vishnu?
+A: Lakshmi
+
+Question 945
+What is the largest known planet in our solar system?
+A: Jupiter
+
+Question 946
+To unlock the "Huarong Trail" achievement, you must use Guan Yu to defeat a troop led by which of the following commanders?
+A: Cao Cao
+
+Question 947
+Which of the following RoK commanders was the only ruler in history to defeat Cyrus the Great in a major battle?
+A: Tomyris
+
+Question 948
+Which of these cities is located in South America?
+A: Buenos Aires
+
+Question 949
+In 1970, an Apollo mission attempted to land on the moon. Due to a technical problem, it was only able to orbit the moon and return to Earth. What was the name of the mission?
+A: Apollo 13
+
+Question 950
+Which of these RoK commanders is from Ceroli?
+A: Keira
+
+Question 951
+Which of the following constellations is shaped like a crown?
+A: Crown of the North
+
+Question 952
+Using a troop led by Julius Caesar and Cleopatra VII, which of the following actions will unlock the "Immortal Desires" achievement?
+A: Attack a city
+
+Question 953
+The Colossus of Rhodes represents which sun god? The Colossus of Rhodes represents which Greek god?
+A: Helio
+
+Question 954
+The "Independence March" is the national anthem of which country?
+A:Turkey
+
+Question 955
+Diego Velázquez, the painter of the realistic work Portrait of Pope Innocent X, was from which country?
+A: Spain
+
+Question 956
+Lake General Carrera originates from the glaciers of the Andes. What two countries border the lake?
+A: Argentina and Chile
+
+Question 957
+Who was the Greek and Thracian god of wine?
+A: Dionysus
+
+Question 958
+Who was the father of the Frankish king Pepin the Short?
+A: Carlos Martel
+
+Question 959
+Where was the composer Wolfgang Amadeus Mozart born?
+A: Salzburg (Austria)
+
+Question 960
+Which continent was the cradle of the Mayan civilization?
+A: The Americas
+
+Question 961
+Sandro Botticelli's painting "Venus and Mars" is famous for its bright colors and beautiful figures. In which gallery is this painting currently housed?
+A: At the National Gallery in London (Trafalgar Square)
+
+Question 962
+Which formation is the "Imperial War Drum" armament for?
+A: V (because of the tower)
+
+Question 963
+The city's "Ishtar Gate" decoration pays homage to which of the following civilizations?
+A: Babylon
+
+Question 964
+In RoK, which commander has the nickname "Queen of Sicily"?
+A: Constance
+
+Question 965
+What is the effect of the "Revenge" accessory?
+A: Counterattack Damage +8%
+
+Question 966
+On the COMMANDER VIEW page, what buffs do commanders acting as "Iron Guard" receive?
+A: Troop Health +1%
+
+Question 967
+Who is the king of the gods in Greek mythology?
+A: Zeus
+
+Question 968
+The Singing Sand Dunes in Dunhuang, China are known for making a loud drum sound whenever the wind blows. What desert are they part of?
+A: Kumtag Desert
+
+Question 969
+What is the longest continental mountain range on Earth?
+A: The Andes
+
+Question 970
+Which film won Best Picture at the first Oscars?
+A: Wings
+
+Question 971
+Sotheby's auction house was founded in 1744 in which English city?
+A: London
+
+Question 973
+What new method of column construction in ancient Rome was based on the three main Greek styles?
+A: The Tuscan column
+
+Question 974
+Which of these sculptures was the work of the ancient Greek sculptor Phidias?
+A: Statue of Zeus in Olympia
+
+Question 975
+Which of these gods is NOT the son of Zeus in Greek mythology?
+A: Hera
+
+Question 976
+What is the standard mustered troop capacity when your castle is at level 25?
+A: 2 million
+
+Question 977
+The Lions Gate is the largest surviving prehistoric sculpture in the Aegean Sea. Where is it located?
+A: Mycenae
+
+Question 978
+Which of these active skills belongs to Carlos Martel?
+A: Shield of Francia
+
+Question 979
+What level is your Town Hall to use War Frenzy?
+A: 10
+
+Question 980
+Which of these philosophers was not a supporter of the Cynicism school of philosophy?
+A: Socrates
+
+Question 981
+Which of these events marks the beginning of Roman rule over Greece?
+A: Battle of Corinth
+
+Question 982
+Which ancient Greek philosopher established the first ideas of atomism?
+A: Democritus
+
+Question 983
+The Ancient Olympic Games were held every 4 years in Olympia, in southwestern Greece. What year are they believed to have started?
+A: 776 BCE
+
+Question 984
+Who is the "God of War" in ancient Greek mythology?
+A: Ares
+
+Question 985
+Who wrote the "History of the Peloponnesian War", a historical account of the titular war? Who was the author of the History of the Peloponnesian War?
+A: Thucydides
+
+Question 986
+Which of these plays was NOT written by the ancient Greek tragedy writer Euripides?
+A: Antigone
+
+Question 987
+What is the name of the innermost sanctuary of an ancient Greek temple, accessible only to members of the priesthood?
+A: Adito
+
+Question 988
+Which of these is not one of the Three Gorgons of Greek myth?
+A: Perga
+
+Question 989
+How long does the "Basic Army Expansion" boost last?
+A: 4h
+
+Question 990
+In Greek mythology, who is the hero known for stealing fire from the gods and giving it to humanity?
+A: Prometheus
+
+Question 991
+Who wrote "History of Animals"?
+A: Aristotle
+
+Question 992
+Which of the following schools of philosophy does NOT aim to achieve "ataraxia"?
+A: Peripatetic
+
+Question 993
+Which of these cities is often considered the cradle of Western civilization and the birthplace of democracy?
+A: Athens
+
+Question 994
+Which ancient Greek mathematician used the exhaustion method to calculate the area of a circle?
+A: Archimedes
+
+Question 995
+According to Greek mythology, which two gods transformed into the "fish" in the sign of Pisces?
+A: Aphrodite and Eros
+
+Question 996
+What event marked the beginning of the Hellenistic period?
+A: The death of Alexander the Great
+
+Question 997
+Which of the following is NOT one of the fates in Greek mythology?
+A: Urd
+
+Question 998
+Who is the God of Sleep in ancient Greek mythology?
+A: Hypnos
+
+Question 999
+In the Homeric epic "The Iliad", which of the following goddesses was NOT part of the competition for the Apple of Discord?
+A: Artemis
+
+Question 1000
+Alliance assistance can NOT accelerate which of the following activities?
+A: Troop training
+
+Question 1001
+Which philosopher wrote "Utopia"?
+A: Plato
+
+Question 1002
+Which of these ancient Greek playwrights is considered "the father of tragedy"?
+A: Aeschylus
+
+Question 1003
+Which of these is NOT a breakdown of alliance technology?
+A: Military
+
+Question 1004
+Which ancient Greek playwright wrote the famous tragedy "Oedipus the King"?
+A: Sophocles
+
+Question 1005
+Which of these was NOT a Greek poet?
+A: Adonis
+
+Question 1006
+Which philosopher created the "arrow paradox"?
+A: Zeno of Eleia
+
+Question 1007
+Which of these options represents one of the four fundamental elements of nature according to many ancient Greek philosophers?
+A: Wind
+
+Question 1008
+In Greek mythology, which hero rode the flying horse Pegasus?
+A: Bellerophon
+
+Question 1009
+Which of these ancient Greek philosophers did NOT participate in the discussion of justice in Plato's Republic?
+A: Protagons
+
+Question 1010
+Who was the Parthenon dedicated to?
+A: Athena
+
+Question 1011
+"Know thyself" was a widely known aphorism from which country?
+A: Ancient Greece
+
+Question 1012
+In the "Republic", what does Plato identify as the "highest form"?
+A: Good
+
+Question 1013
+What color sail did Theseus use on his ship to indicate to his father, Aegeus, that he had successfully killed the Minotaur?
+A: White
+
+Question 1014
+What was the name of the creature that attracted sailors with its heavenly voice in Greek mythology?
+A: Mermaid
+
+Question 1015
+Which of the following was NOT included in the Summer Olympics held in Athens in 1896?
+A: Basketball
+
+Question 1016
+What was the name of the ancient Greek god of wine?
+A: Dionysus
+
+Question 1017
+Who is the Greek goddess of the night?
+A: Nix
+
+Question 1018
+Which of these is not a skill of General Ceroli Keira?
+A: The Red Chameleon
+
+Question 1019
+Which chapter of the Kingdom Chronicles cDo you get the "Eternal Explorer" achievement if all the fog is explored before the end of the chapter?
+A: The Long Peace
+
+Question 1020
+The period after the fall of the Mycenaean civilization and before the birth of the Greek city-states is known as the Greek Dark Ages. Which of these works was written at this time?
+A: The Odyssey
+
+Question 1021
+Which poet wrote "Theogony," which describes the origins and genealogy of the Greek gods?
+A: Hesiod
+
+Question 1022
+The Greek epic "The Odyssey" chronicles the return of the hero Ulysses from war. Where was his hometown?
+A: Ithaca
+
+Question 1023
+In ancient Greece, who was the high priestess of the Temple of Apollo at Delphi?
+A: the Pythia
+
+Question 1024
+Which of these ancient Greek philosophers did NOT participate in the discussion about justice in Plato's Republic?
+A: Polemarchus
+
+Question 1025
+Who won the "Battle of Hastings"?
+A: William the Conqueror
+
+Question 1026
+What is the highest mountain in Africa?
+A: Mount Kilimajaro
+
+Question 1027
+In what year was the Tianwen-1 Mars probe launched?
+A: 2020
+
+Question 1028
+Which of the following is the second largest river delta in Europe?
+A: Danube Delta
+
+Question 1029
+In the Emerald Tablet, Hermes Trismegistus claims to possess "three parts of the wisdom of the whole world". Which of these is NOT one of the three parts?
+A: Transfiguration
+
+Question 1030
+Thanks to large deposits of borax and pigment from local algae, Laguna Colorada is a fantastic landscape of red and white. In which country is it located?
+A: Bolivia
+
+Question 1031
+Screenwriter Marguerite Duras is known for writing the film "Hiroshima mon amour", Where was she born?
+A: Vietnam
+
+Question 1032
+Which of these people did not win a Nobel Prize in Physics in 2022?
+A: Karl Barry Sharpless
+
+Question 1033
+In Shakespeare's Macbeth, the main character kills King Duncan of Scotland. What is Duncan's oldest son's name?
+A: Malcolm
+
+Question 1034
+What nationality was Miguel de Cervantes, author of "Don Quixote"?
+A: Spanish
+
+Question 1035
+"Ru" is one of the most famous types of Chinese ceramics, known for its delicate light blue glaze. Which dynasty did it originate from?
+A: Song
+
+Question 1036
+What is the heaviest alkaline earth metal?
+A: Radio
+
+Question 1037
+For every 1 unit you train in your city, how many expedition units do you receive in Expedition mode?
+A: 1
+
+Question 1038
+Which of the following can be used to enhance Commander skills?
+A: Commander Sculptures
+
+Question 1039
+In Japan, "torii" gates are usually placed at the entrance to which buildings?
+A: Sanctuaries
+
+Question 1040
+Which of the following is NOT a typical dance?
+A: Sumo
+
+Question 1041
+Which of the following fish attracts its prey using bioluminescence?
+A: Anglerfish
+
+Question 1042
+What planet in the solar system is closest to the Sun?
+A: Mercury
+
+Question 1043
+In RoK, which chapter of the Realm Chronicles requires complete exploration of all mist blocks in the realm?
+A: The Long Peace
+
+Question 1044
+Which of these was the world's first space station?
+A: Salyut 1
+
+Question 1045
+Many historical figures fought in the third crusade, Which of the leaders below died in this military movement?
+A: Frederico Barba Ruiva
+
+Question 1046
+Which of the following methods will NOT increase your gym's research speed?
+A: Become the Justice of your kingdom
+
+Question 1047
+In Rok, what technology is prerequisite for military technology Phytotherapy?
+A: Camouflage
+
+Question 1048
+What resources are needed to travel on the State Forum?
+A: Action Points
+
+Question 1049
+In the RoK, which commander has the title "Beloved of Thoth"?
+A: Tutemos III
+
+Question 1050
+Who was the director of the game awarded Game of the Year at the Game Awards 2022?
+A: Hidetaka Miyazaki
+
+Question 1051
+In RoK, which of the following decorations needs to be purchased with Gems?
+A: Vase
+
+Question 1052
+Who is the Hindu god of destruction, also known as the "cosmic dancer"?
+A: Shiva
+
+Question 1053
+The Pantheon has been the burial place of many important artists since the Renaissance. Which of the following artists was buried there?
+A: Raphael
+
+Question 1054
+Which of these is one of Diaochan's Active Skills?
+A: Chaos Dance
+
+Question 1055
+Which country's flag holds the world record for being the oldest used national flag?
+A: Denmark
+
+Question 1056
+Which of the following empires did NOT participate in the Battle of the Three Emperors (also known as the Battle of Austerlitz)?
+A: The Persian Empire
+
+Question 1057
+In which country was the famous revolutionary and military strategist Simón Bolívar born?
+A: Venezuela
+
+Question 1058
+In what year did Mark Zuckerberg create Facebook?
+A: 2004
+
+Question 1059
+Which of these commanders is often described as having survived 57 engagements without a single defeat?
+A: Honda Tadakatsu
+
+Question 1060
+What is the capital of Scotland?
+A: Edinburgh
+
+Question 1061
+In the "Most Powerful Governor" event, what is the minimum rank you need to achieve to receive 10 commander sculptures from the event?
+A: 15th
+
+Question 1062
+In 1582, Oda Nobunaga was betrayed and ambushed byr his general Akechi Mitsuhide. Where did this occur?
+A: Honnō-Ji Temple in Kyoto
+
+Question 1063
+Of the following, which is most likely to have led directly to the Bronze Age?
+A: Bronze is harder and more durable than other metals available at the time.
+
+Question 1064
+What is the ideal temperature to roast a chicken in the hot barrel of an Ottoman cannon?
+A: 200ºC
+
+Question 1065
+What is the half-life of Iodine-129, a radioactive isotope produced by nuclear reactors?
+A: 15.7 million years
+
+Question 1066
+During a solar eclipse, the celestial object that lies between the Sun and Earth is:
+A: The Moon
+
+Question 1067
+How many players are there in the board game Go?
+A: 2
+
+Question 1068
+What were the Mayan pyramids made of?
+A: Stone
+
+Question 1069
+The daily physical activities of the Mayan people did NOT include:
+A: Penguin toss
+
+Question 1070
+Who wrote the novel "Decline of a Man"?
+A: Osamu Dazai
+
+Question 1071
+Which of these items cannot be obtained from an Equipment Chest?
+A: Tomes of Knowledge
+
+Question 1072
+Who was Edward of Woodstock's father?
+A: Edward III
+
+Question 1073
+Which of the following is not one of the Fates in Norse mythology?
+A: Karma
+
+Question 1074
+Which of these options is the most visited art museum in the world in recent years?
+A: Louvre
+
+Question 1075
+The Plague of Justinian of 541-549 was the first outbreak of the first plague pandemic. What other major was occurring in the Eastern Roman Empire at that time?
+A: The Gothic War
+
+Question 1076
+In which American war was the "Emancipation Proclamation" issued?
+A: Civil War
+
+Question 1077
+What is the shape of a soccer goal when viewed from the front?
+A: A rectangle
+
+Question 1078
+In RoK, which of Sun Tzu's abilities is improved by his specialty ability?
+A: Art of War
+
+Question 1079
+In RoK, there is a road paved with golden bricks that can be purchased for 100 Gems. What is her name?
+A: King's Road
+
+Question 1080
+Desertification mitigation methods do NOT include:
+A: Overexploitation of groundwater
+
+Question 1081
+In Norse mythology, who owns the hammer Mjölnir?
+A: Thor
+
+Question 1082
+Which of these Chinese ethnic groups is known for drinking kumis, a drink made from fermented mare's milk?
+A: Mongols
+
+Question 1083
+In RoK, what is the maximum number of gold mines a player can build?
+A: 4
+
+Question 1084
+Which of these works is not set during the Trojan War?
+A: Antigone
+
+Question 1085
+On which continent is Benin located?
+A: Africa
+
+Question 1086
+Who was responsible for leading brave warriors from Valhalla after death in Norse mythology?
+A: Valkyries
+
+Question 1087
+Which of these is NOT a typical step in sewage treatment?
+A: Download
+
+Question 1088
+When someone steps on a banana peel while wearing shoes, the coefficient of friction between the shoe and the banana peel is:
+A: 0.07
+
+Question 1089
+In RoK, which of the following is NOT one of Mulan's abilities?
+A: Smart Heart
+
+Question 1090
+Who kills Odin, the king of the gods, during Ragnarok in Norse mythology?
+A: Fenrir
+
+Question 1091
+In which country was Botticelli, painter of The Birth of Venus, born?
+A: Italy
+
+Question 1092
+Which of these cities is NOT in Asia?
+A: Melbourne
+
+Question 1093
+Li Xin, the ancestor of the "Flying General" Li Guang, was a general of which state during the Warring States period of Chinese history?
+A: Qin
+
+Question 1094
+Among the known ocean trenches, which is the deepest in the world?
+A: The Mariana Trench
+
+Question 1095
+Who was the only United States president to serve more than two terms?
+A: Franklin D. Roosevelt
+
+Question 1096
+According to Mayan chronology, the Late Preclassic Period falls into:
+A: 1 B.C. to 159 A.D.
+
+Question 1097
+In the fable "The Bremen Musicians" by the Brothers Grimm, a group of animals travel to Bremen in search of a musical career. Which of the following animals is NOT part of the group?
+A: Pig
+
+Question 1098
+Iguaçu Falls are on the border between which countries?
+A: Brazil and Argentina
+
+Question 1099
+Which of these historical figures was never involved in medicine?
+A: Justinian
+
+Question 1100
+Which of these modern countries is NOT located in the territory of the Mayan civilization?
+A: Dominican Republic
+
+Question 1101
+In RoK, what do you have to do to complete the "King's Sword" quest?
+A: Recruit 200 Infantry Units
+
+Question 1102
+In Mayan mythology, how many levels are there in heaven and underworld combined?
+A: 22
+
+Question 1103
+Which Futhark rune represents Tyr, the god of war and justice in Germanic mythology?
+A: Tiwaz
+
+Question 1104
+Which of the following trees is common in boreal ecosystems?
+A: Fir
+
+Question 1105
+According to World Athletics, which of these is NOT an official international discus weight?
+A: 1.25kg
+
+Question 1106
+Which of the following events occurred in North America during the Roaring Twenties?
+A: Start of publication of the magazine "Weird Tales"
+
+Question 1107
+Which of the following regions is the primary habitat of polar bears?
+A: Círculo Ártico
+
+Question 1108
+Which commander is known as the Lady of the Mercians?
+A: AEthelflaed
+
+Question 1109
+Who directed the film "Spring in a Little Town"?
+A: Fei Mu
+
+Question 1110
+In the 16th-17th centuries, what disease did the famous "plague doctors" masquerading as birds treat?
+A: Bubonic plague
+
+Question 1111
+In RoK, which of the following weapons can be used with the bow formation?
+A: Emblem of the North
+
+Question 1112
+Which of the following organs is part of the human respiratory system?
+A: Lungs
+
+Question 1113
+In RoK, which commander can fend off enemy attack buffs?
+A: Amanitore
+
+Question 1114
+Which of the following is NOT a ball game?
+A: Fencing
+
+Question 1115
+Who ordered the production of the civil manuscript popularly known as the Book of Judgment?
+A: William I
+
+Question 1116
+What is Commander Cao Cao's specialization skill called?
+A: Emperor Wu of Wei
+
+Question 1117
+In which mysterious country is Stonehenge located?
+A: United Kingdom
+
+Question 1118
+In RoK, what color is Matilda of Flanders's hem?
+A: Blue
+
+Question 1119
+Which of the following animals was on the imperial flag of the Inca Empire?
+A: Snake
+
+Question 1120
+What was the first film directed by Satoshi Kon?
+A: Perfect Blue
+
+Question 1121
+During nuclear fusion, which of the following elements produces less energy than it absorbs?
+A: Iron
+
+Question 1122
+Which of the following managers led his team to 13 English Football League titles?
+A: Alex Ferguson
+
+Question 1123
+On which continent was the Inca Empire located?
+A: South America
+
+Question 1124
+A crater on the far side of the Moon is named after a Chinese official who was (supposedly) the first person to travel to space. What was his name?
+A: Wan Hu
+
+Question 1125
+Which of the following living things are carnivores?
+A: Dragonflies
+
+Question 1126
+The Aral Sea was once the fourth largest lake in the world, but it has since largely dried up. Where is it located?
+A: Central Asia
+
+Question 1127
+Which of these is an incorrect description of the "Battle of Poitiers"?
+A: The campaign took place during the First World War
+
+Question 1128
+In Greek mythology, which judge of the dead was responsible for casting the deciding vote on all souls?
+A: Minos
+
+Question 1129
+What is the slogan of gun manufacturer Heckler & Koch?
+A: "No concessions!"
+
+Question 1130
+Which club has won the most English Football League titles?
+A: Manchester United
+
+Question 1131
+Who is the longest serving manager in the history of Arsenal FC?
+A: Arsene Wenger
+
+Question 1132
+When sailing during a storm, it is occasionally possible to see a "lightning" effect at the tip of the mast. What is the name of this phenomenon?
+A: St. Elmo’s Fire
+
+Question 1133
+The depth at the deepest point in the Baltic Sea is:
+A: 459m
+
+Question 1134
+Which of the following football clubs is NOT based in London?
+A: Everton
+
+Question 1135
+Which of the following is NOT a "blank weapon"?
+A: Pistol
+
+Question 1136
+In international chess, which side moves first?
+A: White
+
+Question 1137
+In the comic book "Batman", from DC Comics, which version of Robin died due to a reader vote?
+A: Jason Todd (Red Hood)
+
+Question 1138
+In her in-game dialogue, who does Cleopatra VII mention was murdered by her own senators?
+A: Julius Caesar
+
+Question 1139
+Sigmund Freud, father of psychoanalysis, was from which country?
+A: Austria
+
+Question 1140
+Which of the following reigns of Chinese emperors was known as the "Reign of Zhenguan"?
+A: Emperor Taizong of Tang
+
+Question 1141
+Who were the two belligerents in the Battle of Thermopylae?
+A: Greeks and Persians
+
+Question 1142
+Who won a Nobel Prize in two different areas?
+A: Marie Curie
+
+Question 1143
+Which of the following teams was the first to score 100 points in a single English Football League season?
+A: Manchester City
+
+Question 1144
+What is the increase in Gathering Speed when alliance members collect resources in the alliance territory?
+A: 25%
+
+Question 1145
+What is Belisario's nickname?
+A: The Last of the Romans
+
+Question 1146
+Which of these fruits does NOT grow on trees?
+A: Strawberry
+
+Question 1147
+In RoK, which commander is nicknamed "Queen of Silla"?
+A: Seondeok
+
+Question 1148
+To which army did the "Varangian Guard" belong?
+A: The Byzantine army
+
+Question 1149
+The Ottoman conquest of Constantinople in 1453 marked the end of the Eastern Roman Empire. Who was the Roman emperor at the time?
+A: Constantine XI Palaiologos
+
+Question 1150
+How long does the Builder Recruitment item last?
+A: 2 days
+
+Question 1151
+What is the biggest lake in Europe?
+A: Lake Ladoga
+
+Question 1152
+Who was the first Japanese author to receive the Nobel Prize for Literature?
+A: Yasunari Kawabata
+
+Question 1153
+Which of the following statements about Zhuge Liang in RoK is incorrect?
+A: He excels in leading cavalry units
+
+Question 1154
+Which of the following titles can only be used by an Islamic ruler?
+A: Sultan
+
+Question 1155
+Which of the following is not a benefit of upgrading your Tavern?
+A: Improves the variety of rewardsin Golden Chests
+
+Question 1156
+When upgrading your Warehouse from Lv. 24 for Lv. 25, Which resource gains more resource protection ability?
+A: Gold
+
+Question 1157
+In RoK, which of the following commanders excels in leading siege units?
+A: Margaret I
+
+Question 1158
+In RoK, which commander has the nickname "Zizka of the Chalice"?
+A: Jan Zizka
+
+Question 1159
+During China's Warring States Period, which state defeated the other six and built the unified Chinese empire?
+A: Qin
+
+Question 1160
+In China, rice dumplings (niangao) are a delicacy often eaten during Chinese New Year. Which of the following statements about niangao is INCORRECT?
+A: They are generally only consumed during Chinese New Year.
+
+Question 1161
+According to Chinese legend, which of the following is not one of the weaknesses of the terrible beast known as "Nian"?
+A: Water
+
+Question 1162
+During which Chinese dynasty was Siku Quanshu compiled?
+A: Qing
+
+Question 1163
+What day does Chinese New Year's Eve fall on the lunar calendar?
+A: One day before Lunar New Year
+
+Question 1164
+Which of the following Chinese zodiac animals is generally considered fictional?
+A: Dragon
+
+Question 1165
+Movable type was first used in which country?
+A: China
+
+Question 1166
+In what year did the Battle of Guandu take place?
+A: 200 (non-AC)
+
+Question 1167
+Which Chinese poet wrote the poem "Li Sao"?
+A: Qu Yuan
+
+Question 1168
+In his in-game dialogue, which commanders does Sun Tzu warn the governor to keep an eye on?
+A: Cao Cao
+
+Question 1169
+The Forbidden City was built during the rule of which Chinese dynasty?
+A: Ming
+
+Question 1170
+Who burned down Epang Palace, built during the Qin Dynasty in China?
+A: Xiang Yu
+
+Question 1171
+Which of the following is not a common Chinese New Year tradition?
+A: Eating mooncakes
+
+Question 1172
+Which of the following forms was NOT used by the "White Bone Spirit" in his legendary battle against the Monkey King Sun Wukong in the "Journey to the West".
+A: A boy
+
+Question 1173
+"One hundred and forty thousand, all unarmed! Among these was not a single man"? Which Tang dynasty poet wrote this couplet?
+A: Madam Huarui
+
+Question 1174
+Which ancient Chinese dynasty followed the Shang dynasty?
+A: The Zhou Dynasty
+
+Question 1175
+Which of the following civilizations provides an increase in construction speed?
+A: China
+
+Question 1176
+In which category does the formal writing system of ancient Egypt fall?
+A: Hieroglyphic
+
+Question 1177
+Who painted Luo River Nymph?
+A: Gu Kaizhi
+
+Question 1178
+Which of these was NOT one of the so-called "24 heroes" of Lingyan Pavilion?
+A: Li Mi
+
+Question 1179
+In which court was "Huainanzi" compiled into a book?
+A: Liu An
+
+Question 1180
+"Running manuscript" is a style of Chinese calligraphy. Which of the following works is NOT written in this form?
+A: Duobao Pagoda Stele
+
+Question 1181
+Which of these figures is NOT referenced in the title of the ancient Chinese poem: "Eight Immortals of the Wine Cup"?
+A: Du Fu
+
+Question 1182
+How many stars appear on the banner displayed behind Commander Minamoto no Yoshitsune?
+A: 3
+
+Question 1183
+In the Chinese folk story "The Cowboy and the Weaver", which constellation does the cowboy represent?
+A: Aquila
+
+Question 1184
+Who wrote the novel "The Scholars"?
+A: Wu Jingzi
+
+Question 1185
+In RoK, which of the following characters does Sun Tzu mention in his dialogue Trust?
+A: Mulan
+
+Question 1186
+The Qingming map captures the daily life and landscape of which ancient Chinese dynasty?
+A: Song
+
+Question 1187
+The Battle of Changping was fought between which two forces?
+A: Kingdoms of Qin and Zhao
+
+Question 1188
+Who was the last Emperor of China?
+A: Emperor Xuantong (Puyi)
+
+Question 1189
+Each animal in the Chinese zodiac is associated with one of the five classical Chinese elements. Which element has the most zodiac animals associated with it?
+A: Earth
+
+Question 1190
+Where is the Mausoleum of the First Qin Emperor located in China?
+A: Shaanxi
+
+Question 1191
+Which of the following is not considered one of the Four Great Inventions of ancient China?
+A: Seismograph
+
+Question 1192
+The Temple of Heaven in China was built during the reign of which emperor?
+A: The Yongle Emperor (Shy Di)
+
+Question 1193
+Amethyst is prized for its bright violet hue. What mineral is it a variety of?
+A: Quartz
+
+Question 1194
+Who founded the Order of the Garter in England?
+A: Edward III
+
+Question 1195
+Which of these statements about the title "tribune of the plebs" is incorrect?
+A: They were completely subservient to the Senate
+
+Question 1196
+What is the largest airport in the world by area?
+A: King Fahd International Airport
+
+Question 1197
+What is the most abundant substance in a healthy adult's body?
+A: Water
+
+Question 1198
+Which of the following is not a noble gas?
+A: Oxygen
+
+Question 1199
+Which of these materials is used to forge collection and peacekeeping equipment?
+A: Animal bone
+
+Question 1200
+Ilhamas are native to which continent?
+A: South America
+
+Question 1201
+What is the island peaktallest in the world?
+A: Puncak Jaya
+
+Question 1202
+In the State Forum envo "The Twilight Woods", the titular woods are in which direction from the city?
+A: West
+
+Question 1203
+In 1689, which two rulers granted royal assent to the English Bill of Rights?
+A: William III and Mary II
+
+Question 1204
+Which of the following plays by Shakespeare is a romantic comedy written sometime between 1590 and 1596?
+A: A Midsummer Night's Dream
+
+Question 1205
+Who is Matilda of Flanders' husband?
+A: William I (William)
+
+Question 1206
+In the human body, which of the following bones is closest to the heart?
+A: Sternum
+
+Question 1207
+Which of the following units of measurement is NOT used to measure ionizing radiation?
+A: Lumens
+
+Question 1208
+With which of these rulers did Queen Tamar of Georgia form a non-aggression pact?
+A: Saladin
