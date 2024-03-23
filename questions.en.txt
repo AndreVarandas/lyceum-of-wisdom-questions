@@ -1814,7 +1814,7 @@ Question 458
 Which of the following does NOT increase an Alliance membership limit?
 A: Appoint officers
 
-Question 459 (idem 25)
+Question 459
 Which of the following does NOT grant Individual Credits?
 A: Attack barbarians
 
@@ -3570,7 +3570,7 @@ Question 899
 What official measure made a crime give Martin Luther food and shelter?
 A: WORMS ÉCITO
 
-Question 900 (Idem 232)
+Question 900
 "Machu Picchu" is a remarkable relic of which civilization?
 A: The Incas
 

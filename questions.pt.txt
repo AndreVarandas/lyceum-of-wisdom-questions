@@ -1814,7 +1814,7 @@ Questão 458
 Qual das seguintes opções NÃO aumenta o limite de membros de uma Aliança?
 R: Indicar oficiais
 
-Questão 459 (idem 25)
+Questão 459
 Qual das opções seguir NÃO concede Créditos Individuais?
 R: Atacar bárbaros
 
@@ -3570,7 +3570,7 @@ Questão 899
 Que medida oficial tornou um crime dar a Martinho Lutero comida e abrigo?
 R: Édito de Worms
 
-Questão 900 (idem 232)
+Questão 900
 "Machu Picchu" é uma relíquia notável de qual civilização?
 R: Os Incas
 
